@@ -1,2 +1,2 @@
-# raynamharris.github.io
-Rayna M Harris
+# [Rayna M Harris](http://raynamharris.github.io)
+

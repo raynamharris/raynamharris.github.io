@@ -11,11 +11,11 @@ sitemap:
 Education
 =========
 
-**The University of Texas at Austin** B.S. Biochemistry, 2006
+**The University of Texas at Austin.** B.S. Biochemistry, 2006
 
-**The University of Texas at Austin** Ph.D. Cell and Molecular Biology, 2017
+**The University of Texas at Austin.** Ph.D. Cell and Molecular Biology, 2017
     
-**The University of California, Davis** Postdoctoral Researcher, Current
+**The University of California, Davis.** Postdoctoral Researcher, Current
 
 Honors and Awards
 ===========

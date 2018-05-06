@@ -18,21 +18,24 @@ You can view the video [here][6] and view my slides [here][2].
 
 I knew I would have a sign language interpreter with me on stage, so I tried to minimize jargon and define the scientific words I used. I recorded myself practicing my talk and critiqued the video playback about six times. I focused on reducing my use of filler words "um" and "like". I specifically asked the interpreter to create a sign for "[microbiome][3]" because I knew I would use it more than a dozen times.
 
-<img src="{{ "/images/zombieinsta.jpg" | absolute_url }}" alt="" />
+
+![image1](/images/zombieinsta.jpg)
+
 _On stage with a sign language translator and a 'Tom Waits does David Attenborough' impersonator. Instagram photos available at /._
 
 ### Incorporating live performance and YouTube videos
 
 I wanted to show this [BBC David Attenborough video][4], but I was worried that people would be bored or that the sound quality would be bad, so I decided to play the video on silent and add my own sound. I invited my friend Joseph Palmer to narrate it using his amazing impersonation Tom Waits. With the help of the sound engineer, I cued a clip of [Tom Waits Oily Night song][5] to provide an eerie backdrop. Joseph's performance received much applause and laughter. It was awesome!
 
-<img src="{{ "/images/zombietwitter.jpg" | absolute_url }}" alt="" />
+![image2](/images/zombietwitter.jpg)
+
 _Watch this 30-second video clip of the Tom Waits-narrated footage of an infected insect being evicted from the social colony at https://twitter.com/R0mination/status/951295758615171072._
 
 ### The 3 main themes of my talk
 
 I decided that I would cover three main topics during my talk: parasitic mind control in insects, the link between the gut microbiome and the brain in humans, and the potential for parasitic mind control in humans. I opened with a definition of the word "microbiome" because I thought that was the best hook and it allowed me to engage the hearing-impaired viewers with a brand new sign. But, then, I launched into the 3 parts in the ordered described. This collage of images provides a good overview of my talk.
 
-<img src="{{ "/images/zombiebrains.jpg" | absolute_url }}" alt="" />
+![image3](/images/zombiebrains.jpg)
 
 _These are all the images I used in my talk to illustrate beautiful biological phenomena and link it to current social phenomena._
 

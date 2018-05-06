@@ -1,38 +1,55 @@
-<!DOCTYPE html>
+---
+layout: null
+title: Jekyll Theme - Home Page - Massively
+description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
+	<head>
+    {% include head.html %}
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Raynamharris.GitHub.io : Rayna M Harris">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+	</head>
+	<body class="is-loading">
 
-    <title>Raynamharris.GitHub.io</title>
- 
-  </head>
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-  <body>
+				<!-- Intro -->
+					<div id="intro">
+                        <h1>Rayna Harris</h1>
+						<h2>Scientist, Educator, Community Builder</h2>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/raynamharris/raynamharris.github.io/">View on GitHub</a>
-          <h1 id="project_title">Rayna M. Harris</h1>
-          
-    <!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-          
-        </header>
-    </div>
+					</div>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h2>
-<a id="About Me" class="anchor" href="#research" aria-hidden="true"><span class="octicon octicon-link"></span></a>Research</h2>
+				<!-- Nav -->
+					<nav id="nav">
 
-<img align="right" src="https://cloud.githubusercontent.com/assets/7544197/15807084/883a686e-2b21-11e6-80cb-d000e97c8d26.jpg" height="200" width="160">
+            {% include nav.html %}
+
+						<ul class="icons">
+              <li><a href="https://twitter.com/rayna.harris" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+              <li><a href="https://www.facebook.com/rayna.harris.9" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+              <li><a href="https://www.instagram.com/raynamharris/" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
+              <li><a href="https://github.com/raynamharris" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+              <li><a href="https://www.linkedin.com/in/rayna-harris-484802ba/" class="icon fa-linkedin" rel="nofollow"><span class="label">LinkedIn</span></a></li>
+						</ul>
+						
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
 
 <p>	I am currently a post-doctoral researcher in <a href="http://ivory.idyll.org/lab/">Titus Brown's lab</a> 
 	at The University of California, Davis.  
@@ -46,168 +63,53 @@
 	   
  </p>
 
-<p> You can view <a href="https://github.com/raynamharris/CV/blob/master/CV.pdf">my CV here</a> and <a href="https://github.com/raynamharris/CV/blob/master/Resume.pdf">my resume here.</p>
-		           
-<div class="social">
-	<span class="github">
-		<a class="github-button" href="https://github.com/raynamharris" aria-label="Follow @raynamharris on GitHub">Follow @raynamharris</a>
-	</span>
-	<span class="twitter">
-		<a href="https://twitter.com/raynamharris" class="twitter-follow-button" data-show-count="false">Follow @raynamharris</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-	</span>
-	<span class="linkedin">
-		<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-		<script type="IN/MemberProfile" data-id="https://www.linkedin.com/pub/rayna-harris/ba/802/484" data-format="hover" data-text="Rayna Harris"></script>
-	</span>
-</div>
-	      
-<h2>
-<a id="publications" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Publications</h2>
 
-<p>For publication details visit <a href="http://scholar.google.com/citations?user=_bVy9pMAAAAJ&amp;hl=en&amp;oi=ao">my Google Scholar page</a> or <a href="http://orcid.org/0000-0002-7943-5650">my ORCID page</a>. </p>
+							</article>
+							
+							
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-	      
-<ol reversed>
+						<!-- Posts -->
+							<section class="posts">
+                {% for post in site.posts limit:3 %}
+                {% assign mod3 = forloop.index | modulo: 3 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  									</ul>
+  								</article>
+                  {% if mod3 == 0 %}
+                  <article>
+  									<header>
+  										<h2><a href="#">Sponsored</a></h2>
+  									</header>
 
-<li>The one with transcriptomics of avoidance.
-	<a href="https://github.com/raynamharris/IntegrativeProjectWT2015">In prep. </a>
-	</li>
-<li>The one with fragile X transcriptomics. 
-	<a href="https://github.com/raynamharris/FMR1CA1rnaseq">In prep. </a>
-	</li>		
-<li>The one with lesson development rules.
-	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Article.</a>
-	<div style="display: inline" data-badge-type="4" data-arxiv-id="1707.02662" data-hide-no-mentions="false" class="altmetric-embed"></div></li>	
-<li>The one with reproducible brain transcriptomics.
-	<a href="http://biorxiv.org/content/early/2017/06/21/153585">Article.</a>
-	<div style="display: inline" data-badge-type="4" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed"></div></li>	
-<li>The one with mating systems and microarrays.
-	<a href="http://www.nrcresearchpress.com/doi/abs/10.1139/gen-2017-0075?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed">Article.</a>
-	<div style="display: inline" data-badge-type="4" data-doi="10.1139/gen-2017-0075" data-hide-no-mentions="false" class="altmetric-embed"></div></li>		
-<li>The one with body color and social behavior.
-	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/dijkstra_et_al._2017.pdf">PDF.</a>
-	<div style="display: inline" data-badge-type="4" data-doi="10.1098/rspb.2016.2838" data-hide-no-mentions="false" class="altmetric-embed"></div></li>	
-<li>The one with crab neurons and gene expression.   
-	<a href="http://biorxiv.org/content/early/2017/02/10/107342">PDF.</a> 
-	<div style="display: inline"  data-badge-type="4" data-doi="10.1101/107342." data-hide-no-mentions="false" class="altmetric-embed"></div> </li>
-<li>The one with brain evolution and development. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118316757.ch15/summary;jsessionid=EB7AD7A6F077FF7A89EEE0C71E70A8FD.f02t03">Article</a>.
-	<div style="display: inline" data-badge-type="4" data-doi="10.1002/9781118316757.ch15" data-hide-no-mentions="false" class="altmetric-embed"></div> </li>	
-<li>The one with aromatase and sex changing cichlids. 
-	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/goppert_et_al._2016.pdf">PDF.</a>
-	<div style="display: inline" data-badge-type="4" data-doi="10.1159/000445463" data-hide-no-mentions="false" class="altmetric-embed"></div></li>
-<li>The one with vasopressin and space use theory. 
-	<a href="http://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-12-S1-S16">Link.</a> 
-	<div style="display: inline" data-badge-type="4" data-doi="10.1186/1742-9994-12-S1-S16" data-hide-no-mentions="false" class="altmetric-embed"></div> </li>
-<li>The one with wrasse reproductive tactics. 
-	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2015.stiver.ethology_0.pdf">PDF.</a> 
-	<div style="display: inline"  data-badge-type="4" data-doi="10.1111/eth.12324" data-hide-no-mentions="false" class="altmetric-embed"></div>  </li>
-<li>The one with tilapia response to pheromones.
-	<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1255-4">Link.</a> 
-	<div style="display: inline"  data-badge-type="4" data-doi="10.1186/s12864-015-1255-4." data-hide-no-mentions="false" class="altmetric-embed"></div> </li>  
-<li>The one with opsin gene evolution.
-	<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4321264/">Link.</a> 
-	<div style="display: inline" data-badge-type="4" data-doi="10.1073/pnas.1423685112" data-hide-no-mentions="false" class="altmetric-embed"></div> </li>
-<li>The one with the five cichlid genomes. 
-	<a href="http://www.nature.com/nature/journal/v513/n7518/abs/nature13726.html">Link.</a> 
-	<div style="display: inline"  data-badge-type="4" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="false" class="altmetric-embed"></div> </li>
-<li>The one with swordtails, hormones, and body size.
-	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.smith_.biofish.pdf">PDF.</a>
-	<div style="display: inline"  data-badge-type="4" data-doi="10.1007/s10641-014-0234-y" data-hide-no-mentions="false" class="altmetric-embed"></div></li>
-<li>The one with stressed-out guppies.
-	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.fischer.hb_.pdf">PDF.</a> 
-	<div style="display: inline"  data-badge-type="4" data-doi="10.1016/j.yhbeh.2013.12.010" data-hide-no-mentions="false" class="altmetric-embed"></div></li>
-<li>The one with social behavior and genomics. 
-	<a href="http://link.springer.com/chapter/10.1007/978-94-007-7347-9_8">Link.</a> 
-	<div style="display: inline" data-badge-type="4" data-doi="10.1007/978-94-007-7347-9_8." data-hide-no-mentions="false" class="altmetric-embed"></div> </li>
-<li>The one with pro-opiomelanocortin gene evolution. 
-	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.harris.gce_.pdf">PDF.</a> 
-	<div style="display: inline"  data-badge-type="4" data-doi="10.1016/j.ygcen.2013.10.007" data-hide-no-mentions="false" class="altmetric-embed"></div></li>
-<li>The one with monogamy and steroid hormones. 
-	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2013.sessa_.gce_.pdf">PDF.</a> 
-	<div style="display: inline"  data-badge-type="4" data-doi="10.1016/j.ygcen.2013.04.031" data-hide-no-mentions="false" class="altmetric-embed"></div> </li>
-<li>The one with monogamy and peptides. 
-	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2013.oldfield.hb_.pdf">PDF.</a> 
-	<div style="display: inline"  data-badge-type="4" data-doi="10.1016/j.yhbeh.2013.04.006" data-hide-no-mentions="false" class="altmetric-embed"></div> </li>
-</ol>
-	      
-      
-<h2>
-<a id="Teaching" class="anchor" href="#teaching" aria-hidden="true"><span class="octicon octicon-link"></span></a>Teaching</h2>
-<p>I really enjoy teaching and mentoring. Some teaching highlights including teaching undergraduate organic chemistry laboratory skills, teaching <a href="http://swcarpentry.github.io/instructor-training/">Software Carpentry Instructor Training</a>, and teaching molecular neuroscience during the summer at the <a href="http://www.mbl.edu/nsb/">Marine Biological Laboratories (MBL)</a> in Woods Hole Massachussets. </p>
-	
-<p> Some of my teaching materials are published and freely available under a Creative Commons license.
-<ul type="circle"> 
-	
-<li>Software Carpentry: Control de Versiones con Git. 
-	<a href="https://zenodo.org/record/1197332#.WqvcjZPwbdQ">Link</a>. 
-	<div style="display: inline" data-badge-type="4" data-doi="10.5281/zenodo.1197332" data-hide-no-mentions="false" class="altmetric-embed"></div> </li>
+  								</article>
+                  {% endif %}
+                {% endfor %}
 
-<li>Software Carpentry: La Terminal de Unix. 
-	<a href="https://zenodo.org/record/1198732#.WqvcIJPwbdQ">Link</a>. 
-	<div style="display: inline" data-badge-type="4" data-doi="10.5281/zenodo.1198732" data-hide-no-mentions="false" class="altmetric-embed"></div> </li>
-	
-<li>Software Carpentry: Instructor Training. 
-	<a href="https://zenodo.org/record/891478#.WqvbupPwbdQ">Link</a>. 
-	<div style="display: inline" data-badge-type="4" data-doi="10.5281/zenodo.891478" data-hide-no-mentions="false" class="altmetric-embed"></div> </li>
+							</section>
 
-<li>Laboratory Experiments for Integrative Molecular Neuroethology. 
-	<a href="https://zenodo.org/record/60725#.V82tihArLdQ">Link</a>. 
-	<div style="display: inline" data-badge-type="4" data-doi="10.5281/zenodo.60725" data-hide-no-mentions="false" class="altmetric-embed"></div> </li>
-</ul>
-		      
-	      
-<h2>
-<a id="Community" class="anchor" href="#community" aria-hidden="true"><span class="octicon octicon-link"></span></a>Community</h2>
-<p>I enjoy bringing people together to talk about science, especially when I see that these interactions foster new relationships and projects. The <a href="http://swcarpentry.github.io/">Software Carpentry (SWC)</a> and <a href="http://www.datacarpentry.org/">Data Carpentry </a> organizations bring together people from all over the world, from all different disciplines, to talk about challenges and opportunities for today's researchers. It's an honor to be on the SWC Steering Committee, where I have the chance to learn about community needs and implement new programs to meet those needs.   Working with the <a href="http://ccbb.biosci.utexas.edu/index.html">The Center for Computational Biology and Bioinformatics</a>, I have many opportunities to organize networking events, <a href="http://ccbb.biosci.utexas.edu/dataconference.html">yearly symposia</a>, and <a href="http://ccbb.biosci.utexas.edu/training.html">training opportunities</a> for researchers using computational approaches to solve biological problems.</p>
-<iframe src="https://player.vimeo.com/video/118641171" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+						<!-- Footer -->
+							<footer>
 
-<h2>
-<a id="blogs" class="anchor" href="#blogs" aria-hidden="true"><span class="octicon octicon-link"></span></a>Blogs</h2>
-<p>I have written a handful of guest blog posts for <a href="http://neuro.plos.org/">PLOS Neuroscience</a>, <a href="http://beacon-center.org/">BEACON</a>, and <a href="http://software-carpentry.org/index.html">Software Carpentry</a> on topics related to academic research, education, and mentoring. All of these blogs can be found <a href="https://medium.com/@raynamharris">here on Medium</a>.</p>
+							</footer>
 
-<script async src="https://static.medium.com/embed.js"></script><a class="m-profile" href="https://medium.com/@raynamharris">Rayna M Harris</a>
+					</div>
 
-	     	      
-<h2>
-<a id="Hablando en español" class="anchor" href="#spanish" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hablando en español</h2>	      
+				<!-- Footer -->
+        {% include foot.html %}
 
-<p>Para aprender español, tomé algunos cursos en la escuela y un curso intensivo en el Ecuador. En 2008 fui a Costa Rica hacer la investigación científica en el Instituto Nacional de Biodiversidad. Allí, trabajé en el campo y el laboratorio. Todos los meses, fui con dos compañeros de trabajo en el Caribe o del Pacífico para bucear y recoger muestras de sedimento. Luego regresamos al laboratorio para crecer y examinar la micro-hongos que viven en el sedimento. Aprendí mucho y tenía una experiencia increíble.  Al año siguiente, cuando volví a Austin, enseñé clases de español a los niños en la escuela primaria. De vez en cuando, traduzco documentos del Inglés al español o viceversa y chat en español con amigos a través de cervezas o copas de vino.</p>
+			</div>
 
-	      
-	      
-<h2>
-<a id="Contact Information" class="anchor" href="#contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contact Information</h2>
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
 
-rayna.harris[at]utexas.edu
-   </section>
-    </div>
-	 
-<section>
-	<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
- </section>
-
-
-
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-              <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-58133703-1");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
-
-
-  </body>
+	</body>
 </html>

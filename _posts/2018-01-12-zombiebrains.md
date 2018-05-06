@@ -36,7 +36,7 @@ _Watch this 30-second video clip of the Tom Waits-narrated footage of an infecte
 
 I decided that I would cover three main topics during my talk: parasitic mind control in insects, the link between the gut microbiome and the brain in humans, and the potential for parasitic mind control in humans. I opened with a definition of the word "microbiome" because I thought that was the best hook and it allowed me to engage the hearing-impaired viewers with a brand new sign. But, then, I launched into the 3 parts in the ordered described. This collage of images provides a good overview of my talk.
 
-![image3](/images/zombiebrains.jpg)
+![image3](/images/zombiebrains.jpeg)
 
 _These are all the images I used in my talk to illustrate beautiful biological phenomena and link it to current social phenomena._
 

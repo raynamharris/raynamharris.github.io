@@ -4,7 +4,7 @@ title:  "Using music, beer, and pop-culture to communicate science"
 date:   2018-05-02
 excerpt: "A little bit about my Nerd Nite talk called Zombie Brains: Microbial Mind Control"
 image: "/images/zombiebrains.jpg"
-tags: "science", "NerdNite", "microbiome", "neuroscience", "evolution", "social behavior"
+tags: science NerdNite microbiom neuroscience evolution social behavior
 ---
 
 

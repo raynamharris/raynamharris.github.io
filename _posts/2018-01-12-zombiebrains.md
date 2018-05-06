@@ -8,11 +8,12 @@ tags: science neuroscience microbiome scicomm
 ---
 
 
-I recently gave a talk at The North Door for [Nerd Nite Austin][1]. This is a monthly event with an audience of 250 partially inebriated nerds, including about a dozen colleagues and friends. I put a lot of effort into making it fun and relatable, so I thought I would share some of the details about how and why I gave what I think is my best talk ever.
-
+I recently gave a talk at The North Door for [Nerd Nite Austin][1]. This is a monthly event with an audience of 250 partially inebriated nerds, including about a dozen colleagues and friends. I put a lot of effort into making it fun and relatable, so I thought I would share some of the details about how and why I gave what I think is my best talk ever. You can view the video [here][6] and view my slides [here][2].
+ 
 <script async class="speakerdeck-embed" data-id="162320df6cf14f0e8e84345ae98d2edb" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-You can view the video [here][6] and view my slides [here][2].
+<iframe src="https://player.vimeo.com/video/260702233" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/260702233">&quot;Zombie Brains: Microbial Mind Control,&quot; by Rayna Harris</a> from <a href="https://vimeo.com/nerdniteaustin">Nerd Nite - Austin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### Science and sign language
 

@@ -41,7 +41,9 @@ instagram:          "raynamharris"
 github:             "raynamharris"
 linkedin:           "rayna-harris-484802ba" 
 
-# personal
+# medium feed
+collections:
+  - external_feed
 
 # Gems
 gems:

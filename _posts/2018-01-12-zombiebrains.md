@@ -1,16 +1,12 @@
 ---
 layout: post
 title:  "Using music, beer, and pop-culture to communicate science"
-date:   2018-05-02
+date:   2018-01-02
 excerpt: "A little bit about my Nerd Nite talk called Zombie Brains: Microbial Mind Control"
-image: "/images/zombiebrains.jpg"
-tags: science NerdNite microbiom neuroscience evolution social behavior
+image: "/images/zombiebrains.jpeg"
+tags: science neuroscience microbiome scicomm
 ---
 
-
-#  – Rayna M Harris – Medium
-
-> Zombie Brains: Microbial Mind Control
 
 I recently gave a talk at The North Door for [Nerd Nite Austin][1]. This is a monthly event with an audience of 250 partially inebriated nerds, including about a dozen colleagues and friends. I put a lot of effort into making it fun and relatable, so I thought I would share some of the details about how and why I gave what I think is my best talk ever.
 

@@ -4,7 +4,7 @@ title:  "Increasing transparency in postdoc hiring and on-boarding"
 date:   2018-05-02
 excerpt: "A brief summary of the interview process for my  postdoc with Titus Brown."
 image: "/images/dog-with-computer.jpg"
-tags: "commonspilot", "data commons", "software carpentry", "postdoclife", "salary", "interview"
+tags: datacommons postdoc DIBlab
 ---
 
 This week I started a post-doc working in Titus Brown's Data Intensive Biology lab. If there is such a thing as a dream job, this is it. I've interacted with Titus and his lab members many times through [BEACON](https://www3.beacon-center.org/), the [Marine Biological Laboratory](http://www.mbl.edu/), [Software Carpentry](https://software-carpentry.org/), and [Data Carpentry](http://www.datacarpentry.org/).  

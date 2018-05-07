@@ -3,7 +3,7 @@ layout: post
 title:  "CarpentryCon West 2018"
 date:   2018-05-02
 excerpt: "A gathering of Carpenties in sunny Davis, CA for software, data, and community."
-image: "/images/carpentryconwest.jpg"
+image: "/images/carpentryconwest.png"
 tags:  softwarecarpentry data carpentry postdoc DIBlab
 ---
 

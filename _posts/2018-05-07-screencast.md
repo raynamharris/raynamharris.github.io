@@ -47,4 +47,4 @@ The way I see it, on Day 0 of the DCPPC, each member of the consortium possessed
 If you are bored, here is a gallery of screen casts to watch for inspiration. 
 I highly recommend watching all demos at 2x speed. 
 
-- [ipython notebook introduction by Titus Brown](https://www.youtube.com/watch?v=HaS4NXxL5Qc) password for amazon
+- [ipython notebook introduction by Titus Brown](https://www.youtube.com/watch?v=HaS4NXxL5Qc) 

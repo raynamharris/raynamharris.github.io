@@ -2,7 +2,7 @@
 layout: post
 title:  "Using music, beer, and pop-culture to communicate science"
 date:   2018-01-02
-excerpt: "A little bit about my Nerd Nite talk called Zombie Brains: Microbial Mind Control"
+excerpt: "A little bit about my Nerd Nite talk called Zombie Brains: Microbial Mind Control. TLDR: David Attenborough meets Tom Waits meets Ed Yong"
 image: "/images/zombiebrains.jpeg"
 tags: science neuroscience microbiome scicomm
 ---

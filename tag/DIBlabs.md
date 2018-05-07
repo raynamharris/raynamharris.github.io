@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: DIBlab"
-tag: DIBlab
+title: "Tag: DIBlabs"
+tag: DIBlabs
 robots: noindex
 ---

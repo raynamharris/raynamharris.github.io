@@ -2,12 +2,10 @@
 layout: post
 title:  "CarpentryCon West 2018"
 date:   2018-05-06
-excerpt: "A gathering of Carpenties in sunny Davis, CA for software, data, and community."
+excerpt: "A community gathering of the Carpentries in sunny Davis, CA"
 image: "/images/carpentryconwest.png"
 tags:  softwarecarpentry data carpentry postdoc DIBlab
 ---
-
-# CarpentryCon West 2018
 
 _Note: If you are looking for the international CarpentryCon event taking place in Dublin on 30 May - 1 June, 2018, please visit http://www.carpentrycon.org/._
 

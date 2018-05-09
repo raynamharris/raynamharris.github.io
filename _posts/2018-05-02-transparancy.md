@@ -2,7 +2,7 @@
 layout: post
 title:  "Increasing transparency in postdoc hiring and on-boarding"
 date:   2018-05-02
-excerpt: "A brief summary of the interview process for my  postdoc with Titus Brown."
+excerpt: "A brief summary of the interview process for my  postdoc with Titus Brown. Highlights include: collaborative documents for interview questions, salary negotiations, and science communication"
 image: "/images/dog-with-computer.jpg"
 tags: datacommons postdoclife DIBlab
 ---

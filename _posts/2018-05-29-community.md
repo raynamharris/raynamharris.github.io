@@ -20,7 +20,7 @@ The overall structure of the DCPPC is a little complex, especially to the uninit
 
 On top of the KC lingo, each of the awardees all adopted team names from the elements of the periodic table, so you'll hear thing things like "KC1 has a meeting on Wednesday" or "Team Copper is meeting on Tuesday". I made infographic below to help myself see the connections between the DCPPC objections, key capacities and teams. 
 
-![fig1](../images/dcppc-cheatsheet-02.png)
+![fig1](/images/dcppc-cheatsheet-02.png)
 
 I am a member of Team Copper, which consistes of members or affiliates of [the Data Intensive Biology Lab][DIBlab] at UC Davis (C. Titus Brown, Phillip Brooks, Rebecca Calisi Rodriguez, Amanda Charbonneau, Rayna Harris, Luiz Irber, Tamer Mansour, Charles Reid, Daniel Standage and Karen Word), the Biomedical data analysis company [Curoverse][curoverse] (Alexander (Sasha) Wait Zaranek, VM (Vicky) Brasseur, Sarah Edrie, Meredith Gamble and Sarah Wait Zaranek), and the [Harvard Chan Bioinformatics Core][hcbc] (Brad Chapman, Radhika Khetani and Mary Piper).
 
@@ -34,7 +34,7 @@ How did we get all the information about 500 milestones ingot GitHub issues? **W
 
 Right now, the DCPPC bot only deals with DCPPC milestones and deliverables, but you could imagine how this tools could be modified and adapted to many other large-scale community projects. 
 
-![fig2](../images/dcppcbot.png)
+![fig2](/images/dcppcbot.png)
 
 ## On-boarding existing and new members
 

@@ -7,7 +7,6 @@ image: "/images/dcppclogo.jpg"
 tags:  datacommons
 ---
 
-# 
 
 In November 2017, the National Institutes of Health (NIH) [announced][press1] the formation of a Data Commons Pilot Phase Consortium (DCPPC) to accelerate biomedical discovery by making big biomedical data more findable and usable. 
 

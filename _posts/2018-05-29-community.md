@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open-source style community engagement for the Data Commons Pilot Phase Consortium"
-date:   2018-05-17
+date:   2018-05-29
 excerpt: "This blog post discusses how we are building an open community around a larger goal of making big data more findable and usable to accelerate biomedical discovery"
 image: "/images/dcppclogo.jpg"
 tags:  datacommons

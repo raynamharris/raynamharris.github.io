@@ -28,7 +28,7 @@ I am a member of Team Copper, which consistes of members or affiliates of [the D
 
 Very early on, it was decided that [GitHub](https://github.com/) would be our authoritative and canonical source for all DCPPC milestones and deliverables. What are milestones and deliverables? Milestones are team-defined tasks that must be completed in order to achieve the long-term objective of the DCPPC. Deliverables are the currency by which we evaluate whether or not a milestone has been reached. Deliverables can be in either the form of a demo (activities or documentation that demonstrate completion of goals of the Commons) or products (resources such as standards and conventions, APIs, data resources, websites, repositories, documentation, and training or outreach materials). The DCPPC has defined 522 milestones and 50 deliverables that are due in the first 180 days (between April 1 and September 28, 2018). 
 
-Why GitHub? We chose GitHub because it makes cross-project linking and commenting easy and many people are familiar with it. 
+_Why GitHub?__ We chose GitHub because it makes cross-project linking and commenting easy and many people are familiar with it. 
 
 How did we get all the information about 500 milestones ingot GitHub issues? **We automated it!** One of the first accomplishments of Team Copper was developed a collection of scripts (collectively referred to as the "DCPPC bot") that takes a CSV file of all the milestones and deliverables and opens GitHub issues with a brief description, a due date, and a label corresponding the relevant Team. 
 

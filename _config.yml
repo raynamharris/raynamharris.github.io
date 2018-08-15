@@ -1,5 +1,5 @@
 # Site
-title:              Rayna Harris
+title:              Data Commons Tutorials
 bio:                'Scientist, Educator, Community Builder, Translator'
 description:        "  "
 locale:             en_US
@@ -30,8 +30,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:   default
 
 # Social
 analytics-id:       "default"

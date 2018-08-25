@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A growth mindset for learning languages"
-date:   2018-05-29
+date:   2018-08-24
 excerpt: "Three years in the making for instructor training and spanish Carpentry workshops in latin America"
 image: "/images/carpentryTTT-01.png"
 tags:  softwarecarpentry datacarpentry instructortraining

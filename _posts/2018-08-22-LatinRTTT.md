@@ -39,6 +39,6 @@ As with the lesson translations, everyone is enthusiastic about orgainzeing more
 I've also come along way since this started. In 3 years my fluency in verbal and computing languages has grown. In 2015 I didn't think I was talented enough to teach programming in Spanish, but by early 2018 I had gained the experience and expertise necessary. It required some perseverance, but I didn't do it alone; many colleagues around the globe contributed support along to help turn some of these ideas into a reality. I think its a beutiful example of how having a growth mindset, grit, and community support is really important when we thinking about expanding the Carpentries into new communities. 
 
 ### Thanks
-I want to thanks Paula and Maria Florencia
+I want to thanks Paula Andrea Martinez and Maria Florencia for comments on earlier versions of this post. Thank to everyone who helped make all these events happen!
 
 

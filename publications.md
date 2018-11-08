@@ -50,7 +50,9 @@ sitemap:
 <li>The one with mating systems and microarrays.
 	<a href="http://www.nrcresearchpress.com/doi/abs/10.1139/gen-2017-0075?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed">Article.</a>
 
-<span class="__dimensions_badge_embed__" data-doi="10.1139/gen-2017-0075" data-hide-zero-citations="true" data-style="small_rectangle"></span>		
+<div class="__dimensions_badge_embed__" data-doi="10.1139/gen-2017-0075" data-hide-zero-citations="true" data-style="small_rectangle"></div>		
+	
+	
 	<div style="display: inline" data-badge-type="4" data-doi="10.1139/gen-2017-0075" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='right'></div>		</li>		
 
 

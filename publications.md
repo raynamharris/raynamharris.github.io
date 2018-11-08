@@ -26,7 +26,7 @@ sitemap:
 <li>The one with collaborative lesson development rules.
 	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Article.</a>	
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
-		<div style="display: inline" data-badge-type="donut"data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+		<div style="display: inline" data-badge-type="donut" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
 	</li>	
 
@@ -35,7 +35,7 @@ sitemap:
 
 <div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
-<div style="display: inline" data-badge-type="donut"data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+<div style="display: inline" data-badge-type="donut" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 
 
 	</li>	
@@ -47,109 +47,109 @@ sitemap:
 <div class="__dimensions_badge_embed__" data-doi="10.1139/gen-2017-0075" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
 	
 	
-	<div style="display: inline" data-badge-type="donut"data-doi="10.1139/gen-2017-0075" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>		</li>		
+	<div style="display: inline" data-badge-type="donut" data-doi="10.1139/gen-2017-0075" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>		</li>		
 
 
 <li>The one with body color and social behavior.
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/dijkstra_et_al._2017.pdf">PDF.</a>
-	<div style="display: inline" data-badge-type="donut"data-doi="10.1098/rspb.2016.2838" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="donut" data-doi="10.1098/rspb.2016.2838" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	<span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2016.2838" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>	
 
 
 <li>The one with crab neurons and gene expression.   
 	<a href="http://biorxiv.org/content/early/2017/02/10/107342">PDF.</a> 
-	<div style="display: inline"  data-badge-type="donut"data-doi="10.1101/107342." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline"  data-badge-type="donut" data-doi="10.1101/107342." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	<span class="__dimensions_badge_embed__" data-doi="10.1101/107342." data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
  </li>
 
 
 <li>The one with brain evolution and development. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118316757.ch15/summary;jsessionid=EB7AD7A6F077FF7A89EEE0C71E70A8FD.f02t03">Article</a>.
-	<div style="display: inline" data-badge-type="donut"data-doi="10.1002/9781118316757.ch15" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="donut" data-doi="10.1002/9781118316757.ch15" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 			<span class="__dimensions_badge_embed__" data-doi="10.1002/9781118316757.ch15" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	 </li>	
 
 
 <li>The one with aromatase and sex changing cichlids. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/goppert_et_al._2016.pdf">PDF.</a>
-	<div style="display: inline" data-badge-type="donut"data-doi="10.1159/000445463" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="donut" data-doi="10.1159/000445463" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 				<span class="__dimensions_badge_embed__" data-doi="10.1159/000445463" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>
 
 
 <li>The one with vasopressin and space use theory. 
 	<a href="http://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-12-S1-S16">Link.</a> 
-	<div style="display: inline" data-badge-type="donut"data-doi="10.1186/1742-9994-12-S1-S16" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline" data-badge-type="donut" data-doi="10.1186/1742-9994-12-S1-S16" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 					<span class="__dimensions_badge_embed__" data-doi="10.1186/1742-9994-12-S1-S16" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 </li>
 
 
 <li>The one with wrasse reproductive tactics. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2015.stiver.ethology_0.pdf">PDF.</a> 
-	<div style="display: inline"  data-badge-type="donut"data-doi="10.1111/eth.12324" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>  
+	<div style="display: inline"  data-badge-type="donut" data-doi="10.1111/eth.12324" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>  
 		<span class="__dimensions_badge_embed__" data-doi="10.1111/eth.12324" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>
 
 
 <li>The one with tilapia response to pheromones.
 	<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1255-4">Link.</a> 
-	<div style="display: inline"  data-badge-type="donut"data-doi="10.1186/s12864-015-1255-4." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline"  data-badge-type="donut" data-doi="10.1186/s12864-015-1255-4." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 			<span class="__dimensions_badge_embed__" data-doi="10.1186/s12864-015-1255-4." data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>  
 
 
 <li>The one with opsin gene evolution.
 	<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4321264/">Link.</a> 
-	<div style="display: inline" data-badge-type="donut"data-doi="10.1073/pnas.1423685112" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline" data-badge-type="donut" data-doi="10.1073/pnas.1423685112" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 				<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1423685112" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>
 
 
 <li>The one with the five cichlid genomes. 
 	<a href="http://www.nature.com/nature/journal/v513/n7518/abs/nature13726.html">Link.</a> 
-	<div style="display: inline"  data-badge-type="donut"data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline"  data-badge-type="donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	 <span class="__dimensions_badge_embed__" data-doi="10.1038/nature.2014.14583" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>
 
 
 <li>The one with swordtails, hormones, and body size.
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.smith_.biofish.pdf">PDF.</a>
-	<div style="display: inline"  data-badge-type="donut"data-doi="10.1007/s10641-014-0234-y" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline"  data-badge-type="donut" data-doi="10.1007/s10641-014-0234-y" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 		 <span class="__dimensions_badge_embed__" data-doi="10.1007/s10641-014-0234-y" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>
 
 
 <li>The one with stressed-out guppies.
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.fischer.hb_.pdf">PDF.</a> 
-	<div style="display: inline"  data-badge-type="donut"data-doi="10.1016/j.yhbeh.2013.12.010" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline"  data-badge-type="donut" data-doi="10.1016/j.yhbeh.2013.12.010" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 			 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.yhbeh.2013.12.010" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>
 
 
 <li>The one with social behavior and genomics. 
 	<a href="http://link.springer.com/chapter/10.1007/978-94-007-7347-9_8">Link.</a> 
-	<div style="display: inline" data-badge-type="donut"data-doi="10.1007/978-94-007-7347-9_8." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline" data-badge-type="donut" data-doi="10.1007/978-94-007-7347-9_8." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-94-007-7347-9_8." data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>
 
 
 <li>The one with pro-opiomelanocortin gene evolution. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.harris.gce_.pdf">PDF.</a> 
-	<div style="display: inline"  data-badge-type="donut"data-doi="10.1016/j.ygcen.2013.10.007" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline"  data-badge-type="donut" data-doi="10.1016/j.ygcen.2013.10.007" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 		 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ygcen.2013.10.007" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>
 
 
 <li>The one with monogamy and steroid hormones. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2013.sessa_.gce_.pdf">PDF.</a> 
-	<div style="display: inline"  data-badge-type="donut"data-doi="10.1016/j.ygcen.2013.04.031" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline"  data-badge-type="donut" data-doi="10.1016/j.ygcen.2013.04.031" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 			 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ygcen.2013.04.031" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>
 
 
 <li>The one with monogamy and peptides. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2013.oldfield.hb_.pdf">PDF.</a> 
-	<div style="display: inline"  data-badge-type="donut"data-doi="10.1016/j.yhbeh.2013.04.006" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline"  data-badge-type="donut" data-doi="10.1016/j.yhbeh.2013.04.006" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 				 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.yhbeh.2013.04.006" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 
 	</li>

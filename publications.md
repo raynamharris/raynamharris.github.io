@@ -25,25 +25,27 @@ sitemap:
 
 <li>The one with collaborative lesson development rules.
 	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Article.</a>
-	<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed"></div>
 	
-	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-style="small_rectangle"></span>	
+	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-style="small_rectangle"></span>
+	
+		<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed"></div>
+	
 	
 	</li>	
 
 <li>The one with reproducible brain transcriptomics.
 	<a href="http://biorxiv.org/content/early/2017/06/21/153585">Article.</a>
-	<div style="display: inline" data-badge-type="4" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed"></div>
 	
 <span class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="true" data-style="small_rectangle"></span>	
+	<div style="display: inline" data-badge-type="4" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed"></div>
 	</li>	
 
 
 <li>The one with mating systems and microarrays.
 	<a href="http://www.nrcresearchpress.com/doi/abs/10.1139/gen-2017-0075?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed">Article.</a>
-	<div style="display: inline" data-badge-type="4" data-doi="10.1139/gen-2017-0075" data-hide-no-mentions="false" class="altmetric-embed"></div>	
+
 <span class="__dimensions_badge_embed__" data-doi="10.1139/gen-2017-0075" data-hide-zero-citations="true" data-style="small_rectangle"></span>		
-	</li>		
+	<div style="display: inline" data-badge-type="4" data-doi="10.1139/gen-2017-0075" data-hide-no-mentions="false" class="altmetric-embed"></div>		</li>		
 
 
 <li>The one with body color and social behavior.

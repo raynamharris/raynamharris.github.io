@@ -28,9 +28,15 @@ sitemap:
 	<a href="https://github.com/raynamharris/FMR1CA1rnaseq">In prep. </a>
 	</li>
 			
-<li>The one with lesson development rules.
+<li>The one with collaborative lesson development rules.
 	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Article.</a>
-	<div style="display: inline" data-badge-type="4" data-arxiv-id="1707.02662" data-hide-no-mentions="false" class="altmetric-embed"></div></li>	
+	<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed"></div>
+	
+	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-style="small_rectangle">	
+
+	
+	</li>	
+
 <li>The one with reproducible brain transcriptomics.
 	<a href="http://biorxiv.org/content/early/2017/06/21/153585">Article.</a>
 	<div style="display: inline" data-badge-type="4" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed"></div>

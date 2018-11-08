@@ -30,7 +30,7 @@ sitemap:
 	
 	</li>	
 
-<li>The one with reproducible brain transcriptomics.
+<li>The one with reproducible hippocampal transcriptomics.
 	<a href="http://biorxiv.org/content/early/2017/06/21/153585">Article.</a>	
 
 <div class="container-name">

@@ -34,10 +34,10 @@ sitemap:
 	<a href="http://biorxiv.org/content/early/2017/06/21/153585">Article.</a>	
 
 
-<span class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="true" data-style="small_rectangle"></span>	
+<span class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="false" data-style="small_rectangle"></span>	
 	
 
-<div class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="true" data-style="small_rectangle"></div>	
+<div class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="false" data-style="small_rectangle"></div>	
 
 
 	

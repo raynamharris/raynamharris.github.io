@@ -102,8 +102,8 @@ sitemap:
 
 <li>The one with the five cichlid genomes. 
 	<a href="http://www.nature.com/nature/journal/v513/n7518/abs/nature13726.html">Link.</a> 
-	<div style="display: inline"  data-badge-type="bar" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
-	 <span class="__dimensions_badge_embed__" data-doi="10.1038/nature.2014.14583" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
+	<div style="display: inline"  data-badge-type="bar" data-doi="10.1038/nature13726" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	 <span class="__dimensions_badge_embed__" data-doi="10.1038/nature13726" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>
 
 

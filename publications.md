@@ -33,17 +33,9 @@ sitemap:
 <li>The one with reproducible brain transcriptomics.
 	<a href="http://biorxiv.org/content/early/2017/06/21/153585">Article.</a>	
 
-
-<span class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="false" data-style="small_rectangle"></span>	
-	
-
 <div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="false" data-style="small_rectangle"></div>	
-
-
 	
 	<div style="display: inline" data-badge-type="4" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='right'></div>
-
-
 	</li>	
 
 

@@ -24,20 +24,26 @@ sitemap:
 
 
 <li>The one with collaborative lesson development rules.
-	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Article.</a>
-	
-	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-style="small_rectangle"></span>
-	
+	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Article.</a>	
+	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-style="small_rectangle"></span>	
 		<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='right'></div>
-	
 	
 	</li>	
 
 <li>The one with reproducible brain transcriptomics.
-	<a href="http://biorxiv.org/content/early/2017/06/21/153585">Article.</a>
-	
+	<a href="http://biorxiv.org/content/early/2017/06/21/153585">Article.</a>	
+
+
 <span class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="true" data-style="small_rectangle"></span>	
+	
+
+<div class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="true" data-style="small_rectangle"></div>	
+
+
+	
 	<div style="display: inline" data-badge-type="4" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='right'></div>
+
+
 	</li>	
 
 

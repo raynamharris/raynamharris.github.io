@@ -3,6 +3,7 @@ layout: post
 title:  "Effective Teaching Tips from a Train-the-Trainers Workshop"
 date:   2015-02-13
 excerpt: "How do we train the next generation of scientists to manage, analyze, and share data in a reproducible way so that they can be more productive and effective?"
+image: "/images/TTT.png"
 tags:  swc dc teaching
 ---
 

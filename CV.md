@@ -65,6 +65,7 @@ Publications
 
 ### Open Access Educational Materials
 
+1. Martinez P.A, Saldago H, **Harris RM** (eds), 29 authors including **Harris RM** (2019). datacarpentry/python-ecology-lesson-es: Data Carpentry: Lección de Data Carpentry - Python usando datos de ecología - Enero 2019 (Version v2019.01.0). Zenodo. http://doi.org/10.5281/zenodo.2536379
 1. Saldago H (ed), 49 authors including **Harris RM**. (2018) Software Carpentry Shell Novice in Spanish, Version v2018.04.1. http://doi.org/10.5281/zenodo.1198732
 1. **Harris RM** (ed), 49 authors including **Harris RM** (2018) Software Carpentry Git Novice in Spanish, Version v2018.04.3. http://doi.org/10.5281/zenodo.1197332
 1. Wilson G, Becker E, SilvaR, Koch C, *Harris RM*, et al. (2017). Software Carpentry: Instructor Training. Zenodo. http://doi.org/10.5281/zenodo.278229

@@ -8,8 +8,8 @@ sitemap:
     changefreq: weekly
 ---
 
-Education
-=========
+### Education
+
 
 **The University of Texas at Austin.** B.S. Biochemistry, 2006
 
@@ -17,8 +17,8 @@ Education
     
 **The University of California, Davis.** Postdoctoral Researcher, Current
 
-Honors and Awards
-===========
+### Honors and Awards
+
 
 - Elected to the Software Carpentry Steering Committee (2016 - 17)
 - University Graduate Continuing Fellowship, UT Austin (2016 - 17)
@@ -27,21 +27,21 @@ Honors and Awards
 - Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 Publications
-============
+
 
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>
 
 *Google Scholar statistics as of May 2018:* 
 508 citations; h-index of 8, i10-index of 7
 
-Pre-prints
-==========
+### Pre-prints
 
-1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2017) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. BioRXiv 153585.
+
+1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. BioRXiv 153585.
 1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. BioRXiv 107342.
 
-Peer Reviewed Publications
-==========================
+### Peer Reviewed Publications
+
 1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten simple rules for collaborative lesson development. PLoS Comput Biol 14(3): e1005963.
 1. Renn SPC, Machado H, Duftner N, **Harris RM**, Sessa AK, Hofmann HA. Gene Expression Signatures of Mating System Evolution. Genome. DOI: 10.1139/gen-2017-0075.
 1. Dijkstra PD, Maguire SM **Harris RM**, Rodriguez AA, DeAngelis RS Flores SA, Hofmann HA (2017) The melanocortin system regulates body pigmentation and social behaviour in a colour polymorphic cichlid fish. Proc. R. Soc. B. DOI: 10.1098/rspb.2016.2838.
@@ -55,24 +55,22 @@ Peer Reviewed Publications
 1. Sessa AK, **Harris RM**, Hofmann HA (2013) Sex Steroid Hormones Modulate Responses to Social Challenge & Opportunity in Males of the Monogamous Convict Cichlid, Amatitliana nigrofasciata. Gen. Compar. Endocrinol. 189: 59–65.
 1. Oldfield RG, **Harris RM**, Hendrickson DA, Hofmann HA (2013) Arginine Vasotocin and Prolactin Pathways are Associated with Mating System Variation in North American Cichlid Fishes. Horm. Behav. 64:44-52.
 
-Invited Articles and Reviews
-============================
+### Invited Articles and Reviews
+
 
 1. **Harris RM**, O13Connell LA, Hofmann HA (2016) Brain Evolution, Development, and Plasticity, in The Wiley Handbook of Evolutionary Neuroscience (ed S. V. Shepherd), John Wiley & Sons, Ltd, Chichester, UK. doi: 10.1002/9781118316757.ch15
 1. Oldfield RG, **Harris RM**, Hofmann HA (2015) Integrating Resource Defence Theory with Nonapeptide Expression to Explain Variation in Territory-based Mating Systems. Front. Zool. 12:S16.
 1. **Harris RM**, Hofmann HA (2015) Seeing is believing: Dynamic evolution of opsin genes. Proc. Natl. Acad. Sci. U.S.A. 112:1252-1253.
 1. **Harris RM**, Hofmann HA (2014) Neurogenomics of Behavioral Plasticity. Adv. Exp. Med. Biol. 781:149-68.
 
-Open Access Educational Materials
-=================================
+### Open Access Educational Materials
 
 1. Saldago H (ed), 49 authors including **Harris RM**. (2018) Software Carpentry Shell Novice in Spanish, Version v2018.04.1. http://doi.org/10.5281/zenodo.1198732
 1. **Harris RM** (ed), 49 authors including **Harris RM** (2018) Software Carpentry Git Novice in Spanish, Version v2018.04.3. http://doi.org/10.5281/zenodo.1197332
 1. Wilson G, Becker E, SilvaR, Koch C, *Harris RM*, et al. (2017). Software Carpentry: Instructor Training. Zenodo. http://doi.org/10.5281/zenodo.278229
 1. **Harris RM**, Hofmann HA (2014). Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module. Zenodo. 10.5281/zenodo.60725
 
-Invited and Contributed Talks
-========================
+### Invited and Contributed Talks
 
 - **IBM Buenos Aires** R Ladies Buenos Aires Meetup. March 27, 2018.
 - **The North Door**. Nerd Nite Austin Texas. January 10, 2018. [Slides](https://speakerdeck.com/raynamharris/zombie-brains-microbial-mind-control)
@@ -95,8 +93,7 @@ Invited and Contributed Talks
 - **University of Bergen**. NORDFORSK Behavioural Fish Neuroscience Network Workshop. November 16, 2012. 
 - **University of Bergen**. Behavioural Fish Neuroscience Network Conference. November 12, 2012
 
-Scientific Posters
-===========
+### Scientific Posters
 
 - 2017 The Moore Foundation Early Career Researcher Symposium. Waikoloa Beach, HI
 - 2016 Society for Neuroscience Annual Meeting. San Diego, CA
@@ -114,15 +111,13 @@ Scientific Posters
 - 2013 Society for Behavioral Neuroendocrinology Annual Meeting. Atlanta, GA
 - 2012 Gordon Research Conference in Genes and Behavior. Galveston, TX
 
-Selected GitHub Repositories
-================
+### Selected GitHub Repositories
 
 -  [Thesis](https://github.com/raynamharris/Thesis). The GitHub repository where I build a website for an easy-to-read-on-a-phone version of my thesis.
 -  [IntegrativeProjectWT2015](https://github.com/raynamharris/IntegrativeProjectWT2015). My bioinformatic workflow for studying transcriptional plasticity in the mouse hippocampus and its role in avoidance learning.
 - [DissociationTest](https://github.com/raynamharris/DissociationTest). My bioinformatic workflow for testing the influence of cellular dissocation on hippocampal gene expression in laboratory mice.
 
-Professional Activities
-=============
+### Professional Activities
 
 - **Peer-reviewer** Behavioral Ecology; Gene; Genes, Genomes & Genetics; Journal of Experimental Zoology Part A; Physiology & Behavior; PLOS ONE; Proceedings of the Royal Society B.
 - **Secretary** Software Carpentry Steering Committee, 2017-2018
@@ -137,8 +132,7 @@ Professional Activities
 - **Coordinator** Transdisciplinary Graduate Student Luncheon, October 2014
 - **Spanish Translator** “Welcome to the World of Mushrooms”, INBio Park, Costa Rica, 2009
 
-Teaching
-========
+### Teaching
 
 **Lesson Development**
 -	Maintainer of the Software Carpentry Git and Data Carpentry Genomics lessons

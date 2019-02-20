@@ -8,26 +8,25 @@ sitemap:
     changefreq: weekly
 ---
 
+_A pdf version is available at https://github.com/raynamharris/CV/blob/master/CV.pdf_
+
 ### Education
 
-
-**The University of Texas at Austin.** B.S. Biochemistry, 2006
-
-**The University of Texas at Austin.** Ph.D. Cell and Molecular Biology, 2017
-    
-**The University of California, Davis.** Postdoctoral Researcher, Current
+- **The University of Texas at Austin.** B.S. Biochemistry, 2006
+- **The University of Texas at Austin.** Ph.D. Cell and Molecular Biology, 2017  
+- **The University of California, Davis.** Postdoctoral Researcher, Current
 
 ### Honors and Awards
 
-
+- AAAS Community Enagement Fellowship (2019)
+- ::rstudioconf Diversity Scholarship (2019)
 - Elected to the Software Carpentry Steering Committee (2016 - 17)
 - University Graduate Continuing Fellowship, UT Austin (2016 - 17)
 - William Livingston Outstanding Graduate Student Academic Employee Award, UT Austin (2017)
 - Grant in Aid of Research, Society for Integrative and Comparative Biology (2016)
 - Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
-Publications
-
+### Publications
 
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>
 

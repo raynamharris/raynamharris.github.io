@@ -8,11 +8,10 @@ sitemap:
     changefreq: weekly
 ---
 
-<h1>
-<a id="cv" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Curriculum Vitae</h1>
+# Curriculum Vitae 
 
 
-_A pdf version is available at https://github.com/raynamharris/CV/blob/master/CV.pdf_
+_Notes: A pdf version of my CV is available [on GitHub](https://github.com/raynamharris/CV/blob/master/CV.pdf). This was last updated on February 24, 2019._
 
 ## Education
 
@@ -33,7 +32,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 ## Publications
 
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>  
-*Google Scholar statistics as of Feb 2019:* 634 citations; h-index of 10, i10-index of 10
+*[Google Scholar](https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en) statistics as of Feb 2019:* 634 citations; h-index of 10, i10-index of 10
 
 ### Pre-prints
 
@@ -44,17 +43,17 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 ### Peer Reviewed Publications
 
 1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten simple rules for collaborative lesson development. [PLoS Comput Biol 14(3): e1005963.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
-1. Renn SPC, Machado H, Duftner N, **Harris RM**, Sessa AK, Hofmann HA. Gene Expression Signatures of Mating System Evolution. Genome. DOI: 10.1139/gen-2017-0075.
-1. Dijkstra PD, Maguire SM **Harris RM**, Rodriguez AA, DeAngelis RS Flores SA, Hofmann HA (2017) The melanocortin system regulates body pigmentation and social behaviour in a colour polymorphic cichlid fish. Proc. R. Soc. B. DOI: 10.1098/rspb.2016.2838.
-1. Goppert C, **Harris RM**, Theis A, Boila A, Hohl S, Ruegg A, Hofmann HA, Salzburger WE, Boehne A (2016) Inhibition of aromatase induces partial sex change in a cichlid fish: Distinct functions for sex steroids in brains and gonads. Sex. Dev. 10:97-110.
-1. Simoes JM, Barata EN, **Harris RM**, O13Connell LA, Hofmann HA, Oliveira RF (2015) Social odors conveying dominance and reproductive information induce rapid physiological and neuromolecular changes in a cichlid fish. BMC Genomics 16:114.
-1. Stiver KA, **Harris RM**, Townsend JP, Hofmann HA, Alonzo SH (2015) Behavioral and physiological examinations of cooperation in *Symphodus ocellatus*, a species with alternative male reproductive tactics. Ethol. 121:152-167.
-1. Smith CC, **Harris RM**, Lampert KP, Schartl M, Hofmann HA,Ryan MJ (2015) Copy number variation in the melanocortin 4 receptor gene and alternative reproductive tactics in swordtail Xiphophorus multilineatus. Environ. Biol. Fishes 98:23-33.
-1. Brawand et al. (2014) The genomic substrate for adaptive radiation: Genomes of five African cichlid fish. Nature 513: 375-381
-1. Fischer EK, **Harris RM**, Hofmann HA, Hoke KL (2014) Predator exposure alters stress physiology in guppies across timescales. Horm. Behav. 65: 165–172.
-1. **Harris RM**, Dijkstra PD, Hofmann HA (2014) Complex Structural and Regulatory Evolution of the Pro-opiomelanocortin Gene Family. Gen. Compar. Endocrinol. 195: 107-115.
-1. Sessa AK, **Harris RM**, Hofmann HA (2013) Sex Steroid Hormones Modulate Responses to Social Challenge & Opportunity in Males of the Monogamous Convict Cichlid, Amatitliana nigrofasciata. Gen. Compar. Endocrinol. 189: 59–65.
-1. Oldfield RG, **Harris RM**, Hendrickson DA, Hofmann HA (2013) Arginine Vasotocin and Prolactin Pathways are Associated with Mating System Variation in North American Cichlid Fishes. Horm. Behav. 64:44-52.
+1. Renn SPC, Machado H, Duftner N, **Harris RM**, Sessa AK, Hofmann HA. Gene Expression Signatures of Mating System Evolution. [Genome. DOI: 10.1139/gen-2017-0075.](http://www.nrcresearchpress.com/doi/full/10.1139/gen-2017-0075#.XHMI2ZNKgn0)
+1. Dijkstra PD, Maguire SM **Harris RM**, Rodriguez AA, DeAngelis RS Flores SA, Hofmann HA (2017) The melanocortin system regulates body pigmentation and social behaviour in a colour polymorphic cichlid fish. [Proc. R. Soc. B. DOI: 10.1098/rspb.2016.2838.](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.2838?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&)
+1. Goppert C, **Harris RM**, Theis A, Boila A, Hohl S, Ruegg A, Hofmann HA, Salzburger WE, Boehne A (2016) Inhibition of aromatase induces partial sex change in a cichlid fish: Distinct functions for sex steroids in brains and gonads. [Sex. Dev. 10:97-110.](https://www.karger.com/?DOI=10.1159/000445463)
+1. Simoes JM, Barata EN, **Harris RM**, O'Connell LA, Hofmann HA, Oliveira RF (2015) Social odors conveying dominance and reproductive information induce rapid physiological and neuromolecular changes in a cichlid fish. [BMC Genomics 16:114.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1255-4)
+1. Stiver KA, **Harris RM**, Townsend JP, Hofmann HA, Alonzo SH (2015) Neural Gene Expression Profiles and Androgen Levels Underlie Alternative Reproductive Tactics in the Ocellated Wrasse, *Symphodus ocellatus*. [Ethol. 121:152-167.](https://onlinelibrary.wiley.com/doi/abs/10.1111/eth.12324)
+1. Smith CC, **Harris RM**, Lampert KP, Schartl M, Hofmann HA,Ryan MJ (2015) Copy number variation in the melanocortin 4 receptor gene and alternative reproductive tactics in swordtail Xiphophorus multilineatus. [Environ. Biol. Fishes 98:23-33.](https://link.springer.com/article/10.1007/s10641-014-0234-y)
+1. Brawand et al. (2014) The genomic substrate for adaptive radiation: Genomes of five African cichlid fish. [Nature 513: 375-381.](https://www.nature.com/articles/nature13726)
+1. Fischer EK, **Harris RM**, Hofmann HA, Hoke KL (2014) Predator exposure alters stress physiology in guppies across timescales. [Horm. Behav. 65: 165–172.](https://www.sciencedirect.com/science/article/pii/S0018506X13002377?via%3Dihub)
+1. **Harris RM**, Dijkstra PD, Hofmann HA (2014) Complex Structural and Regulatory Evolution of the Pro-opiomelanocortin Gene Family. [Gen. Compar. Endocrinol. 195: 107-115.](https://www.sciencedirect.com/science/article/pii/S001664801300419X?via%3Dihub)
+1. Sessa AK, **Harris RM**, Hofmann HA (2013) Sex Steroid Hormones Modulate Responses to Social Challenge & Opportunity in Males of the Monogamous Convict Cichlid, Amatitliana nigrofasciata. [Gen. Compar. Endocrinol. 189: 59–65.](https://www.sciencedirect.com/science/article/pii/S0016648013002074?via%3Dihub)
+1. Oldfield RG, **Harris RM**, Hendrickson DA, Hofmann HA (2013) Arginine Vasotocin and Prolactin Pathways are Associated with Mating System Variation in North American Cichlid Fishes. [Horm. Behav. 64:44-52.](https://www.sciencedirect.com/science/article/pii/S0018506X13000949?via%3Dihub)
 
 ### Invited Articles and Reviews
 
@@ -66,11 +65,11 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ### Open Access Educational Materials
 
-1. Martinez P.A, Saldago H, **Harris RM** (eds), 29 authors including **Harris RM** (2019). datacarpentry/python-ecology-lesson-es: Data Carpentry: Lección de Data Carpentry - Python usando datos de ecología - Enero 2019 (Version v2019.01.0). Zenodo. http://doi.org/10.5281/zenodo.2536379
-1. Saldago H (ed), 49 authors including **Harris RM**. (2018) Software Carpentry Shell Novice in Spanish, Version v2018.04.1. http://doi.org/10.5281/zenodo.1198732
-1. **Harris RM** (ed), 49 authors including **Harris RM** (2018) Software Carpentry Git Novice in Spanish, Version v2018.04.3. http://doi.org/10.5281/zenodo.1197332
+1. Martinez P.A, Saldago H, **Harris RM** (eds), 29 authors including **Harris RM** (2019). datacarpentry/python-ecology-lesson-es: Data Carpentry: Lección de Data Carpentry - Python usando datos de ecología - Enero 2019 (Version v2019.01.0). Zenodo. <http://doi.org/10.5281/zenodo.2536379>
+1. Saldago H (ed), 49 authors including **Harris RM**. (2018) Software Carpentry Shell Novice in Spanish, Version v2018.04.1. <http://doi.org/10.5281/zenodo.1198732>
+1. **Harris RM** (ed), 49 authors including **Harris RM** (2018) Software Carpentry Git Novice in Spanish, Version v2018.04.3. <http://doi.org/10.5281/zenodo.1197332>
 1. Wilson G, Becker E, SilvaR, Koch C, *Harris RM*, et al. (2017). Software Carpentry: Instructor Training. Zenodo. http://doi.org/10.5281/zenodo.278229
-1. **Harris RM**, Hofmann HA (2014). Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module. Zenodo. 10.5281/zenodo.60725
+1. **Harris RM**, Hofmann HA (2014). Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module. Zenodo. <http://doi.org/10.5281/zenodo.60725>
 
 ## Invited and Contributed Talks
 

@@ -4,7 +4,6 @@ title:  "Reproducible Data-Driven Discovery"
 excerpt: "Report back from the Curriculum Development Hackathon for Reproducible Research using Jupyter Notebooks and the Moore Foundation Early Career Researcher Symposium Control"
 date:   2017-02-24
 image: "/images/pic04.jpg"
-tags: science reproducible datadriven scicomm education datacarpentry
 ---
 
 

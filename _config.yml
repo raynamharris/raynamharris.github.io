@@ -4,14 +4,14 @@ bio:                'Scientist, Educator, Community Builder, Translator'
 description:        "  "
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://raynamharris.com/" # the base hostname & protocol for your site
+url: "http://raynamharris.com" # the base hostname & protocol for your site
 
 defaults:
 - scope:
     path: ''
     type: posts
   values:
-    permalink: "blog/:title/"
+    permalink: "/blog/:title/"
     layout: post
     author:
 

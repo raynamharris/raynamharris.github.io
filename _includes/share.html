@@ -1,9 +1,14 @@
-<div id="respond" class="links">
+<div id="share-bar">
+
   <p>To share this entry, or reference it in commentary of your own, link to the following permalink: <a rel="canonical nofollow" href="{{site.url}}{{page.clean_url}}">{{site.url}}{{page.clean_url}}</a>. Or, click the buttons to share this on social media.
 
-<div class="follow-up">
-  <p class="twitter">
-    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Tweet</a>
+<a  href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Twitter" >
+            <i class="fa fa-twitter share-button"> twitter</i>
+</a>    
+    
+    
 <a class="twitter-mention-button"
   href="https://twitter.com/intent/tweet?screen_name=raynamharris">
 Tweet to @raynamharris</a>  </p>

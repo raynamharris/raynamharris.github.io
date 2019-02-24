@@ -8,8 +8,8 @@ sitemap:
     changefreq: weekly
 ---
 
-<h1>
-<a id="cv" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Curriculum Vitae</h1>
+<h2>
+<a id="cv" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Curriculum Vitae</h2>
 
 
 _A pdf version is available at https://github.com/raynamharris/CV/blob/master/CV.pdf_

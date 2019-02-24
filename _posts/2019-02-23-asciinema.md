@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "asciinema for recording command-line terminal session"
+title:  "asciinema for recording command-line terminal sessions"
 date:   2019-02-23
 excerpt: "Sharing screen casts of live coding is way more awesome when the text can be copied. asciinema makes this possible."
 image: "/images/asciinema.png"

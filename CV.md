@@ -8,40 +8,42 @@ sitemap:
     changefreq: weekly
 ---
 
+<h2>
+<a id="cv" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Curriculum Vitae</h2>
+
+
 _A pdf version is available at https://github.com/raynamharris/CV/blob/master/CV.pdf_
 
 ### Education
 
-- **The University of Texas at Austin.** B.S. Biochemistry, 2006
-- **The University of Texas at Austin.** Ph.D. Cell and Molecular Biology, 2017  
-- **The University of California, Davis.** Postdoctoral Researcher, Current
+**The University of Texas at Austin.** B.S. Biochemistry, 2006  
+**The University of Texas at Austin.** Ph.D. Cell and Molecular Biology, 2017    
+**The University of California, Davis.** Postdoctoral Researcher, Current  
 
 ### Honors and Awards
 
-- AAAS Community Enagement Fellowship (2019)
-- ::rstudioconf Diversity Scholarship (2019)
-- Elected to the Software Carpentry Steering Committee (2016 - 17)
-- University Graduate Continuing Fellowship, UT Austin (2016 - 17)
-- William Livingston Outstanding Graduate Student Academic Employee Award, UT Austin (2017)
-- Grant in Aid of Research, Society for Integrative and Comparative Biology (2016)
-- Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
+AAAS Community Enagement Fellowship (2019)   
+::rstudioconf Diversity Scholarship (2019)  
+Elected to the Software Carpentry Steering Committee (2016 - 17)  
+University Graduate Continuing Fellowship, UT Austin (2016 - 17)  
+William Livingston Outstanding Graduate Student Academic Employee Award, UT Austin (2017)    
+Grant in Aid of Research, Society for Integrative and Comparative Biology (2016)  
+Academic Enrichment Fund Award, UT Austin (2014, 15, 16)  
 
 ### Publications
 
-*ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>
-
-*Google Scholar statistics as of May 2018:* 
-508 citations; h-index of 8, i10-index of 7
+*ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>  
+*Google Scholar statistics as of Feb 2019:* 634 citations; h-index of 10, i10-index of 10
 
 ### Pre-prints
 
 
-1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. BioRXiv 153585.
-1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. BioRXiv 107342.
+1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. [BioRXiv 153585.](https://www.biorxiv.org/content/10.1101/153585v1)
+1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. [BioRXiv 107342.](https://www.biorxiv.org/content/10.1101/107342v1)
 
 ### Peer Reviewed Publications
 
-1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten simple rules for collaborative lesson development. PLoS Comput Biol 14(3): e1005963.
+1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten simple rules for collaborative lesson development. [PLoS Comput Biol 14(3): e1005963.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
 1. Renn SPC, Machado H, Duftner N, **Harris RM**, Sessa AK, Hofmann HA. Gene Expression Signatures of Mating System Evolution. Genome. DOI: 10.1139/gen-2017-0075.
 1. Dijkstra PD, Maguire SM **Harris RM**, Rodriguez AA, DeAngelis RS Flores SA, Hofmann HA (2017) The melanocortin system regulates body pigmentation and social behaviour in a colour polymorphic cichlid fish. Proc. R. Soc. B. DOI: 10.1098/rspb.2016.2838.
 1. Goppert C, **Harris RM**, Theis A, Boila A, Hohl S, Ruegg A, Hofmann HA, Salzburger WE, Boehne A (2016) Inhibition of aromatase induces partial sex change in a cichlid fish: Distinct functions for sex steroids in brains and gonads. Sex. Dev. 10:97-110.

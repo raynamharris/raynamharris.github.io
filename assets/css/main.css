@@ -1817,13 +1817,13 @@
 	}
 
 	a {
-		color: #3690c0;
+		color: #41b6c4;
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #3690c0 !important;
+			color: #41b6c4 !important;
 		}
 
 	strong, b {

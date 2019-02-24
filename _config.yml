@@ -11,7 +11,7 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/blog/:title/"
+    permalink: "blog/:title/"
     layout: post
     author:
 

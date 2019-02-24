@@ -13,8 +13,8 @@ sitemap:
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 
-<h2>
-<a id="publications" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Publications</h2>
+<h1>
+<a id="publications" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Publications</h1>
 
 <p>To browse my publications by title or year visit <a href="http://scholar.google.com/citations?user=_bVy9pMAAAAJ&amp;hl=en&amp;oi=ao">my Google Scholar page</a> or <a href="http://orcid.org/0000-0002-7943-5650">my ORCID page</a>. </p>
 

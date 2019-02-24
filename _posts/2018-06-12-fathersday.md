@@ -4,6 +4,7 @@ title:  "How my father shaped my career before and after his death"
 date:   2018-06-12
 excerpt: "A Father's Day reflection"
 image: "/images/fathersday.png"
+comments: true
 ---
 
 Father's Day is this Sunday. For me, this holiday usually comes and goes without much thought. I don't have kids. My mother isn't married to some man I have to call a step-father. My father died at the age of 57 on October 6, 2007, two days before my 25 birthday. That means its been 9 years since I last called or visited my dad to wish Happy Father's Day. I don't usually get too sentimental around this holiday, but this week I stumbled upon some Mike Eisen [tweets](https://twitter.com/mbeisen/status/1005480252171157505) about his father's death, and I've been working to organize meetings that are very friendly to [scientists with](http://www.pnas.org/content/115/12/2845) [children](https://childcareconundrum.github.io), and now I can't stop thinking about how my father's life and death have impacted my career. 

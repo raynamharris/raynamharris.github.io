@@ -4,6 +4,7 @@ title:  "Using music, beer, and pop-culture to communicate science"
 date:   2018-01-02
 excerpt: "A little bit about my Nerd Nite talk called Zombie Brains: Microbial Mind Control. TLDR: David Attenborough meets Tom Waits meets Ed Yong"
 image: "/images/zombieinsta.png"
+comments: true
 ---
 
 I recently gave a talk at The North Door for [Nerd Nite Austin][1]. This is a monthly event with an audience of 250 partially inebriated nerds, including about a dozen colleagues and friends. I put a lot of effort into making it fun and relatable, so I thought I would share some of the details about how and why I gave what I think is my best talk ever. You can view the video [here][6] and view my slides [here][2].

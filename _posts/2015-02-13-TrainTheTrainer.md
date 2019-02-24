@@ -4,6 +4,7 @@ title:  "Effective Teaching Tips from a Train-the-Trainers Workshop"
 date:   2015-02-13
 excerpt: "How do we train the next generation of scientists to manage, analyze, and share data in a reproducible way so that they can be more productive and effective?"
 image: "/images/TTT.png"
+comments: true
 ---
 
 At the 2014 [Society for Neuroscience Annual Meeting][1], I picked up the [November "Focus on Big Data" issue of Nature Neuroscience][2], a collection of research articles, reviews, and commentaries on Big Data in neuroscience, from epigenomics and connectomics to large behavioral data sets. A common theme is that while large-scale studies are increasingly common, many challenges remain for data collection, analysis, and interpretation. To my surprise, there was no explicit mention of training the next generation of neuroscientists, which is a central focus of NIH's "[Big Data to Knowledge (BD2K][3]) " initiative.

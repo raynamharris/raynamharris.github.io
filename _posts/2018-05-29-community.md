@@ -4,6 +4,7 @@ title:  "Open-source style community engagement for the Data Commons Pilot Phase
 date:   2018-05-29
 excerpt: "This blog post discusses how we are building an open community around a larger goal of making big data more findable and usable to accelerate biomedical discovery"
 image: "/images/dcppc.png"
+comments: true
 ---
 
 In November 2017, the National Institutes of Health (NIH) [announced][press1] the formation of a Data Commons Pilot Phase Consortium (DCPPC) to accelerate biomedical discovery by making big biomedical data more findable and usable. 

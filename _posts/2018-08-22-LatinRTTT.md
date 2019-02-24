@@ -4,6 +4,7 @@ title:  "Data Carpentry Python Ecology Lesson Translated into Spanish"
 date:   2019-01-17
 excerpt: "We are excited to announce our newest community-driven lesson translation: Análisis y visualización de datos usando Python"
 image: "/images/python-es.png"
+comments: true
 ---
 
 From September 2017 to May 2018, there was a [community-driven effort](https://software-carpentry.org/blog/2018/03/forlatinamerica.html) to translate the Software Carpentry lessons into Spanish, and the result was the production of three high-quality lessons that can be used to teach a Software Carpentry Workshop consisting of [La Terminal de Unix](https://swcarpentry.github.io/shell-novice-es/), [Control de Versiones con Git](https://swcarpentry.github.io/git-novice-es/), and [R para Análisis Científicos Reproducibles](https://swcarpentry.github.io/r-novice-gapminder-es/). 

@@ -4,7 +4,7 @@ title: Publications
 description: List and links to publications
 sitemap:
     priority: 0.7
-    lastmod: 2018-11-02
+    lastmod: 2019-01-24
     changefreq: weekly
 ---
 
@@ -14,11 +14,10 @@ sitemap:
 
 
 <h1>
-<a id="publications" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Publications</h1>
+<a id="publications" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Publications
+</h1>
 
-<p>To browse my publications by title or year visit <a href="http://scholar.google.com/citations?user=_bVy9pMAAAAJ&amp;hl=en&amp;oi=ao">my Google Scholar page</a> or <a href="http://orcid.org/0000-0002-7943-5650">my ORCID page</a>. </p>
-
-<p>I also thought it would be fun to list my publication here, but I gave them Friends-episode-like names first. Scroll down the list and maybe you will find something worth reading.</p>
+<p> I thought it would be fun to list my publications Friends-episode-like names (to make them more accessible to non-scientists) and provide a quick overview of the citations and social media mentions. To read the article, click the hyperlinked article or PDF. To browse my publications by title or year visit <a href="http://scholar.google.com/citations?user=_bVy9pMAAAAJ&amp;hl=en&amp;oi=ao">my Google Scholar page</a> or <a href="http://orcid.org/0000-0002-7943-5650">my ORCID page</a>.</p>
 	      
 <ol reversed>
 

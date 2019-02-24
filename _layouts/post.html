@@ -44,11 +44,17 @@
       			<p>{{content}}</p>
       	</section>	
     
+      			  
+	<!-- Share on social media -->      			  
+      			  
+{% include share.html %}
+      			  
+      			  
+   	<!-- Comment with Discuss -->      			  
+   			  
       			                               		
-
-          <div class="comments-wrapper">
-          
-          
+<div class="comments-wrapper">
+                    
 <div id="disqus_thread"></div>
 <script>
 /**
@@ -73,8 +79,6 @@ s.setAttribute('data-timestamp', +new Date());
           
 						<!-- Footer -->
 							<footer>
-
-        {% include share.html %}
         
 							</footer>
 
@@ -82,8 +86,6 @@ s.setAttribute('data-timestamp', +new Date());
 
 				<!-- Footer -->
         {% include foot.html %}
-
-
 
 			</div>
 

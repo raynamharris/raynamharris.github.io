@@ -38,22 +38,20 @@
 				<!-- Main -->
 				<div id="main">
 
-          <article class="post featured">
+          
             <header class="major">
         
               <p> Blog post about science, teaching, and community building, 
-              travel, and more! <br>
-			 All the blogs I wrote during graduate school 
-can be found on <a href="http://medium.com/@raynamharris/">Medium</a>. </p>
+              travel, and more!  </p>
 
             </header>
 
 
-          </article>
+
 					<!-- Post -->
 					<section class="posts">
 						{% for post in site.posts %}
-						{% assign mod3 = forloop.index | modulo: 4 %}
+						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>

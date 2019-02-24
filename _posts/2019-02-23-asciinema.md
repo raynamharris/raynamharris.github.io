@@ -4,6 +4,7 @@ title:  "asciinema for recording command-line terminal sessions"
 date:   2019-02-23
 excerpt: "Live coding screencasts are way more awesome when the text can be copied. asciinema makes this possible."
 image: "/images/asciinema.png"
+comments: true
 ---
 
 Today I attended [IndieWebCamp Austin 2019](https://indieweb.org/2019/Austin). IndieWebCamps are two days events for web creators to meet up to share ideas, improve their personal websites, and build upon each other's creations. After a morning keynote, all the attendees (there were about 20 of us) gave a short demo of some of our web creations. 

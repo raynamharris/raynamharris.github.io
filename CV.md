@@ -8,19 +8,19 @@ sitemap:
     changefreq: weekly
 ---
 
-<h2>
-<a id="cv" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Curriculum Vitae</h2>
+<h1>
+<a id="cv" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Curriculum Vitae</h1>
 
 
 _A pdf version is available at https://github.com/raynamharris/CV/blob/master/CV.pdf_
 
-### Education
+## Education
 
 **The University of Texas at Austin.** B.S. Biochemistry, 2006  
 **The University of Texas at Austin.** Ph.D. Cell and Molecular Biology, 2017    
 **The University of California, Davis.** Postdoctoral Researcher, Current  
 
-### Honors and Awards
+## Honors and Awards
 
 AAAS Community Enagement Fellowship (2019)   
 ::rstudioconf Diversity Scholarship (2019)  
@@ -30,7 +30,7 @@ William Livingston Outstanding Graduate Student Academic Employee Award, UT Aust
 Grant in Aid of Research, Society for Integrative and Comparative Biology (2016)  
 Academic Enrichment Fund Award, UT Austin (2014, 15, 16)  
 
-### Publications
+## Publications
 
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>  
 *Google Scholar statistics as of Feb 2019:* 634 citations; h-index of 10, i10-index of 10
@@ -72,7 +72,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 1. Wilson G, Becker E, SilvaR, Koch C, *Harris RM*, et al. (2017). Software Carpentry: Instructor Training. Zenodo. http://doi.org/10.5281/zenodo.278229
 1. **Harris RM**, Hofmann HA (2014). Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module. Zenodo. 10.5281/zenodo.60725
 
-### Invited and Contributed Talks
+## Invited and Contributed Talks
 
 - **IBM Buenos Aires** R Ladies Buenos Aires Meetup. March 27, 2018.
 - **The North Door**. Nerd Nite Austin Texas. January 10, 2018. [Slides](https://speakerdeck.com/raynamharris/zombie-brains-microbial-mind-control)
@@ -95,7 +95,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 - **University of Bergen**. NORDFORSK Behavioural Fish Neuroscience Network Workshop. November 16, 2012. 
 - **University of Bergen**. Behavioural Fish Neuroscience Network Conference. November 12, 2012
 
-### Scientific Posters
+## Scientific Posters
 
 - 2017 The Moore Foundation Early Career Researcher Symposium. Waikoloa Beach, HI
 - 2016 Society for Neuroscience Annual Meeting. San Diego, CA
@@ -113,13 +113,13 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 - 2013 Society for Behavioral Neuroendocrinology Annual Meeting. Atlanta, GA
 - 2012 Gordon Research Conference in Genes and Behavior. Galveston, TX
 
-### Selected GitHub Repositories
+## Selected GitHub Repositories
 
 -  [Thesis](https://github.com/raynamharris/Thesis). The GitHub repository where I build a website for an easy-to-read-on-a-phone version of my thesis.
 -  [IntegrativeProjectWT2015](https://github.com/raynamharris/IntegrativeProjectWT2015). My bioinformatic workflow for studying transcriptional plasticity in the mouse hippocampus and its role in avoidance learning.
 - [DissociationTest](https://github.com/raynamharris/DissociationTest). My bioinformatic workflow for testing the influence of cellular dissocation on hippocampal gene expression in laboratory mice.
 
-### Professional Activities
+## Professional Activities
 
 - **Peer-reviewer** Behavioral Ecology; Gene; Genes, Genomes & Genetics; Journal of Experimental Zoology Part A; Physiology & Behavior; PLOS ONE; Proceedings of the Royal Society B.
 - **Secretary** Software Carpentry Steering Committee, 2017-2018
@@ -134,9 +134,10 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 - **Coordinator** Transdisciplinary Graduate Student Luncheon, October 2014
 - **Spanish Translator** “Welcome to the World of Mushrooms”, INBio Park, Costa Rica, 2009
 
-### Teaching
+## Teaching
 
-**Lesson Development**
+### Lesson Development 
+
 -	Maintainer of the Software Carpentry Git and Data Carpentry Genomics lessons
 - 	Contributor to the Spanish Translations of UNIX, GIT and R
 -   Instructor Training, Software Carpentry and Data Carpentry
@@ -144,7 +145,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 -   Integrative Molecular Neuroethology, Neural Systems & Behavior
     Course
 
-**Lead or Co-Lead Instructor**
+### Lead or Co-Lead Instructor 
 -   Instructor Training, Software Carpentry and Data Carpentry (2016 –
     present)
 -   Integrative Molecular Neuroethology, Neural Systems & Behavior
@@ -155,7 +156,8 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 -   Version Control with Git, Software Carpentry (2015)
 -   Introduction to Spanish, Futura Language Professionals (2008 - 2009)
 
-**Teaching Assistant**
+### Teaching Assistant
+
 -   Biostatistics (SDS 328M), UT Austin (2017)
 -   Introduction to Core Next-generation Sequencing Tools, UT Austin
     (2015, 16, 17)
@@ -163,7 +165,8 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 -   Organic Chemistry Laboratory (CH 210C), UT Austin (2007-2009)
 -   Advanced Organic Chemistry Laboratory (CH 118K/L), UT Austin (2007)
 
-**Guest Lecturer**
+### Guest Lecturer
+
 -   Comparative Animal Physiology (BIO 361T), UT Austin (2016)
 -   Introduction to Biological Statistics, UT Austin (2014)
 -   Neurobiology of Social Behavior, University of the Republic of

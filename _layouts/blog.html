@@ -6,89 +6,82 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
+
 	<head>
     {% include head.html %}
-
 	</head>
 	<body class="is-loading">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
 
-				<!-- Header -->
-				<header id="header">
-					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-				</header>
+	<!-- Wrapper -->
+	<div id="wrapper" class="fade-in">
 
 
-				<!-- Nav -->
-					<nav id="nav">
+	<!-- Header -->
+	<header id="header">
+	<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+	</header>
 
-            {% include nav.html %}
 
-						<ul class="icons">
-              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
-            
-              <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
-              <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
-              <li><a href="https://www.linkedin.com/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span class="label">LinkedIn</span></a></li>
-						</ul>
-					</nav>
+	<!-- Nav -->
+	<nav id="nav">
+	{% include nav.html %}
+	</nav>
 
-				<!-- Main -->
-				<div id="main">
+	<!-- Main -->
+	<div id="main">
 
-          
-            <header class="major">
+	<header class="major">
         
-              <p> Blog post about science, teaching, and community building, 
-              travel, and more!  </p>
+	<p> Blog post about science, teaching, and community building, 
+	travel, and more!  </p>
 
-            </header>
+	</header>
 
 
+	<!-- Post -->
+	<section class="posts">
+	{% for post in site.posts %}
+	{% assign mod3 = forloop.index | modulo: 3 %}
 
-					<!-- Post -->
-					<section class="posts">
-						{% for post in site.posts %}
-						{% assign mod3 = forloop.index | modulo: 3 %}
-							<article>
-								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-								</header>
+	<article>
+
+	<header>
+	<span class="date">{{ post.date | date_to_string }}</span>
+	<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+	</header>
 							
-								<p>{{ post.excerpt }}</p>
-								
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-								
-								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-								</ul>
-							</article>
-							{% if mod3 == 0 %}
-							{% endif %}
-						{% endfor %}
+	<p>{{ post.excerpt }}</p>
+	
+	<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+	<ul class="actions">
+	<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+	</ul>
 
-					</section>
+	</article>
+	
+	{% if mod3 == 0 %}
+	{% endif %}
+	{% endfor %}
 
-
-						<!-- Footer -->
-							<footer>
+	</section>
 
 
-							</footer>
+	<!-- Footer -->
+	<footer>
 
-					</div>
+	</footer>
 
-				<!-- Footer -->
-        {% include foot.html %}
+	</div>
+
+	<!-- Footer -->
+	 {% include foot.html %}
 
 
-			</div>
-
-		<!-- Scripts -->
-		{% include scripts-main.html %}
+	</div>
+	
+	<!-- Scripts -->
+	{% include scripts-main.html %}
     {% include tracking.html %}
 
 	</body>

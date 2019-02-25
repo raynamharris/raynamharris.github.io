@@ -1,7 +1,6 @@
 ---
 layout: null
 title: Rayna M. Harris
-description: The website for Rayna M Harris
 sitemap:
     priority: 1.0
     lastmod: 2018-05-06
@@ -12,37 +11,31 @@ sitemap:
 <!--
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
+    Jekyll integration by somiibo.com
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
+
+    <head>
     {% include head.html %}
-
-
-	</head>
+    </head>
+	
 	<body class="is-loading">
+	
+    <!-- Wrapper -->
+	<div id="wrapper" class="fade-in">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+    <!-- Header -->
+    <header id="header">
+    <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+    </header>
 
+    <!-- Nav -->
+    <nav id="nav">
+    {% include nav.html %}
+    </nav>
 
-										
-					<!-- Header -->
-					<header id="header">
-						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-					</header>
-
-				<!-- Nav -->
-					<nav id="nav">
-
-            {% include nav.html %}
-         
-						</ul>
-						
-					</nav>
-
-				<!-- Main -->
+    <!-- Main -->
 					<div id="main">
 	
 <p>		
@@ -53,8 +46,8 @@ sitemap:
 </span>
 
 
-I consider myself a scientist, educator, community builder, and translator.
-I am a post-doctoral researcher in 
+	I consider myself a scientist, educator, community builder, and translator.
+	I am a post-doctoral researcher in 
     <a href="http://ivory.idyll.org/lab/">Dr. Titus Brown's lab</a> 
 	at The University of California, Davis 
 	working on community engagement for the 
@@ -76,27 +69,24 @@ I am a post-doctoral researcher in
 </p>	
 
 
-						<!-- Footer -->
-							<footer>
+    <!-- Footer -->
+    <footer>
 
+    </footer>
 
-							</footer>
+</div>
 
-					</div>
+    <!-- Footer -->
+    {% include foot.html %}
 
-				<!-- Footer -->
-        {% include foot.html %}
+    </div>
 
-
-
-			</div>
-
-		<!-- Scripts -->
-		{% include scripts-main.html %}
+    <!-- Scripts -->
+    {% include scripts-main.html %}
     {% include tracking.html %}
 
      
-              <!-- Authn -->
+    <!-- Authn -->
               
 <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 <link rel="token_endpoint" href="https://tokens.indieauth.com/token"> 

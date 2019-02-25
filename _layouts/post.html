@@ -6,49 +6,43 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
+
 	<head>
     {% include head.html %}
 	</head>
 	<body class="is-loading">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+    <!-- Wrapper -->
+    <div id="wrapper" class="fade-in">
 
-				<!-- Header -->
-        <header id="header">
-          <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-        </header>
+    <!-- Header -->
+    <header id="header">
+    <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+    </header>
 
-				<!-- Nav -->
-					<nav id="nav">
+    <!-- Nav -->
+    <nav id="nav">
+    {% include nav.html %}
+    </nav>
 
-            {% include nav.html %}
+    <!-- Main -->
+    <div id="main">
+    <section class="post">
+    <header class="major">
+    <span class="date">{{page.date | date_to_string}}</span>
+    <h1>{{page.title}}</h1>
+    <p>{{page.excerpt}}</p>
+    </header>
 
-					</nav>
-
-				<!-- Main -->
-				<div id="main">
-          <section class="post">
-    				<header class="major">
-      				<span class="date">{{page.date | date_to_string}}</span>
-      				<h1>{{page.title}}</h1>
-      				<p>{{page.excerpt}}</p>
-      			</header>
-      			<!--<div class="image main"><img src="{{page.image}}" alt=""></div> -->
-      			<p>{{content}}</p>
-      	</section>	
+    <p>{{content}}</p>
+    </section>	
     
-      			  
       	
-      	
- <div id="share">
-
-   {% include share.html %}
+    <div id="share">
+    {% include share.html %}
 
 
-      	
-      			  
-   	<!-- Comment with Discuss -->      			  
+    <!-- Comment with Discuss -->      			  
    			  
           
           
@@ -74,24 +68,20 @@ s.setAttribute('data-timestamp', +new Date());
                             
           
           
-						<!-- Footer -->
-							<footer>
+    <!-- Footer -->
+    <footer>
 
+    </footer>
+    
+    </div>
 
-        
-							</footer>
+    <!-- Footer -->
+    {% include foot.html %}
 
-					</div>
+    </div>
 
-				<!-- Footer -->
-        {% include foot.html %}
-
-
-
-			</div>
-
-		<!-- Scripts -->
-		{% include scripts-main.html %}
+    <!-- Scripts -->
+    {% include scripts-main.html %}
     {% include tracking.html %}
 
 	</body>

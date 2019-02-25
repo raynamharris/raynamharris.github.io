@@ -1,13 +1,24 @@
 <ul class="links">
+
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
-  <li class="{% if page.url contains '/CV/' %} active {% endif %}"><a href="{{ "/CV/" | absolute_url }}">CV</a></li>
-  <li class="{% if page.url contains '/publications/' %} active {% endif %}"><a href="{{ "/publications/" | absolute_url }}">Publications</a></li>
+  
   <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
+  
+  <li class="{% if page.url contains '/publications/' %} active {% endif %}"><a href="{{ "/publications/" | absolute_url }}">Publications</a></li>
+  
+  <li class="{% if page.url contains '/CV/' %} active {% endif %}"><a href="{{ "/CV/" | absolute_url }}">CV</a></li>
+  
+
 </ul>
 
 <ul class="icons">
+
   <li><a href="https://github.com/raynamharris" class="icon fa-github" rel="me"><span class="label">GitHub</span></a></li>
+  
   <li><a href="https://twitter.com/raynamharris" class="icon fa-twitter" rel="me"><span class="label">Twitter</span></a></li>
+  
   <li><a href="https://www.instagram.com/raynamharris/" class="icon fa-instagram" rel="me"><span class="label">Instagram</span></a></li>
+  
   <li><a href="https://www.linkedin.com/in/rayna-harris-484802ba/" class="icon fa-linkedin" rel="nofollow"><span class="label">LinkedIn</span></a></li>
+  
 </ul>

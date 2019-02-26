@@ -1,10 +1,12 @@
 # Site
 title:              Rayna M. Harris
 bio:                'Scientist, Educator, Community Builder, Translator'
-description:        "  "
+description:        "Rayna Harris is a scientist, educator, and community building who blogs about these things every month or so."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.raynamharris.com" # the base hostname & protocol for your site
+author:
+  twitter: raynamharris
 
 defaults:
 - scope:
@@ -41,6 +43,10 @@ linkedin:           "rayna-harris-484802ba"
 # medium feed
 collections:
   - external_feed
+  
+# RSS or Atom feed 
+plugins:
+  - jekyll-feed
 
 # Gems
 gems:
@@ -49,6 +55,8 @@ gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  
+  
 
 paginate: 6
 paginate_path: "/blog/page:num/"

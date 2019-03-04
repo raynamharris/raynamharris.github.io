@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Musings and Music about Moving to Californ-i-a"
-date:   2019-02-23
+date:   2019-03-04
 excerpt: "That's right. After living in Austin, Texas for 15-ish years, I'm moving to Davis, California to continue my postdoctoral research. Here are some musings some musings about my move and a playlist."
 image: "/images/caliplaylist.png"
 comments: true

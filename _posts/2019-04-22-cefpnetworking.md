@@ -11,9 +11,8 @@ _This post was originally written for an published on Trellis, the blogging plat
 
 One task of a scientific community manager is to facilitate the activities of a community and to create opportunities for community members to engage in productive interaction. Networking is a process we use to exchange ideas and to build relationships with individuals that share a common interest.  In previous decades, most networking was done in-person, perhaps with the exchange of a business card or elevator pitch; however, digital communication is an increasingly common way that people network (Leek 2016). Whether you are an introvert or extrovert, the goal of this blog post is to provide community managers with a few strategies for networking to build their community and facilitate the exchange of ideas and information.
 
-![graphical abstract](/images/cefp-networking-01.png)
+<img src="/images/cefp-networking-01.png" width ="600" height="300" >
 
-<img src="/images/cefp-networking-01.png" width =600 height=300/>
 
 ## Networking strategies for social media
 

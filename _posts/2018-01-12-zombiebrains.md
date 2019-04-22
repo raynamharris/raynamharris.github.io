@@ -19,7 +19,7 @@ I recently gave a talk at The North Door for [Nerd Nite Austin][1]. This is a mo
 I knew I would have a sign language interpreter with me on stage, so I tried to minimize jargon and define the scientific words I used. I recorded myself practicing my talk and critiqued the video playback about six times. I focused on reducing my use of filler words "um" and "like". I specifically asked the interpreter to create a sign for "[microbiome][3]" because I knew I would use it more than a dozen times.
 
 
-![image1](/images/zombieinsta.jpg)
+![image1](/images/zombieinsta.png)
 
 _On stage with a sign language translator and a 'Tom Waits does David Attenborough' impersonator. Instagram photos available at /._
 
@@ -27,7 +27,7 @@ _On stage with a sign language translator and a 'Tom Waits does David Attenborou
 
 I wanted to show this [BBC David Attenborough video][4], but I was worried that people would be bored or that the sound quality would be bad, so I decided to play the video on silent and add my own sound. I invited my friend Joseph Palmer to narrate it using his amazing impersonation Tom Waits. With the help of the sound engineer, I cued a clip of [Tom Waits Oily Night song][5] to provide an eerie backdrop. Joseph's performance received much applause and laughter. It was awesome!
 
-![image2](/images/zombietwitter.jpg)
+![image2](/images/zombietwitter.png)
 
 _Watch this 30-second video clip of the Tom Waits-narrated footage of an infected insect being evicted from the social colony at https://twitter.com/R0mination/status/951295758615171072._
 
@@ -59,7 +59,7 @@ To my surprise, this portion of my talk drew even more applause than my friend's
 
 The Q&A lasted for what felt like 15 minutes. Most of the questions were of a biomedical nature that I felt I didn't have the expertise to answer, so I tried to say "I don't know for sure, but here is what I think…" when responding.
 
-I did get one fun question and I responded with some research from the [Lenski Lab][12]. The audience member asked something along the lines of whether or not we should fear gut colonization by ancient bacteria that have been trapped in glaciers but are now being brought back to life.** **I responded by saying Lenski had done a lot of experiments competing older generation and newer generations of bacteria against each other and the newer bacterial almost always performed than the ancient ones. I didn't give him a citation, but [this paper on sustained fitness][13] is what I should have given him.
+I did get one fun question and I responded with some research from the [Lenski Lab][12]. The audience member asked something along the lines of whether or not we should fear gut colonization by ancient bacteria that have been trapped in glaciers but are now being brought back to life. I responded by saying Lenski had done a lot of experiments competing older generation and newer generations of bacteria against each other and the newer bacterial almost always performed than the ancient ones. I didn't give him a citation, but [this paper on sustained fitness][13] is what I should have given him.
 
 
 [1]: https://austin.nerdnite.com/

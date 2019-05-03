@@ -37,7 +37,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 ### Pre-prints
 
 
-1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. [BioRXiv 153585.](https://www.biorxiv.org/content/10.1101/153585v1)
+1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. [BioRXiv 153585.](https://www.biorxiv.org/content/10.1101/153585v3)
 1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. [BioRXiv 107342.](https://www.biorxiv.org/content/10.1101/107342v1)
 
 ### Peer Reviewed Publications
@@ -166,6 +166,8 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ### Guest Lecturer
 
+
+-   Biological Science for Social Justice (NPB 13), UC Davis (2019) [Slides](https://speakerdeck.com/raynamharris/biological-science-for-social-justice-democratizing-data-science)
 -   Comparative Animal Physiology (BIO 361T), UT Austin (2016)
 -   Introduction to Biological Statistics, UT Austin (2014)
 -   Neurobiology of Social Behavior, University of the Republic of

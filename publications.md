@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-description: List and links to publications
+description: List of publications with links
 sitemap:
     priority: 0.7
     lastmod: 2019-01-24

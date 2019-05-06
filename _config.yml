@@ -49,7 +49,7 @@ plugins:
   - jekyll-feed
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Collaborative Conversational Classrooms"
-date:   2019-05-03
+date:   2019-05-06
 excerpt: "Do you ever co-teach with your colleagues? As in sharing the stage, not only splitting the workload? Here's a little story that illustrates how much more engaging class can be when professors teach collaboratively and facilitate conversation."
 image: "/images/eyes.png"
 comments: true

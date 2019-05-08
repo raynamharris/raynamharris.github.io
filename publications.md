@@ -21,17 +21,16 @@ sitemap:
 	      
 <ol reversed>
 
+<li>The one with dissociated hippocampal tissues.
+	<a href="https://www.biorxiv.org/content/10.1101/153585v3">Preprint.</a>	
+	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	</li>	
 
 <li>The one with collaborative lesson development rules.
 	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Article.</a>	
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>		
-	</li>	
-
-<li>The one with reproducible hippocampal transcriptomics.
-	<a href="http://biorxiv.org/content/early/2017/06/21/153585">Article.</a>	
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
-	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>	
 
 

@@ -124,6 +124,8 @@ sitemap:
 
 	</li>
 	
+	<br>
+	
 	
 <h2> Invited and contributed reviews </h2>	
 	
@@ -151,6 +153,8 @@ sitemap:
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1007/978-94-007-7347-9_8" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-94-007-7347-9_8" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>	
+	
+	<br>
 	
 <h2> Education related</h2>	
 	

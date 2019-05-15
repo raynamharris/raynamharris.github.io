@@ -26,7 +26,7 @@ sitemap:
 <li>Harris <i>et al.</i> 2019. The one with dissociated hippocampal tissues.
 
 
-	<a href="https://www.biorxiv.org/content/10.1101/153585v3">Preprint.</a>	
+	<a href="https://www.biorxiv.org/content/10.1101/153585v3">Final version.</a>	
 	
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	

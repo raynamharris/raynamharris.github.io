@@ -148,8 +148,8 @@ sitemap:
 	
 <li>Harris and Hofmann 2013. The one with social behavior and genomics. 
 	<a href="http://link.springer.com/chapter/10.1007/978-94-007-7347-9_8">Link.</a> 
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1007/978-94-007-7347-9_8." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
-	 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-94-007-7347-9_8." data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
+	<div style="display: inline" data-badge-type="bar" data-doi="10.1007/978-94-007-7347-9_8" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-94-007-7347-9_8" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>	
 	
 <h2> Education related</h2>	

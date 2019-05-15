@@ -68,8 +68,8 @@ sitemap:
 
 <li>Simões <i>et al.</i> 2015. The one with tilapia response to pheromones.
 	<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1255-4">Link.</a> 
-	<div style="display: inline"  data-badge-type="bar" data-doi="10.1186/s12864-015-1255-4." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
-			<span class="__dimensions_badge_embed__" data-doi="10.1186/s12864-015-1255-4." data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
+	<div style="display: inline"  data-badge-type="bar" data-doi="10.1186/s12864-015-1255-4" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+			<span class="__dimensions_badge_embed__" data-doi="10.1186/s12864-015-1255-4" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></span>	
 	</li>  
 
 

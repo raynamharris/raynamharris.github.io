@@ -54,7 +54,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 ### Invited Articles and Reviews
 
 
-1. **Harris RM**, O13Connell LA, Hofmann HA (2016) Brain Evolution, Development, and Plasticity, in The Wiley Handbook of Evolutionary Neuroscience (ed S. V. Shepherd), John Wiley & Sons, Ltd, Chichester, UK. doi: 10.1002/9781118316757.ch15
+1. **Harris RM**, O'Connell LA, Hofmann HA (2016) Brain Evolution, Development, and Plasticity, in The Wiley Handbook of Evolutionary Neuroscience (ed S. V. Shepherd), John Wiley & Sons, Ltd, Chichester, UK. doi: 10.1002/9781118316757.ch15
 1. Oldfield RG, **Harris RM**, Hofmann HA (2015) Integrating Resource Defence Theory with Nonapeptide Expression to Explain Variation in Territory-based Mating Systems. Front. Zool. 12:S16.
 1. **Harris RM**, Hofmann HA (2015) Seeing is believing: Dynamic evolution of opsin genes. Proc. Natl. Acad. Sci. U.S.A. 112:1252-1253.
 1. **Harris RM**, Hofmann HA (2014) Neurogenomics of Behavioral Plasticity. Adv. Exp. Med. Biol. 781:149-68.

@@ -32,7 +32,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 ## Publications
 
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>  
-*[Google Scholar](https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en) statistics as of Feb 2019:* 634 citations; h-index of 10, i10-index of 10
+*[Google Scholar](https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en) statistics as of May 2019:* 683 citations; h-index of 11, i10-index of 11
 
 
 ### Peer Reviewed Publications

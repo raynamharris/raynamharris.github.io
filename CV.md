@@ -35,6 +35,13 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 *[Google Scholar](https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en) statistics as of May 2019:* 683 citations; h-index of 11, i10-index of 11
 
 
+### In review
+
+1. Northcutt AJ, Kick DR, Otopalik AG, Goetz BM, Harris RM, Santin JM, Fenton AA, Hofmann HA, Marder E, Schulz DJ (2019) Molecular Profiling to Infer Neuronal Cell Identity: Lessons from small ganglia of the Crab Cancer borealis. [BioRXiv 10.1101/690388](https://www.biorxiv.org/content/10.1101/690388v1)
+1. Clarke DJB et. al. (2019) FAIRshake: toolkit to evaluate the findability, accessibility, interoperability, and reusability of research digital resources. [BioRXiv 10.1101/657676](https://www.biorxiv.org/content/10.1101/657676v1)
+1. Ernst D, Harris RM, Chintamen S, Dickens M, Calisi RM (2019) Differential influence of captive housing environments on zebra finch behavior, stress, and reproductive physiology. Horm. Behav.
+
+
 ### Peer Reviewed Publications
 
 1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Hippocampal transcriptomic responses to enzyme‐mediated cellular dissociation. [Hippocampus 10.1002/hipo.23095](https://onlinelibrary.wiley.com/doi/10.1002/hipo.23095)

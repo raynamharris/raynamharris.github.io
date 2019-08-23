@@ -46,7 +46,6 @@ sitemap:
 
 
 <li>Harris <i>et al.</i> 2019. The one with dissociated hippocampal tissues.
-	<a href="https://onlinelibrary.wiley.com/doi/10.1002/hipo.23095">Final version.</a>	
 	
 		<a href="https://www.biorxiv.org/content/10.1101/153585v3">Preprint </a>	
 

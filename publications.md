@@ -33,7 +33,7 @@ sitemap:
 
 	</li>	
 
-<li>  Clarke DJB <i>et al.</i>  2019. Thw one with FAIRshake tools for reproducibility.
+<li>  Clarke DJB <i>et al.</i>  2019. The one with FAIRshake tools for reproducibility.
 
 	<a href="https://www.biorxiv.org/content/10.1101/657676v1">Preprint.</a>	
 

@@ -80,6 +80,10 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ## Invited and Contributed Talks
 
+- **UC Davis** Next-Gen Sequence Analysis Workshop. Jul 5, 2019 [Slides](https://speakerdeck.com/raynamharris/rnaseq-a-five-course-meal). [Video](https://youtu.be/vAPSd2qPdRI).
+- **rOpenSci** Community call: Multilingual communities. Jun, 28 2019
+- **UC Davis** Environmental Endocrinology Seminar. December 11, 2018 [Slides](https://speakerdeck.com/raynamharris/transcriptional-plasticity-in-the-hippocampus-and-its-role-in-avoidance-learning)
+- **Universidad de Palermo** LatinR. September 4, 2018 [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
 - **IBM Buenos Aires** R Ladies Buenos Aires Meetup. March 27, 2018.
 - **The North Door**. Nerd Nite Austin Texas. January 10, 2018. [Slides](https://speakerdeck.com/raynamharris/zombie-brains-microbial-mind-control)
 - **UT Austin**. RNA/DNA Club. December 11, 2017

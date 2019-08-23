@@ -27,9 +27,9 @@ sitemap:
 <li> Northcutt <i>et al.</i> 2019. The one with unambiguously identified neurons in New England crabs. 	<a href="https://www.biorxiv.org/content/10.1101/690388v1">Preprint.</a>	
 	
 
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/690388v1" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/690388" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
-	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/690388v1" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/690388" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
 	</li>	
 
@@ -37,9 +37,9 @@ sitemap:
 
 	<a href="https://www.biorxiv.org/content/10.1101/657676v1">Preprint.</a>	
 
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/657676v1" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/657676" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
-	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/657676v1" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/657676" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
 
 	</li>	

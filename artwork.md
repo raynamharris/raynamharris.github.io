@@ -31,7 +31,7 @@ _I combine data visualization in R with graphical illustration in Adobe Illustra
 
 
 
-## [Fliers for the 2018 Data Commons Pilot Phase Consortium](https://twitter.com/nih_dcppc) _(2018)_
+## [Fliers for the 2018 Data Commons Pilot Phase Consortium](https://twitter.com/nih_dcppc) [_(2018)_](#DCPPC)
 
 <img src="/images/DCPPC_2018-10-workshop-flyers.png" style="width:100%" align="middle" >
 

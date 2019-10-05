@@ -11,7 +11,7 @@ sitemap:
 # Curriculum Vitae 
 
 
-_Notes: A pdf version of my CV is available [on GitHub](https://github.com/raynamharris/CV/blob/master/CV.pdf). This was last updated on February 24, 2019._
+_Notes: A pdf version of my CV is available [on GitHub](https://github.com/raynamharris/CV/blob/master/CV.pdf). This was last updated on October 4, 2019._
 
 ## Education
 
@@ -32,7 +32,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 ## Publications
 
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>  
-*[Google Scholar](https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en) statistics as of May 2019:* 683 citations; h-index of 11, i10-index of 11
+*[Google Scholar](https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en) statistics as of Sept 2019:* 758 citations; h-index of 11, i10-index of 11
 
 
 ### In review
@@ -76,12 +76,11 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. [BioRXiv 107342.](https://www.biorxiv.org/content/10.1101/107342v1)
 
 
-
-
 ## Invited and Contributed Talks
 
+_ **UCLA** UCLAFORCE11 Scholarly Communication Institute. Aug 5, 2019 [Slides](https://speakerdeck.com/raynamharris/community-driven-efforts-to-translate-educational-materials-into-many-languages).
 - **UC Davis** Next-Gen Sequence Analysis Workshop. Jul 5, 2019 [Slides](https://speakerdeck.com/raynamharris/rnaseq-a-five-course-meal). [Video](https://youtu.be/vAPSd2qPdRI).
-- **rOpenSci** Community call: Multilingual communities. Jun, 28 2019
+- **rOpenSci** Community call: Multilingual communities. Jun, 28 2019 [Slides](https://speakerdeck.com/raynamharris/ropensci-community-call-managing-multilingual-communities). [Video](https://ropensci.org/commcalls/2019-06-28/).
 - **UC Davis** Environmental Endocrinology Seminar. December 11, 2018 [Slides](https://speakerdeck.com/raynamharris/transcriptional-plasticity-in-the-hippocampus-and-its-role-in-avoidance-learning)
 - **Universidad de Palermo** LatinR. September 4, 2018 [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
 - **IBM Buenos Aires** R Ladies Buenos Aires Meetup. March 27, 2018.
@@ -107,6 +106,8 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ## Scientific Posters
 
+- 2019 Society for Behavioral Neuroendocrinology (SBN) Annual Meeting. Bloomington, IN [Poster](https://www.overleaf.com/read/fwpgzsxhmkxw)
+- 2019 Scientific Computing with Python (SciPy). Austin, TX [Poster](https://www.overleaf.com/project/5cc20fbf61491f0afa725048)
 - 2017 The Moore Foundation Early Career Researcher Symposium. Waikoloa Beach, HI
 - 2016 Society for Neuroscience Annual Meeting. San Diego, CA
 - 2016 International Congress of Neuroethology. Montevideo, Uruguay
@@ -131,7 +132,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ## Professional Activities
 
-- **Peer-reviewer** Behavioral Ecology; Gene; Genes, Genomes & Genetics; Journal of Experimental Zoology Part A; Physiology & Behavior; PLOS ONE; Proceedings of the Royal Society B.
+- **Peer-reviewer** AAS  Open  Research; Behavioral Ecology; Gene; Genes, Genomes & Genetics; Journal of Experimental Zoology Part A; Nature; Physiology & Behavior; PLOS ONE; Proceedings of the Royal Society B; rOpenSci.
 - **Secretary** Software Carpentry Steering Committee, 2017-2018
 - **Member** Software Carpentry Steering Committee, 2016-2017
 - **Poster Judge** College of Natural Science Undergraduate Research Forum, 2016, 17
@@ -148,14 +149,15 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ### Lesson Development 
 
--	Maintainer of the Software Carpentry Git and Data Carpentry Genomics lessons
-- 	Contributor to the Spanish Translations of UNIX, GIT and R
--   Instructor Training, Software Carpentry and Data Carpentry
--   Reproducible Research with Jupyter Notebooks, Data Carpentry
--   Integrative Molecular Neuroethology, Neural Systems & Behavior
-    Course
+-   The Carpentries: Instructor Training
+-   Data Carpentry: Python usando datos de ecologa
+-   Software Carpentry: La Terminal de Unix
+-   Software Carpentry: Control de Versiones con Git
+-   Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module.
+
 
 ### Lead or Co-Lead Instructor 
+
 -   Instructor Training, Software Carpentry and Data Carpentry (2016 –
     present)
 -   Integrative Molecular Neuroethology, Neural Systems & Behavior

@@ -84,7 +84,7 @@ sitemap:
 	
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1098/rspb.2016.2838" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
-	<div class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2016.2838" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	<div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1098/rspb.2016.2838" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>	
 
 
@@ -93,7 +93,7 @@ sitemap:
 	
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1159/000445463" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
-				<div class="__dimensions_badge_embed__" data-doi="10.1159/000445463" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	<div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1159/000445463" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
 
 
@@ -103,7 +103,7 @@ sitemap:
 	
 	<div style="display: inline"  data-badge-type="bar" data-doi="10.1186/s12864-015-1255-4" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	
-			<div class="__dimensions_badge_embed__" data-doi="10.1186/s12864-015-1255-4" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1186/s12864-015-1255-4" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>  
 
 
@@ -112,7 +112,7 @@ sitemap:
 	
 	<div style="display: inline"  data-badge-type="bar" data-doi="10.1038/nature13726" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	 
-	 <div class="__dimensions_badge_embed__" data-doi="10.1038/nature13726" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	 <div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1038/nature13726" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
 	
 	<li>Stiver <i>et al.</i> 2014. The one with wrasse reproductive tactics. 
@@ -120,7 +120,7 @@ sitemap:
 	
 	<div style="display: inline"  data-badge-type="bar" data-doi="10.1111/eth.12324" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>  
 		
-		<div class="__dimensions_badge_embed__" data-doi="10.1111/eth.12324" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	<div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1111/eth.12324" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
 
 

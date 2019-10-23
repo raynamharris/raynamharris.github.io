@@ -126,15 +126,19 @@ sitemap:
 
 <li>Smith <i>et al.</i> 2014. The one with swordtails, hormones, and body size.
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.smith_.biofish.pdf">PDF.</a>
+	
 	<div style="display: inline"  data-badge-type="bar" data-doi="10.1007/s10641-014-0234-y" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
-		 <div class="__dimensions_badge_embed__" data-doi="10.1007/s10641-014-0234-y" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	
+	<div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1007/s10641-014-0234-y" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
 
 
 <li>Fischer <i>et al.</i> 2013. The one with stressed-out guppies.
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.fischer.hb_.pdf">PDF.</a> 
+	
 	<div style="display: inline"  data-badge-type="bar" data-doi="10.1016/j.yhbeh.2013.12.010" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
-			 <div class="__dimensions_badge_embed__" data-doi="10.1016/j.yhbeh.2013.12.010" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	
+	<div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1016/j.yhbeh.2013.12.010" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
 
 
@@ -143,22 +147,28 @@ sitemap:
 
 <li>Harris <i>et al.</i> 2013. The one with pro-opiomelanocortin gene evolution. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.harris.gce_.pdf">PDF.</a> 
+	
 	<div style="display: inline"  data-badge-type="bar" data-doi="10.1016/j.ygcen.2013.10.007" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
-		 <div class="__dimensions_badge_embed__" data-doi="10.1016/j.ygcen.2013.10.007" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1016/j.ygcen.2013.10.007" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
 
 
 <li>Sessa <i>et al.</i> 2013. The one with monogamy and steroid hormones. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2013.sessa_.gce_.pdf">PDF.</a> 
+	
 	<div style="display: inline"  data-badge-type="bar" data-doi="10.1016/j.ygcen.2013.04.031" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
-			 <div class="__dimensions_badge_embed__" data-doi="10.1016/j.ygcen.2013.04.031" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1016/j.ygcen.2013.04.031" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
 
 
 <li>Oldfield <i>et al.</i> 2013. The one with monogamy and peptides. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2013.oldfield.hb_.pdf">PDF.</a> 
+	
 	<div style="display: inline"  data-badge-type="bar" data-doi="10.1016/j.yhbeh.2013.04.006" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
-				 <div class="__dimensions_badge_embed__" data-doi="10.1016/j.yhbeh.2013.04.006" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1016/j.yhbeh.2013.04.006" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
 	</li>
 	
@@ -168,28 +178,34 @@ sitemap:
 <h2> Invited and contributed reviews </h2>	
 	
 	<li>Harris <i>et al.</i> 2016. The one with brain evolution and development. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118316757.ch15/summary;jsessionid=EB7AD7A6F077FF7A89EEE0C71E70A8FD.f02t03">Article</a>.
+	
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1002/9781118316757.ch15" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
-			<div class="__dimensions_badge_embed__" data-doi="10.1002/9781118316757.ch15" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1002/9781118316757.ch15" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	 </li>	
 	
 
 	<li>Oldfield <i>et al.</i> 2015. The one with vasopressin and space use theory. 
 	<a href="http://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-12-S1-S16">Link.</a> 
+	
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1186/1742-9994-12-S1-S16" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
-					<div class="__dimensions_badge_embed__" data-doi="10.1186/1742-9994-12-S1-S16" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1186/1742-9994-12-S1-S16" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
 	
 	
-	<li>Harris and Hofmann 2015. The one with opsin gene evolution.
+<li>Harris and Hofmann 2015. The one with opsin gene evolution.
 	<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4321264/">Link.</a> 
+	
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1073/pnas.1423685112" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
-				<div class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1423685112" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1423685112" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
 	
 <li>Harris and Hofmann 2013. The one with social behavior and genomics. 
 	<a href="http://link.springer.com/chapter/10.1007/978-94-007-7347-9_8">Link.</a> 
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1007/978-94-007-7347-9_8" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
-	 <div class="__dimensions_badge_embed__" data-doi="10.1007/978-94-007-7347-9_8" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	 <div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1007/978-94-007-7347-9_8" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>	
 	
 	<br>
@@ -199,13 +215,13 @@ sitemap:
 <li>Devenyi <i>et al.</i> 2018. The one with collaborative lesson development rules.
 	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Link.</a>	
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
-	<div class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
 	</li>	
 	
 <li>Harris <i>et al.</i> 2017. The one with qPCR on crab neurons at summer camp.   
 	<a href="http://biorxiv.org/content/early/2017/02/10/107342">PDF.</a> 
 	<div style="display: inline"  data-badge-type="bar" data-doi="10.1101/107342." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
-	<div class="__dimensions_badge_embed__" data-doi="10.1101/107342." data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	<div style="display: inline" class="__dimensions_badge_embed__"  data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
  </li>		
 </ol>
 	  

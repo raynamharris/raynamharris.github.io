@@ -24,6 +24,15 @@ sitemap:
 <h2> Peer-reviewed research </h2>
 
 
+<li> Lang <i>et al.</i> 2019. The one about stress-relating splicing. 	<a href="https://www.biorxiv.org/content/10.1101/798413v1">Preprint.</a>	
+	
+	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/798413" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/798413" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+
+	</li>
+
+
 <li> Northcutt <i>et al.</i> 2019. The one with neurons from New England crabs. 	<a href="https://www.biorxiv.org/content/10.1101/690388v1">Preprint.</a>	
 	
 

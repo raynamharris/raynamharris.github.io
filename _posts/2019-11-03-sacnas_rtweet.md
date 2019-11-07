@@ -15,33 +15,31 @@ In this blog post, I’ll explain how I use R to analyze and visual twitter data
 Step 1. Get data
 ----------------
 
-`rtweet` is an R package that collects Twitter data via Twitter’s REST
-Application Program Interfaces (API). The function `search_tweets`
+**rtweet** is an R package that collects Twitter data via Twitter’s REST
+Application Program Interfaces (API). The function "search_tweets"
 returns Twitter statuses that match a user-provided search query from
 the past 6-9 days. There is a limit to how many statuses you can return
 on a given day, so if you need to collect more than 18,000 statuses, set
 “retryonratelimit” to TRUE. Sometimes I like to call the API multiple
 times a day, so I set the number of statuses to return to a number
-slightly above how many I expect to be returned. Here, I set `n=2000`
+slightly above how many I expect to be returned. Here, I set "n=2000"`"
 and the total number of statuses returned was about 1400 tweets and
 retweets.
 
 For this analysis, I searched for all tweets UC Davis-related tweets
 (\#ThinkBigDiversity) at the SACNAS conference (\#2019SACNAS) by setting
-the query to `2019sacnas AND thinkbigdiversity`. (The query is not case
+the query to "2019sacnas AND thinkbigdiversity". (The query is not case
 sensitive.) When I learned that one of my colleagues forgot to use the
 \#ThinkBigDiversity hashtags a few times, I added his twitter handle,
-[TTLFilms](https://www.twitter.com/TTLFilms/), to the query with an `OR`
+[TTLFilms](https://www.twitter.com/TTLFilms/), to the query with an OR
 statement. At this point my code looks like this:
 
     library(rtweet)
     statuses <- search_tweets('2019sacnas AND thinkbigdiversity OR TTLFilms', n=2000) 
 
 This returns a very large data frame that has a lot of useful
-information, but I mostly only interested in original tweets
-(`is_retweet == "FALSE"`) who’s tweeting (`screen_name`), what they are
-tweeting (`text`), the number of retweets (`retweet_count`), and the
-number of favorites (`favorite_count`). So, I use the `tidyverse`
+information, but I mostly only interested in original tweets, who’s tweeting, the content of the tweet, the number of retweets, and the
+number of favorites.  I use the **tidyverse**
 package to select the columns and rows of interest to create a “slim”
 data frame that is a little easier to work with because of its smaller
 size.
@@ -74,9 +72,9 @@ Now that we have the data, we can start to look at some metrics. I use
 
     ## [1] 472
 
-Then, I use `colSums()` to calculate the total number of retweets and
-favorites `colSums()` only works on data frames or Tibbles that are
-numeric, so I use `select()` to pick my columns of interest.
+Then, I use colSums() to calculate the total number of retweets and
+favorites colSums() only works on data frames or Tibbles that are
+numeric, so I use select() to pick my columns of interest.
 
     statusesslim %>% 
       select(retweet_count,favorite_count) %>% 
@@ -90,8 +88,8 @@ times and favorited about 7000 times, or that on average, each tweet got
 2 retweets and a little more than 10 favorites. However, I know that
 some tweeters have a large audience and get lots of retweets while
 others are new to Twitter and are still growing there audience, so I use
-`group_by()` and `summarize()` to create a new data frame called
-`original` that contains information about the total tweets, favorites,
+`group_by()` and summarize() to create a new data frame called
+"original" that contains information about the total tweets, favorites,
 retweets, average favorites, and average retweets for each Twitter user
 that tweeted at least 3 tweets that matched the query.
 
@@ -134,7 +132,7 @@ adjust the theme.*)
       theme(panel.grid = element_blank())
     }
 
-I also like to add images to plots with `magick` and `cowplot`. I switch
+I also like to add images to plots with **magick** and **cowplot**. I switch
 between two methods depending on how hard it is to position the image
 exactly where I want it on the plot. I prefer to read images from URLs
 rather than from file because this makes my analysis pipeline easier to
@@ -150,7 +148,7 @@ images because they take longer to load.
     img <- image_read("https://pbs.twimg.com/media/EIPMxsyWwBMdsHQ?format=jpg&name=4096x4096")
     rast <- grid::rasterGrob(img, interpolate = T)
 
-This first plot uses a function from the `rtweets` package called
+This first plot uses a function from the **rtweets** package called
 `ts_plot()` to visualize the frequency of tweets over a specified
 interval of time. I always start with this image because it show when
 data was collected. This conference took place on Oct 30- November 2,
@@ -200,7 +198,7 @@ what questions can be answered with this plot.
 <img src="/images/sacnas_live-1.png" style="width:100%" align="middle" >
 
 Then, I examine which tweeters gained the most favorites or the most
-retweets for all of their tweets combined. I use the package `cowplot`
+retweets for all of their tweets combined. I use the package **cowplot**
 and the function `plot_grid` to place the two plots side by side.
 
     library(cowplot)

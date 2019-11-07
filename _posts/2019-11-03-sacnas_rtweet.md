@@ -2,12 +2,12 @@
 layout: post
 title:  "Using R to analyze and visualize tweets from SACNAS"
 date:   2019-11-07
-excerpt:	"This blog post explains how I use R to analyze Twitter data to gain a better understanding of who is tweeting at conferences and how impactful those tweets are. I hope you find this explanation useful and that it inspires you conduct your own analyses of Twitter data."
+excerpt:	"This blog post explains how I use R to analyze Twitter data to gain a better understanding of who is tweeting at conferences and how impactful those tweets are. I hope you find this explanation useful and that it inspires you to conduct your own analyses of Twitter data."
 image: "/images/sacnas_live-1.png"
 comments: true
 ---
 
-Organizations are increasingly using Twitter data as metrics for success, and they sometimes pay lots money of for this kind of analysis. I've been using R to analyze tweets at conferences ever since I read [François Michonneau's](https://twitter.com/fmic_) blog post about [analyzing tweets at CarpentryCon](https://carpentries.org/2018/06/carpentrycon-tweets). Usually, I do this analysis for fun, but this year my goal was to collect data that my colleagues at UC Davis could as evidence that our presence our social media efforts at [SACNAS](https://www.2019sacnas.org/) were having a quantifiable impact. 
+Organizations are increasingly using Twitter data as metrics for success, and they sometimes pay lots of money for this kind of analysis. I've been using R to analyze tweets at conferences ever since I read [François Michonneau's](https://twitter.com/fmic_) blog post about [analyzing tweets at CarpentryCon](https://carpentries.org/2018/06/carpentrycon-tweets). Usually, I do this analysis for fun, but this year my goal was to collect data that my colleagues at UC Davis could as evidence that our presence our social media efforts at [SACNAS](https://www.2019sacnas.org/) were having a quantifiable impact. 
 
 In this blog post, I’ll explain how I use R to analyze and visual twitter data. I've written it like a tutorial and have included all the code you need to reproduce the analysis, or you can also view the code as [an R script in this gist](https://gist.github.com/raynamharris/289c08c8a428f201345cce44e1f5a8fb). I hope these will be valuable resources that you can modify and reuse.
 
@@ -74,9 +74,9 @@ Now that we have the data, we can start to look at some metrics. I use
 
     ## [1] 472
 
-Then, I use `colSums()` to caluculate the total number of retweets and
-favorites `colSums()` only works on data frames or tibbles that are
-numeric, so I use `select()` to pick my columsn of interest.
+Then, I use `colSums()` to calculate the total number of retweets and
+favorites `colSums()` only works on data frames or Tibbles that are
+numeric, so I use `select()` to pick my columns of interest.
 
     statusesslim %>% 
       select(retweet_count,favorite_count) %>% 
@@ -154,7 +154,7 @@ This first plot uses a function from the `rtweets` package called
 `ts_plot()` to visualize the frequency of tweets over a specified
 interval of time. I always start with this image because it show when
 data was collected. This conference took place on Oct 30- November 2,
-but tweets were collected from the Oct 28 - Nov 6.
+but tweets were collected from Oct 28 - Nov 6.
 
     tweetsovertime <- ts_plot(statuses, "8 hour") +
       #theme(mytheme) +
@@ -180,7 +180,7 @@ filter the data to the top 15 users for each of the plots rather than
 showing all users to ensure that the axes are always readable. I use
 `geom_text` to label the bars with the value. I like to use school
 colors if I can, so I encourage you to play around with the colors to
-match an affilation. I add an explanatory subtitle to give a sense of
+match an affiliation. I add an explanatory subtitle to give a sense of
 what questions can be answered with this plot.
 
     original %>% top_n(15, n_tweets) %>%
@@ -275,7 +275,7 @@ which retweets came from people who were not at the conference. Given
 that there were over 5000 attendees, this seemed too daunting of a task;
 however, I thought it would be feasible and meaningful to analyze which
 retweets were from people not associated with UC-Davis. This “outreach”
-analysis would give me sense of which tweets reached the broadest
+analysis would give me a sense of which tweets reached the broadest
 audience because they were retweeted by people outside our core network.
 
 To do this, I first created a list of all the Twitter handles of
@@ -319,7 +319,7 @@ had a broad impact.
 
 Even though I’m not interested in using Twitter for marketing or
 identifying influencers, I imagine that some people are. In this final
-vizualization, the top panel shows which non-UC Davis Tweeters retweeted
+visualization, the top panel shows which non-UC Davis Tweeters retweeted
 us the most. I think this is an indicator of people who have shared
 values and might be valuable influencers. The bottom panel shows which
 tweets reached the broadest audience, which could be good tweets to
@@ -394,7 +394,7 @@ as we worked on a documentary about the conference. I’m thankful that
 [Renetta Tull](https://www.twitter.com/Renetta_Tull/) brought together
 40 faculty members, students, postdoc and staff from across the UC Davis
 campus to work together to promoting diversity in STEM through Twitter.
-I grateful to [Victoria Farrar](https://twitter.com/vs_farrar) for
+I am grateful to [Victoria Farrar](https://twitter.com/vs_farrar) for
 testing the R code and to [Stefanie
 Butland](https://twitter.com/stefaniebutland) for suggesting new
 analyses. Thank you for reading :)

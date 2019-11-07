@@ -381,7 +381,7 @@ Acknowledgments
 This blog post was inspired by a conversation about Twitter analytics in
 the Honolulu airport with [Yaihara
 Fortis](https://twitter.com/yfortiss/),  
-[Laurel Allen](https://twitter.com/LCA_ink/) and [Lauren
+[Laurel Allen](https://twitter.com/LCA_ink/), and [Lauren
 Esposito](https://twitter.com/ArachnologyNerd/). I want to thank my
 advisor, [Rebecca Calisi
 Rodriguez](https://www.twitter.com/BeccaCalisi/), for enthusiastically

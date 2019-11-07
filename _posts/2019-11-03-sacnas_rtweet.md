@@ -28,9 +28,7 @@ retweets.
 
 For this analysis, I searched for all tweets UC Davis-related tweets
 (\#ThinkBigDiversity) at the SACNAS conference (\#2019SACNAS) by setting
-the query to "2019sacnas AND thinkbigdiversity". (The query is not case
-sensitive.) When I learned that one of my colleagues forgot to use the
-\#ThinkBigDiversity hashtags a few times, I added his twitter handle,
+the query to "2019sacnas AND thinkbigdiversity".  When I learned that one of my colleagues forgot to use the \#ThinkBigDiversity hashtags a few times, I added his twitter handle,
 [TTLFilms](https://www.twitter.com/TTLFilms/), to the query with an OR
 statement. At this point my code looks like this:
 
@@ -66,7 +64,7 @@ Step 2. Calculate summary statistics
 ------------------------------------
 
 Now that we have the data, we can start to look at some metrics. I use
-`nrow()` to calculate the total number of original tweets.
+nrow() to calculate the total number of original tweets.
 
     nrow(statusesslim)
 
@@ -88,7 +86,7 @@ times and favorited about 7000 times, or that on average, each tweet got
 2 retweets and a little more than 10 favorites. However, I know that
 some tweeters have a large audience and get lots of retweets while
 others are new to Twitter and are still growing there audience, so I use
-`group_by()` and summarize() to create a new data frame called
+group_by() and summarize() to create a new data frame called
 "original" that contains information about the total tweets, favorites,
 retweets, average favorites, and average retweets for each Twitter user
 that tweeted at least 3 tweets that matched the query.
@@ -118,13 +116,13 @@ that tweeted at least 3 tweets that matched the query.
 Step 3. Visualize data
 ----------------------
 
-One thing I’ve started recently doing is first creating a **personalized
-theme** that I can add to each plot for a unified look. I highly
+One thing I’ve started recently doing is first creating a personalized
+theme that I can add to each plot for a unified look. I highly
 recommend doing this! Depending on how much you modify your theme, it
 may or may not save you a lot of total lines of code, but it ensures
 that all your figures always have all your favorite custom settings. I
-like to use `theme_minimal` with font size 8 and no gridlines. (*Note:
-for some reason, custom themes don’t work with `ts_plot`, so I manually
+like to use theme_minimal() with font size 8 and no gridlines. (*Note:
+for some reason, custom themes don’t work with ts_plot(), so I manually
 adjust the theme.*)
 
     mytheme <- function(){
@@ -149,7 +147,7 @@ images because they take longer to load.
     rast <- grid::rasterGrob(img, interpolate = T)
 
 This first plot uses a function from the **rtweets** package called
-`ts_plot()` to visualize the frequency of tweets over a specified
+ts_plot() to visualize the frequency of tweets over a specified
 interval of time. I always start with this image because it show when
 data was collected. This conference took place on Oct 30- November 2,
 but tweets were collected from Oct 28 - Nov 6.
@@ -176,7 +174,7 @@ to read the names, and I reorder the axis so that the names are
 presented in descending order rather than alphabetical order. I also
 filter the data to the top 15 users for each of the plots rather than
 showing all users to ensure that the axes are always readable. I use
-`geom_text` to label the bars with the value. I like to use school
+geom_text to label the bars with the value. I like to use school
 colors if I can, so I encourage you to play around with the colors to
 match an affiliation. I add an explanatory subtitle to give a sense of
 what questions can be answered with this plot.
@@ -199,7 +197,7 @@ what questions can be answered with this plot.
 
 Then, I examine which tweeters gained the most favorites or the most
 retweets for all of their tweets combined. I use the package **cowplot**
-and the function `plot_grid` to place the two plots side by side.
+and the function plot_grid() to place the two plots side by side.
 
     library(cowplot)
 
@@ -281,8 +279,8 @@ students, faculty, and staff at UC Davis. I might have missed a few, but
 I think it’s fairly comprehensive. Then, I created two data frames, one
 with the total retweets (including quoted retweets) and one with
 retweets from outside UC Davis. *The columns are a little confusing, in
-my opinion, because `screen_name` refers to the person who retweets a
-tweet while `retweet_screen_name` refers to the person who wrote the
+my opinion, because "screen_name" refers to the person who retweets a
+tweet while "retweet_screen_name" refers to the person who wrote the
 original tweet.*
 
 The total rows in each data frame are equivalent to the total retweets,

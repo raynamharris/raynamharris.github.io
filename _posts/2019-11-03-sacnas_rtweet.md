@@ -365,7 +365,7 @@ tweet of the entire twitter campaign.
 Conclusion
 ----------
 
-So, that’s how I use R to analysis Twitter data to gain a better
+So, that’s how I use R to analyze Twitter data to gain a better
 understanding of who is tweeting and how impactful those tweets are. I
 hope you found this explanation useful and that it inspires you to
 conduct your own \#rstats analysis of Twitter data. Feel free to add

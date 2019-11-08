@@ -147,8 +147,8 @@ ajusto manualmente el tema.*)
       theme(panel.grid = element_blank()) # sin líneas de cuadrícula
     }
 
-También me gusta agregar imágenes a las parcelas con **magick** y
-**cowplot**. Cambio entre dos métodos dependiendo de lo difícil que sea
+También me gusta agregar imágenes a las parcelas con [**magick**](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) y
+[**cowplot**](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html). Cambio entre dos métodos dependiendo de lo difícil que sea
 posicionar la imagen exactamente donde la quiero en la trama. Prefiero
 leer imágenes de URL en lugar de archivos porque esto hace que mi canal
 de análisis sea más fácil de reproducir y reutilizar. Tenga paciencia
@@ -164,11 +164,7 @@ cargarse.
     img <- image_read("https://pbs.twimg.com/media/EIPodEKX0AAdF8C?format=jpg&name=small")
     rast <- grid::rasterGrob(img, interpolate = T)
 
-This first plot uses a function from the `rtweets` package called
-`ts_plot()` to visualize the frequency of tweets over a specified
-interval of time. I always start with this image because it show when
-data was collected. This conference took place on Oct 30- November 2,
-but tweets were collected from the Oct 28 - Nov 6.
+Esta primera gráfica utiliza una función del paquete **rtweets** llamada ts_plot() para visualizar la frecuencia de los tweets durante los últimos 6-9 días. Siempre empiezo con esta imagen porque muestra cuándo se recopilaron los datos. Esta conferencia tuvo lugar del 30 de octubre al 2 de noviembre, pero se recogieron tweets del 31 de octubre al 8 de noviembre.
 
     tiempodetweets <- ts_plot(estados, "8 hour") +
       ggplot2::labs(y = "Número de tweets y retweets por 8 horas", 
@@ -277,8 +273,7 @@ audiencia.
 Paso adicional: examina los retweets para buscar alcance
 --------------------------------------------------------
 
-En este punto de mi análisis, contacté a [un grupo de gerentes de la
-comunidad](https://www.cscce.org/cefp/meet-our-fellows/) y le pregunté
+En este punto de mi análisis, contacté a [un grupo de líderes de la comunidad](https://www.cscce.org/cefp/meet-our-fellows/) y le pregunté
 qué métricas adicionales debería investigar. [Stefanie
 Butland](https://twitter.com/stefaniebutland) me preguntó si podía
 evaluar qué retweets provenían de personas que no estaban en la
@@ -350,7 +345,7 @@ llegaron a una gran audiencia y tuvieron un amplio impacto.
 
     ## [1] 78.15126
 
-Aunque no estoy interesado en usar Twitter para comercializar o
+Aunque no es de mi interés  en usar Twitter para comercializar o
 identificar personas influyentes, imagino que algunas personas sí lo
 están. En esta visualización final, el panel superior muestra qué
 Tweeters que no son de UC Davis nos retuitearon más. Creo que este es un
@@ -429,7 +424,4 @@ conferencia. Estoy agradecido de que [Renetta
 Tull](https://www.twitter.com/Renetta_Tull/) reunió a 40 miembros de la
 facultad, estudiantes, postdoctorados y personal de todo el campus de UC
 Davis para trabajar juntos para promover la diversidad en STEM a través
-de Twitter. Agradezco a [Victoria Farrar](https://twitter.com/vs_farrar)
-por probar el código R y a [Stefanie
-Butland](https://twitter.com/stefaniebutland) por sugerir nuevos
-análisis. Gracias por leer :)
+de Twitter. Agradezco a [Victoria Farrar](https://twitter.com/vs_farrar) por probar el código R, a [Stefanie Butland](https://twitter.com/stefaniebutland) por sugerir nuevos análisis, y a [Pachá](https://twitter.com/pachamaltese) por feedback sobre la traducción. Gracias por leer :)

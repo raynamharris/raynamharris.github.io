@@ -50,7 +50,7 @@ código se ve así:
     estados <- search_tweets('2019sacnas AND CienciaPR OR CienciaBoricua OR PuertoRico', n=2000) 
 
 Esto devuelve un dataframe muy grande que tiene mucha información útil,
-pero estoy interesada en los tweets en los tweets originales, quién está
+pero estoy interesada en los tweets originales, quién está
 twitteando, qué están twitteando, el número de retweets y el número de
 favoritos. Por lo tanto, utilizo el paquete
 [**tidyverse**](https://www.tidyverse.org/) para seleccionar las
@@ -147,7 +147,7 @@ ajusto manualmente el tema.*)
       theme(panel.grid = element_blank()) # sin líneas de cuadrícula
     }
 
-También me gusta agregar imágenes a las parcelas con [**magick**](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) y
+También me gusta agregar imágenes a las figuras con [**magick**](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) y
 [**cowplot**](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html). Cambio entre dos métodos dependiendo de lo difícil que sea
 posicionar la imagen exactamente donde la quiero en la trama. Prefiero
 leer imágenes de URL en lugar de archivos porque esto hace que mi canal

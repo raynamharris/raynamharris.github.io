@@ -37,13 +37,18 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ### In review
 
-1. Northcutt AJ, Kick DR, Otopalik AG, Goetz BM, Harris RM, Santin JM, Fenton AA, Hofmann HA, Marder E, Schulz DJ (2019) Molecular Profiling to Infer Neuronal Cell Identity: Lessons from small ganglia of the Crab Cancer borealis. [BioRXiv 10.1101/690388](https://www.biorxiv.org/content/10.1101/690388v1)
-1. Clarke DJB et. al. (2019) FAIRshake: toolkit to evaluate the findability, accessibility, interoperability, and reusability of research digital resources. [BioRXiv 10.1101/657676](https://www.biorxiv.org/content/10.1101/657676v1)
+1. **Harris RM**, Kao HY, Alarcón JM, Fenton AA, Hofmann HA (2020). Transcriptome analysis of hippocampal subfields identifies gene expression profiles associated with long-term active place avoidance memory
+bioRxiv 2020.02.05.935759; doi: https://doi.org/10.1101/2020.02.05.935759
+
+<!---
 1. Ernst D, Harris RM, Chintamen S, Dickens M, Calisi RM (2019) Differential influence of captive housing environments on zebra finch behavior, stress, and reproductive physiology. Horm. Behav.
+--->
 
 
 ### Peer Reviewed Publications
 
+1. Northcutt AJ, Kick DR, Otopalik AG, Goetz BM, **Harris RM**, Santin JM, Fenton AA, Hofmann HA, Marder E, Schulz DJ (2019) Molecular Profiling to Infer Neuronal Cell Identity: Lessons from small ganglia of the Crab Cancer borealis. PNAS 116 (52) 26980-26990 [DOI: 10.1073/pnas.1911413116](https://www.pnas.org/content/116/52/26980)
+1. Clarke DJB et. al. (2019) FAIRshake: Toolkit to Evaluate the FAIRness of Research Digital Resources [Cell Systems https://doi.org/10.1016/j.cels.2019.09.011](https://www.sciencedirect.com/science/article/abs/pii/S240547121930345X)
 1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Hippocampal transcriptomic responses to enzyme‐mediated cellular dissociation. [Hippocampus 10.1002/hipo.23095](https://onlinelibrary.wiley.com/doi/10.1002/hipo.23095)
 1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten simple rules for collaborative lesson development. [PLoS Comput Biol 14(3): e1005963.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
 1. Renn SPC, Machado H, Duftner N, **Harris RM**, Sessa AK, Hofmann HA. Gene Expression Signatures of Mating System Evolution. [Genome. DOI: 10.1139/gen-2017-0075.](http://www.nrcresearchpress.com/doi/full/10.1139/gen-2017-0075#.XHMI2ZNKgn0)

@@ -24,6 +24,16 @@ sitemap:
 <h2> Peer-reviewed research </h2>
 
 
+<li>Harris <i>et al.</i> 2020. The one about mice memories and hippocampals transcriptomes.<a href="https://www.biorxiv.org/content/10.1101/2020.02.05.935759v1">Preprint.</a>	
+	
+	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/2020.02.05.935759" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/2020.02.05.935759" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+
+	</li>
+
+
+
 <li> Lang <i>et al.</i> 2019. The one about stress-relating splicing in birds. 	<a href="https://www.biorxiv.org/content/10.1101/798413v1">Preprint.</a>	
 	
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/798413" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>

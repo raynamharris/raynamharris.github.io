@@ -4,14 +4,14 @@ title: Curriculum Vitae
 description: My CV
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2020-02-14
     changefreq: weekly
 ---
 
 # Curriculum Vitae 
 
 
-_Notes: A pdf version of my CV is available [on GitHub](https://github.com/raynamharris/CV/blob/master/CV.pdf). This was last updated on October 4, 2019._
+_Notes: A pdf version of my CV is available [on GitHub](https://github.com/raynamharris/CV/blob/master/CV.pdf). This was last updated on February 14, 2020._
 
 ## Education
 
@@ -35,7 +35,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 *[Google Scholar](https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en) statistics as of Sept 2019:* 758 citations; h-index of 11, i10-index of 11
 
 
-### In review
+### Preprints
 
 1. **Harris RM**, Kao HY, Alarcón JM, Fenton AA, Hofmann HA (2020). Transcriptome analysis of hippocampal subfields identifies gene expression profiles associated with long-term active place avoidance memory
 bioRxiv 2020.02.05.935759; doi: https://doi.org/10.1101/2020.02.05.935759
@@ -71,7 +71,7 @@ bioRxiv 2020.02.05.935759; doi: https://doi.org/10.1101/2020.02.05.935759
 1. **Harris RM**, Hofmann HA (2015) Seeing is believing: Dynamic evolution of opsin genes. Proc. Natl. Acad. Sci. U.S.A. 112:1252-1253.
 1. **Harris RM**, Hofmann HA (2014) Neurogenomics of Behavioral Plasticity. Adv. Exp. Med. Biol. 781:149-68.
 
-### Education-related
+### Education-related publications
 
 1. Martinez P.A, Saldago H, **Harris RM** (eds), 29 authors including **Harris RM** (2019). datacarpentry/python-ecology-lesson-es: Data Carpentry: Lección de Data Carpentry - Python usando datos de ecología - Enero 2019 (Version v2019.01.0). Zenodo. <http://doi.org/10.5281/zenodo.2536379>
 1. Saldago H (ed), 49 authors including **Harris RM**. (2018) Software Carpentry Shell Novice in Spanish, Version v2018.04.1. <http://doi.org/10.5281/zenodo.1198732>
@@ -83,7 +83,7 @@ bioRxiv 2020.02.05.935759; doi: https://doi.org/10.1101/2020.02.05.935759
 
 ## Invited and Contributed Talks
 
-_ **UCLA** UCLAFORCE11 Scholarly Communication Institute. Aug 5, 2019 [Slides](https://speakerdeck.com/raynamharris/community-driven-efforts-to-translate-educational-materials-into-many-languages).
+- **UCLA** UCLAFORCE11 Scholarly Communication Institute. Aug 5, 2019 [Slides](https://speakerdeck.com/raynamharris/community-driven-efforts-to-translate-educational-materials-into-many-languages).
 - **UC Davis** Next-Gen Sequence Analysis Workshop. Jul 5, 2019 [Slides](https://speakerdeck.com/raynamharris/rnaseq-a-five-course-meal). [Video](https://youtu.be/vAPSd2qPdRI).
 - **rOpenSci** Community call: Multilingual communities. Jun, 28 2019 [Slides](https://speakerdeck.com/raynamharris/ropensci-community-call-managing-multilingual-communities). [Video](https://ropensci.org/commcalls/2019-06-28/).
 - **UC Davis** Environmental Endocrinology Seminar. December 11, 2018 [Slides](https://speakerdeck.com/raynamharris/transcriptional-plasticity-in-the-hippocampus-and-its-role-in-avoidance-learning)
@@ -137,7 +137,7 @@ _ **UCLA** UCLAFORCE11 Scholarly Communication Institute. Aug 5, 2019 [Slides](h
 
 ## Professional Activities
 
-- **Peer-reviewer** AAS  Open  Research; Behavioral Ecology; Gene; Genes, Genomes & Genetics; Journal of Experimental Zoology Part A; Nature; Physiology & Behavior; PLOS ONE; Proceedings of the Royal Society B; rOpenSci.
+- **Peer-reviewer** AAS  Open  Research; Behavioral Ecology; Gene; Genes, Genomes & Genetics; Genes, Brains & Behavior; Journal of Experimental Zoology Part A; Nature; Physiology & Behavior; PLOS ONE; Proceedings of the Royal Society B; rOpenSci.
 - **Secretary** Software Carpentry Steering Committee, 2017-2018
 - **Member** Software Carpentry Steering Committee, 2016-2017
 - **Poster Judge** College of Natural Science Undergraduate Research Forum, 2016, 17
@@ -184,10 +184,11 @@ _ **UCLA** UCLAFORCE11 Scholarly Communication Institute. Aug 5, 2019 [Slides](h
 
 ### Guest Lecturer
 
-
--   Biological Science for Social Justice (NPB 13), UC Davis (2019) [Slides](https://speakerdeck.com/raynamharris/biological-science-for-social-justice-democratizing-data-science)
--   Comparative Animal Physiology (BIO 361T), UT Austin (2016)
--   Introduction to Biological Statistics, UT Austin (2014)
--   Neurobiology of Social Behavior, University of the Republic of
+- Biomedical Research Seminars (NSM9) Sacramento State University (2020)
+Meet and Analyze Data (MAD), UC Davis (2020)
+- Biological Science for Social Justice (NPB 13), UC Davis (2019) [Slides](https://speakerdeck.com/raynamharris/biological-science-for-social-justice-democratizing-data-science)
+- Comparative Animal Physiology (BIO 361T), UT Austin (2016)
+- Introduction to Biological Statistics, UT Austin (2014)
+- Neurobiology of Social Behavior, University of the Republic of
     Uruguay (2013). [Slides](https://www.slideshare.net/raynamharris/time-and-money-techniques-for-neural-gene-expression-profiling?qid=54595bce-1803-439f-befd-c864596ed79c&v=&b=&from_search=6)
 

@@ -1,0 +1,99 @@
+I"#0<p>At the 2014 <a href="http://www.sfn.org/annual-meeting/neuroscience-2014">Society for Neuroscience Annual Meeting</a>, I picked up the <a href="http://www.nature.com/neuro/journal/v17/n11/full/nn.3856.html">November “Focus on Big Data” issue of Nature Neuroscience</a>, a collection of research articles, reviews, and commentaries on Big Data in neuroscience, from epigenomics and connectomics to large behavioral data sets. A common theme is that while large-scale studies are increasingly common, many challenges remain for data collection, analysis, and interpretation. To my surprise, there was no explicit mention of training the next generation of neuroscientists, which is a central focus of NIH’s “<a href="http://bd2k.nih.gov/#sthash.QbCMJYsb.dpbs">Big Data to Knowledge (BD2K</a>) “ initiative.</p>
+
+<blockquote>
+  <p>Biomedical research is rapidly becoming data-intensive…however, the ability to … utilize the data is often limited by the lack of tools, accessibility, and training. From <a href="http://grants.nih.gov/grants/guide/rfa-files/RFA-HG-14-008.html">NIH BD2K RFA-14–008</a>.</p>
+</blockquote>
+
+<p><img src="https://cdn-images-1.medium.com/max/1600/1*EsWaHmocg_ai-WGg8UVe2w.jpeg" alt="" /></p>
+
+<p>Cover image of Nature Neuroscience “Focus on Big Data” Issue, November 2014 Volume 17 No 11. Image by: Erin Dewalt</p>
+
+<h3 id="big-data--teaching">Big Data &amp; Teaching</h3>
+
+<p>How do we train the next generation of scientists to manage, analyze, and share data in a reproducible way so that they can be more productive and effective? This question has been on my mind for a while.</p>
+
+<p>During the first week of January 2015, I met up with a group of transdisciplinary scientists who are passionate about teaching Big Data skills during a “Train-the-Trainers” workshop hosted by Greg Wilson (<a href="http://software-carpentry.org/">Software Carpentry</a>), Tracy Teal (<a href="http://datacarpentry.org/">Data Carpentry</a>), and <a href="http://ivory.idyll.org/blog/">Titus Brown</a> (UC Davis). The goals of this two-day workshop were to bring together individuals for whom training is a priority and to help us improve our own teaching skills. I learned a lot about philosophies of teaching and received helpful teaching advice.</p>
+
+<p>Here I highlight seven tips that are aimed towards increasing student success or improving one’s own teaching skills.</p>
+
+<h3 id="tip--1-introductions-set-the-stage-for-learning">Tip # 1: Introductions set the stage for learning</h3>
+
+<p>It’s important to first assess whether your students are novices, intermediates, masters, or a combination of the three, because this will influence how you structure your course and how you communicate with your students.</p>
+
+<p>To begin your class, give a brief introduction that will convey your: 1) capacity to teach the material, 2) accessibility/approachability and 3) desire for student success, 4) enthusiasm. Tailor your introduction to the students’ skill level so that you convey competence (without seeming too advanced) and demonstrates that you can relate to the students. Continually demonstrate that you are interested in student progress and that you are enthusiastic about the topics.</p>
+
+<p>Students should also introduce themselves. Try having the students break into small groups so they can actually meet their peers and listen to what they have to say. Encourage students to say something they’ve made or accomplished; this will reveal a unique side of their personality, evoke a sense of pride and capability, and help them get to know each other.</p>
+
+<h3 id="tip-2-define-learning-goals-and-develop-assessment-tools">Tip #2: Define learning goals and develop assessment tools</h3>
+
+<p>Before you begin teaching, define learning goals for your students. Then, develop a series of diagnostic questions that give insight into the concepts your students do and do not yet understand and why. Even if no grades are given in your course, it’s important to incorporate both summative and formative assessment. Summative assessment is like a driver license exam, which if failed prevents you from driving a vehicle. Formative assessment is more like the feedback a track coach might give to an athlete during the season to continually improve her form and speed.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1600/1*J5ThxM_umrVEDgiWW0il_Q.jpeg" alt="" /></p>
+
+<p>Formative assessment activity during the Train-the-Trainers Workshop. Photo Credit: Olga Botvinnik</p>
+
+<p>Also, why wait till the end of the term to get student feedback? If you just designed a new lesson or covered a particularly challenging topic, ask the students to tell you one good and one bad thing about the lesson or one thing they understood and one thing they didn’t. The responses will help you improve your teaching throughout the semester.</p>
+
+<h3 id="tip-3-use-peer-teaching-as-a-tool-for-increased-comprehension-and-retention">Tip #3: Use peer teaching as a tool for increased comprehension and retention</h3>
+
+<blockquote>
+  <p>The best way to learn is to teach</p>
+</blockquote>
+
+<p>Putting students in pairs or small groups to teach each other <a href="http://teaching.software-carpentry.org/wp-content/uploads/2012/08/porter-halving-fail-peer-instruction-2013.pdf">works really well</a>. The next time your students don’t comprehend a concept after a repeated explanations, utilize peer-teaching. The student-teacher may be able to communicate a concept in a way the student-learner understands more easily.</p>
+
+<p>There are a few ways to break up the groups or pairs. <a href="http://www.teambasedlearning.org/page-1032336">Letting groups self-select is not ideal</a> because groups should have a range of knowledge/skill. One effective way is to stratify them, making sure each group has knowledgeable students paired with novices who are struggling to grasp the concepts. If this exercise required a computer or some other equipment, have the novice type/drive while the expert looks along as the co-pilot.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1600/1*lsz53n6IRJuDwDw4i5rq5g.jpeg" alt="" /></p>
+
+<p>Peer teaching in action. Here, workshop attendees explain complex concepts to each other in groups of 3. Photo Credit: Olga Botvinnik</p>
+
+<h3 id="tip-4-actively-keep-your-students-engaged">Tip #4 <strong>Actively keep your students engaged</strong></h3>
+
+<p>Students can easily lose interest in the material you are teaching, get distracted (especially with the internet at their fingertips), and fail to see the critical connections between topics.</p>
+
+<p>To keep students engaged, break up your lecture as often as you can (every 15 min or so). Give students a chance to stop listening and do something. This will help them to see structure in the content and to see things as related pieces of information rather than just a bunch of individual, unrelated concepts.</p>
+
+<p>Also, by helping students make connections or visualize patterns between concepts you will facilitate the transfer of this information to long-term memory. The next time you cover a really complex or lengthy subject, draw a concept that illustrates the relationships among key points. Use this to guide your teaching timeline for the lesson (or series of lessons).</p>
+
+<p>By combining lecture time with intermittent activities, you show respect for the attention-span limits of your students AND for your own time and effort, ultimately keeping the students engaged in and excited about your lesson.</p>
+
+<h3 id="tip-5-watch-videos-of-yourself-teaching">Tip #5: Watch videos of yourself teaching</h3>
+
+<blockquote>
+  <p>“Oh no, I said “um” 100 times!”</p>
+</blockquote>
+
+<p><img src="https://cdn-images-1.medium.com/max/1200/1*DpMxc6v3piDMIKeUnqUrCA.jpeg" alt="" /></p>
+
+<p>Video screenshot of me teaching the relationship between RT-qPCR experimental protocol and the central dogma of molecular biology in 4 min. Video Credit: Fatma Imamoglu</p>
+
+<p>That’s what I said the first time I watched <a href="http://videocenter.mbl.edu/videos/video/630/in/channel/21/">a video of myself teaching</a>. Have you ever watched a video of yourself giving a talk or lecture and cringed at your own quirks and distracting habits?</p>
+
+<p>Seeing yourself on video can really give you a new perspective, so I urge you to try it! Pay attention to where you can improve your poise and delivery. Once you are conscious of distracting mannerisms, you can begin to alter your style to something you can be proud of.</p>
+
+<h3 id="tip-6-seek-critical-feedback-from-colleagues">Tip #6: Seek critical feedback from colleagues</h3>
+
+<p>We are intimately familiar with peer review for publications and grant proposals, but can you remember the last time your peers gave critical feedback on your teaching style?</p>
+
+<p>Invite a colleague to sit in on one of your classes and give feedback on delivery and student engagement. Or, write a blog about your teaching experiences and ask for comments and feedback (or post it on twitter and just wait for them). While your colleagues may not have an hour to sit in your class, many will read a short blog.</p>
+
+<h3 id="tip-7-stay-in-touch-with-your-community">Tip #7: Stay in touch with your community</h3>
+
+<p>I recently wrote a blog called “<a href="https://medium.com/collaborative-coverage-of-sfn-2014-by-plos-neuro/plosneuro-sfn14-highlights-tips-for-thriving-in-your-research-career-c5fa499059a">Tips for Thriving in Research</a>”, and the first two tips were about mentor-mentee relationships. I think that in order to get better at teaching, it’s important to surround yourself with mentors and mentees who are also passionate about teaching.</p>
+
+<p><a href="http://software-carpentry.org/v5/bib.html">Read</a>, write, blog, and talk about your teaching experiences with like-minded scientists. Here are two really good two really good blogs on student evaluations written by my colleagues <a href="http://blog.olgabotvinnik.com/blog/2015/01/29/teaching-data-cleaning/">Olga Botvinnik</a> and <a href="http://wrightaprilm.github.io/posts/pars-ev.html">April Wright</a>.</p>
+
+<p>Before creating a lesson or exam from scratch (possibly reinventing the wheel) first see if you can find tried-and-tested syllabi from your community. Online resources like <a href="http://www.codecademy.com/en/tracks/python">Code Academy’s Python Coding for Beginner’s</a>, the <a href="http://rosalind.info/faq/#what-is-rosalind">Rosalind platform for learning bioinformatics</a>, and <a href="http://software-carpentry.org/lessons.html">Software Carpentry’s open access teaching materials</a> are excellent tools for teaching Big Data concepts and skills to trainees.</p>
+
+<blockquote>
+  <p><em>Hopefully, with a continued community focus on training, the next generation of neuroscientists will be better adapt to deal with the challenges that still remain for Big Data research.</em></p>
+</blockquote>
+
+<h4 id="thanks-to">Thanks to:</h4>
+
+<p>I definitely want to thank the organizers and instructors (<a href="https://twitter.com/gvwilson">Greg Wilson</a>, <a href="https://twitter.com/tracykteal">Tracy Teal</a>, and <a href="https://twitter.com/ctitusbrown">Titus Brown</a>, <a href="https://twitter.com/billdoesphysics">Bill Mills</a> and <a href="http://www.software.ac.uk/about/people/aleksandra-pawlik">Aleksandra Pawlik</a>) for providing excellent examples of teaching by doing. I thank <a href="http://wrightaprilm.github.io/">April Wright</a> for encouraging me to attend and for securing funding from <a href="http://beacon-center.org/">BEACON Center</a>. <a href="http://www.rebeccatarvin.com/">Becca Tarvin</a> and I reflected on what we learned and discussed ways to apply this to our burgeoning community of bioinformatic aficionados via the <a href="http://www.ccbb.utexas.edu/">Center for Computational Biology and Bioinformatics (CCBB</a>) at UT Austin (see her companion <a href="http://goo.gl/c0kydD">blog</a>).</p>
+
+<p><strong>Re-posting</strong>: This blog was originally published via PLOS Neuroscience Community <a href="http://neuro.plos.org/2015/02/12/effective-teaching-tips-from-a-train-the-trainers-workshop/">here</a>. Disclaimer. The views expressed are my own, not necessarily those of PLOS.</p>
+
+:ET

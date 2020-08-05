@@ -8,12 +8,12 @@ sitemap:
     changefreq: monthly
 ---
 
-# Artwork
+# Science meets Art
 
-_I combine data visualization in R with graphical illustration in Adobe Illustrator to communicate scientific concepts or events. Here are a handful visuals that I've made that I like._
+_I like to combine data visualization in R with graphical illustration in Adobe Illustrator to communicate scientific concepts or events. Here are a handful visuals that I've made._
 
 
-## A transcriptional symphony of parental care 
+## A prolactin-driven transcriptional symphony of parental care 
 
 
 <img src="/images/music-1.png" style="width:100%" align="middle" >

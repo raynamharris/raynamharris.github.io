@@ -8,6 +8,8 @@ sitemap:
     changefreq: yearly
 ---
 
+# Contact
+
 **Rayna M. Harris, Ph.D.**    
 Postdoctoral Scholar  
 University of Davis, California  
@@ -16,4 +18,4 @@ College of Biological Science
 1 Shields Avenue  
 Davis, CA 95616-8519  
 
-You can contact Dr. Rayna M. Harris directly by email [rmharris@ucdavis.edu](rmharris@ucdavis.edu).
+You may contact Dr. Harris directly by email at [rmharris@ucdavis.edu](rmharris@ucdavis.edu).

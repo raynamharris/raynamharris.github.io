@@ -221,12 +221,19 @@ sitemap:
 	<br>
 	
 <h2> Education related</h2>	
+
+<li>Nederbragt <i>et al.</i> 2020. The one with participatory live coding.
+	<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090">Link.</a>	
+	<div style="display: inline" data-badge-type="bar" data-doi="10.1371/journal.pcbi.1008090" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1008090" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
+	</li>
 	
 <li>Devenyi <i>et al.</i> 2018. The one with collaborative lesson development rules.
 	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Link.</a>	
 	<div style="display: inline" data-badge-type="bar" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
-	</li>	
+	</li>
+	
 	
 <li>Harris <i>et al.</i> 2017. The one with qPCR on crab neurons at summer camp.   
 	<a href="http://biorxiv.org/content/early/2017/02/10/107342">PDF.</a> 

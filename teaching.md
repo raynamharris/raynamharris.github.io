@@ -11,7 +11,8 @@ sitemap:
 # Ten quick tips for teaching with participatory live coding
 
 
-<a class="icon fa-clock-o"  rel='alternate'><span class="label">clock</span></a>
+<a class="icon fa-clock-o fa-10x"  rel='alternate'><span class="label">clock</span></a>
+
 
 ## Tip 1: Go slowly
 

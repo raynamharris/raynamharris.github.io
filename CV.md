@@ -37,8 +37,10 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ### Preprints
 
+1. Austin SH, **Harris RM**, Booth AM, Lang AS, Farrar VS, Krause JS, Hallman TA, MacManes M, Calisi RM (2020) Isolating the role of corticosterone in the hypothalamic-pituitary-gonadal genomic stress response. [bioRxiv 10.1101/2020.10.08.330209](https://www.biorxiv.org/content/10.1101/2020.10.08.330209v1)
+
 1. **Harris RM**, Kao HY, Alarcón JM, Fenton AA, Hofmann HA (2020). Transcriptome analysis of hippocampal subfields identifies gene expression profiles associated with long-term active place avoidance memory
-bioRxiv 2020.02.05.935759; doi: https://doi.org/10.1101/2020.02.05.935759
+[bioRxiv 2020.02.05.935759](https://www.biorxiv.org/content/10.1101/2020.02.05.935759v1)
 
 <!---
 1. Ernst D, Harris RM, Chintamen S, Dickens M, Calisi RM (2019) Differential influence of captive housing environments on zebra finch behavior, stress, and reproductive physiology. Horm. Behav.

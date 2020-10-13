@@ -24,9 +24,18 @@ sitemap:
 <h2> Peer-reviewed research </h2>
 
 
-<li>Harris <i>et al.</i> 2020. The one about mice memories and hippocampals transcriptomes.<a href="https://www.biorxiv.org/content/10.1101/2020.02.05.935759v1">Preprint.</a>	
+<li> Austin <i>et al.</i> 2020. The one with coritcosterone-injected pigeons. <a href="https://www.biorxiv.org/content/10.1101/2020.10.08.330209v1">Preprint.</a>	
 	
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/2020.02.05.935759" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="4" data-doi="10.1101/2020.10.08.330209" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/2020.10.08.330209" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+
+	</li>
+
+
+<li> Harris <i>et al.</i> 2020. The one with avoidance learning in mice. <a href="https://www.biorxiv.org/content/10.1101/2020.02.05.935759v1">Preprint.</a>	
+	
+	<div style="display: inline" data-badge-type="4" data-doi="10.1101/2020.02.05.935759" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/2020.02.05.935759" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
@@ -34,31 +43,31 @@ sitemap:
 
 
 
-<li> Lang <i>et al.</i> 2019. The one about stress-relating splicing in birds. 	<a href="https://www.biorxiv.org/content/10.1101/798413v1">Preprint.</a>	
+<li> Lang <i>et al.</i> 2019. The one with stress-relating splicing in pigeons.  	<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6600-6">PDF.</a>	
 	
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/798413" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="4" data-doi="10.1186/s12864-020-6600-6" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
-	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/798413" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1186/s12864-020-6600-6" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
 	</li>
 
 
-<li> Northcutt <i>et al.</i> 2019. The one with neurons from New England crabs. 	<a href="https://www.biorxiv.org/content/10.1101/690388v1">Preprint.</a>	
+<li> Northcutt <i>et al.</i> 2019. The one with neurons from New England crabs. 	<a href="https://www.pnas.org/content/116/52/26980.short">PDF.</a>	
 	
 
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/690388" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="4" data-doi="10.1073/pnas.1911413116" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
-	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/690388" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1911413116" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
 	</li>	
 
 <li>  Clarke DJB <i>et al.</i>  2019. The one with FAIRshake tools for reproducibility.
 
-	<a href="https://www.biorxiv.org/content/10.1101/657676v1">Preprint.</a>	
+	<a href="https://www.sciencedirect.com/science/article/abs/pii/S240547121930345X">PDF.</a>	
 
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/657676" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="4" data-doi="10.1016/j.cels.2019.09.011" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
-	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/657676" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1016/j.cels.2019.09.011" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
 
 	</li>	
@@ -68,7 +77,7 @@ sitemap:
 	
 		<a href="https://www.biorxiv.org/content/10.1101/153585v3">Preprint </a>	
 
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="4" data-doi="10.1101/153585" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1002/hipo.23095" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	
@@ -83,7 +92,7 @@ sitemap:
 <li>Renn <i>et al.</i> 2017. The one with mating systems and microarrays.
 	<a href="http://www.nrcresearchpress.com/doi/abs/10.1139/gen-2017-0075?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed">Link.</a>
 	
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1139/gen-2017-0075" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>	
+	<div style="display: inline" data-badge-type="4" data-doi="10.1139/gen-2017-0075" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>	
 	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1139/gen-2017-0075" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
 	</li>		
@@ -92,7 +101,7 @@ sitemap:
 <li>Dijkstra <i>et al.</i> 2017. The one with body color and social behavior.
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/dijkstra_et_al._2017.pdf">PDF.</a>
 	
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1098/rspb.2016.2838" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="4" data-doi="10.1098/rspb.2016.2838" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
 	<div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1098/rspb.2016.2838" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>	
@@ -101,7 +110,7 @@ sitemap:
 <li>Göppert et al 2016. The one with  and sex-changing cichlids. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/goppert_et_al._2016.pdf">PDF.</a>
 	
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1159/000445463" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="4" data-doi="10.1159/000445463" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
 	<div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1159/000445463" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
@@ -111,7 +120,7 @@ sitemap:
 <li>Simões <i>et al.</i> 2015. The one with tilapia response to pheromones.
 	<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1255-4">Link.</a> 
 	
-	<div style="display: inline"  data-badge-type="bar" data-doi="10.1186/s12864-015-1255-4" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline"  data-badge-type="4" data-doi="10.1186/s12864-015-1255-4" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1186/s12864-015-1255-4" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>  
@@ -120,7 +129,7 @@ sitemap:
 <li>Brawand <i>et al.</i> 2014. The one with the five cichlid genomes. 
 	<a href="http://www.nature.com/nature/journal/v513/n7518/abs/nature13726.html">Link.</a> 
 	
-	<div style="display: inline"  data-badge-type="bar" data-doi="10.1038/nature13726" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline"  data-badge-type="4" data-doi="10.1038/nature13726" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	 
 	 <div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1038/nature13726" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
@@ -128,7 +137,7 @@ sitemap:
 	<li>Stiver <i>et al.</i> 2014. The one with wrasse reproductive tactics. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2015.stiver.ethology_0.pdf">PDF.</a> 
 	
-	<div style="display: inline"  data-badge-type="bar" data-doi="10.1111/eth.12324" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>  
+	<div style="display: inline"  data-badge-type="4" data-doi="10.1111/eth.12324" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>  
 		
 	<div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1111/eth.12324" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
@@ -137,7 +146,7 @@ sitemap:
 <li>Smith <i>et al.</i> 2014. The one with swordtails, hormones, and body size.
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.smith_.biofish.pdf">PDF.</a>
 	
-	<div style="display: inline"  data-badge-type="bar" data-doi="10.1007/s10641-014-0234-y" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline"  data-badge-type="4" data-doi="10.1007/s10641-014-0234-y" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
 	<div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1007/s10641-014-0234-y" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
@@ -146,7 +155,7 @@ sitemap:
 <li>Fischer <i>et al.</i> 2013. The one with stressed-out guppies.
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.fischer.hb_.pdf">PDF.</a> 
 	
-	<div style="display: inline"  data-badge-type="bar" data-doi="10.1016/j.yhbeh.2013.12.010" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline"  data-badge-type="4" data-doi="10.1016/j.yhbeh.2013.12.010" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
 	<div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1016/j.yhbeh.2013.12.010" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
@@ -158,7 +167,7 @@ sitemap:
 <li>Harris <i>et al.</i> 2013. The one with pro-opiomelanocortin gene evolution. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2014.harris.gce_.pdf">PDF.</a> 
 	
-	<div style="display: inline"  data-badge-type="bar" data-doi="10.1016/j.ygcen.2013.10.007" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline"  data-badge-type="4" data-doi="10.1016/j.ygcen.2013.10.007" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1016/j.ygcen.2013.10.007" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
@@ -167,7 +176,7 @@ sitemap:
 <li>Sessa <i>et al.</i> 2013. The one with monogamy and steroid hormones. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2013.sessa_.gce_.pdf">PDF.</a> 
 	
-	<div style="display: inline"  data-badge-type="bar" data-doi="10.1016/j.ygcen.2013.04.031" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline"  data-badge-type="4" data-doi="10.1016/j.ygcen.2013.04.031" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1016/j.ygcen.2013.04.031" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
@@ -176,7 +185,7 @@ sitemap:
 <li>Oldfield <i>et al.</i> 2013. The one with monogamy and peptides. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/2013.oldfield.hb_.pdf">PDF.</a> 
 	
-	<div style="display: inline"  data-badge-type="bar" data-doi="10.1016/j.yhbeh.2013.04.006" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline"  data-badge-type="4" data-doi="10.1016/j.yhbeh.2013.04.006" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1016/j.yhbeh.2013.04.006" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
@@ -189,7 +198,7 @@ sitemap:
 	
 	<li>Harris <i>et al.</i> 2016. The one with brain evolution and development. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118316757.ch15/summary;jsessionid=EB7AD7A6F077FF7A89EEE0C71E70A8FD.f02t03">Article</a>.
 	
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1002/9781118316757.ch15" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="4" data-doi="10.1002/9781118316757.ch15" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1002/9781118316757.ch15" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	 </li>	
@@ -198,7 +207,7 @@ sitemap:
 	<li>Oldfield <i>et al.</i> 2015. The one with vasopressin and space use theory. 
 	<a href="http://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-12-S1-S16">Link.</a> 
 	
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1186/1742-9994-12-S1-S16" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline" data-badge-type="4" data-doi="10.1186/1742-9994-12-S1-S16" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1186/1742-9994-12-S1-S16" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
@@ -207,14 +216,14 @@ sitemap:
 <li>Harris and Hofmann 2015. The one with opsin gene evolution.
 	<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4321264/">Link.</a> 
 	
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1073/pnas.1423685112" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline" data-badge-type="4" data-doi="10.1073/pnas.1423685112" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1423685112" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>
 	
 <li>Harris and Hofmann 2013. The one with social behavior and genomics. 
 	<a href="http://link.springer.com/chapter/10.1007/978-94-007-7347-9_8">Link.</a> 
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1007/978-94-007-7347-9_8" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
+	<div style="display: inline" data-badge-type="4" data-doi="10.1007/978-94-007-7347-9_8" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div> 
 	 <div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1007/978-94-007-7347-9_8" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>	
 	
@@ -224,20 +233,20 @@ sitemap:
 
 <li>Nederbragt <i>et al.</i> 2020. The one with participatory live coding.
 	<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090">Link.</a>	
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1371/journal.pcbi.1008090" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1008090" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1008090" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
 	</li>
 	
 <li>Devenyi <i>et al.</i> 2018. The one with collaborative lesson development rules.
 	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Link.</a>	
-	<div style="display: inline" data-badge-type="bar" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
 	</li>
 	
 	
 <li>Harris <i>et al.</i> 2017. The one with qPCR on crab neurons at summer camp.   
 	<a href="http://biorxiv.org/content/early/2017/02/10/107342">PDF.</a> 
-	<div style="display: inline"  data-badge-type="bar" data-doi="10.1101/107342." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline"  data-badge-type="4" data-doi="10.1101/107342." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	<div style="display: inline" class="__dimensions_badge_embed__"  data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
  </li>		
 </ol>

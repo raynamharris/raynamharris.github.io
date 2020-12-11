@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Surviving the post-doc years with part-time jobs"
-date: 2019-11-08
+date: 2020-12-11
 excerpt: "As a post-doctoral scholar, I aimed to work for 40 hours a week on research on projects. I rarely working overtime as is often recommended. Instead, I volunteered and worked seasonal jobs on the side. These part-time jobs have improved my quality of life and been a source of professional development. In this post, I'll talk about some of the things I've learned at what it means for my future career."
 image: "/images/parkinghost.png"
 comments: true

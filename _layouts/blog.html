@@ -51,9 +51,13 @@
 	<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 	</header>
 							
-	<p>{{ post.excerpt }}</p>
+	
 	
 	<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+	
+	
+	<p>{{ post.excerpt }}</p>
+	
 	<ul class="actions">
 	<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
 	</ul>

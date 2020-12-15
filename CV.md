@@ -11,7 +11,7 @@ sitemap:
 # Curriculum Vitae 
 
 
-_Notes: A pdf version of my CV is available [on GitHub](https://github.com/raynamharris/CV/blob/master/CV.pdf). This was last updated on February 14, 2020._
+_Notes: A pdf version of my CV is available [on GitHub](https://github.com/raynamharris/CV/blob/master/CV.pdf). This was last updated on December 15, 2020._
 
 ## Education
 
@@ -177,6 +177,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ### Teaching Assistant
 
+-   Northstar Ski and Snowboard School (Winter 2019/2020)
 -   Biostatistics (SDS 328M), UT Austin (2017)
 -   Introduction to Core Next-generation Sequencing Tools, UT Austin
     (2015, 16, 17)

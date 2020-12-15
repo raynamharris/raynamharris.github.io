@@ -4,18 +4,16 @@ title: Contact
 description: How to contact me
 sitemap:
     priority: 0.7
-    lastmod: 2019-05-04
+    lastmod: 2020-12-15
     changefreq: yearly
 ---
 
 # Contact
 
-**Rayna M. Harris, Ph.D.**    
-Postdoctoral Scholar  
-University of Davis, California  
-Department of Neurobiology, Physiology & Behavior  
-College of Biological Science  
-1 Shields Avenue  
-Davis, CA 95616-8519  
+Email: [rayna.harris@gmail.com](rayna.harris@gmail.com)
 
-You may contact Dr. Harris directly by email at [rmharris@ucdavis.edu](rmharris@ucdavis.edu).
+GitHub: [raynamharris](https://github.com/raynamharris)
+
+Twitter: [raynamharris](https://twitter.com/raynamharris)
+
+Timezone: PST (UTC -8:00)

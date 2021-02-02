@@ -21,7 +21,6 @@ sitemap:
 	      
 <ol >
 
-<h2> Peer-reviewed research </h2>
 
 
 <li> Austin <i>et al.</i> 2020. The one with coritcosterone-injected pigeons. <a href="https://www.biorxiv.org/content/10.1101/2020.10.08.330209v1">Preprint.</a>	
@@ -41,6 +40,11 @@ sitemap:
 
 	</li>
 
+<li>Nederbragt <i>et al.</i> 2020. The one with participatory live coding.
+	<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090">Link.</a>	
+	<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1008090" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1008090" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
+	</li>
 
 
 <li> Lang <i>et al.</i> 2019. The one with stress-relating splicing in pigeons.  	<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6600-6">PDF.</a>	
@@ -52,7 +56,7 @@ sitemap:
 	</li>
 
 
-<li> Northcutt <i>et al.</i> 2019. The one with neurons from New England crabs. 	<a href="https://www.pnas.org/content/116/52/26980.short">PDF.</a>	
+<li> Northcutt <i>et al.</i> 2019. The one with New England crab neurons. 	<a href="https://www.pnas.org/content/116/52/26980.short">PDF.</a>	
 	
 
 	<div style="display: inline" data-badge-type="4" data-doi="10.1073/pnas.1911413116" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
@@ -61,19 +65,17 @@ sitemap:
 
 	</li>	
 
-<li>  Clarke DJB <i>et al.</i>  2019. The one with FAIRshake tools for reproducibility.
+<li>  Clarke DJB <i>et al.</i>  2019. The one with tools for reproducibility.
 
 	<a href="https://www.sciencedirect.com/science/article/abs/pii/S240547121930345X">PDF.</a>	
 
 	<div style="display: inline" data-badge-type="4" data-doi="10.1016/j.cels.2019.09.011" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1016/j.cels.2019.09.011" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
-
-
 	</li>	
 
 
-<li>Harris <i>et al.</i> 2019. The one with dissociated hippocampal tissues.
+<li>Harris <i>et al.</i> 2019. The one with dissociated brain tissues.
 	
 		<a href="https://www.biorxiv.org/content/10.1101/153585v3">Preprint </a>	
 
@@ -83,10 +85,23 @@ sitemap:
 	
 
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/153585" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
-	
-	
-	
 	</li>	
+	
+	
+	
+	
+	<li>Devenyi <i>et al.</i> 2018. The one with lesson development plans.
+	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Link.</a>	
+	<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
+	</li>
+	
+	
+<li>Harris <i>et al.</i> 2017. The one with qPCR on crab neurons at summer camp.   
+	<a href="http://biorxiv.org/content/early/2017/02/10/107342">PDF.</a> 
+	<div style="display: inline"  data-badge-type="4" data-doi="10.1101/107342." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	<div style="display: inline" class="__dimensions_badge_embed__"  data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+ </li>	
 	
 
 <li>Renn <i>et al.</i> 2017. The one with mating systems and microarrays.
@@ -191,10 +206,8 @@ sitemap:
 
 	</li>
 	
-	<br>
 	
 	
-<h2> Invited and contributed reviews </h2>	
 	
 	<li>Harris <i>et al.</i> 2016. The one with brain evolution and development. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118316757.ch15/summary;jsessionid=EB7AD7A6F077FF7A89EEE0C71E70A8FD.f02t03">Article</a>.
 	
@@ -227,27 +240,12 @@ sitemap:
 	 <div style="display: inline" class="__dimensions_badge_embed__"  data-doi="10.1007/978-94-007-7347-9_8" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 	</li>	
 	
-	<br>
 	
-<h2> Education related</h2>	
 
-<li>Nederbragt <i>et al.</i> 2020. The one with participatory live coding.
-	<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090">Link.</a>	
-	<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1008090" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
-	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1008090" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
-	</li>
+
 	
-<li>Devenyi <i>et al.</i> 2018. The one with collaborative lesson development rules.
-	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Link.</a>	
-	<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
-	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
-	</li>
-	
-	
-<li>Harris <i>et al.</i> 2017. The one with qPCR on crab neurons at summer camp.   
-	<a href="http://biorxiv.org/content/early/2017/02/10/107342">PDF.</a> 
-	<div style="display: inline"  data-badge-type="4" data-doi="10.1101/107342." data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
-	<div style="display: inline" class="__dimensions_badge_embed__"  data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
- </li>		
+
+ 
+ 	
 </ol>
 	  

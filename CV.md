@@ -4,30 +4,35 @@ title: Curriculum Vitae
 description: My CV
 sitemap:
     priority: 0.7
-    lastmod: 2020-02-14
+    lastmod: 2021-07-22
     changefreq: weekly
 ---
 
 # Curriculum Vitae 
 
 
-_Notes: A pdf version of my CV is available [on GitHub](https://github.com/raynamharris/CV/blob/master/CV.pdf). This was last updated on December 15, 2020._
+_Notes: A pdf version of my CV is available [on GitHub](https://github.com/raynamharris/CV/blob/master/CV.pdf). This was last updated on September 22, 2021._
 
 ## Education
 
 **The University of Texas at Austin.** B.S. Biochemistry, 2006  
 **The University of Texas at Austin.** Ph.D. Cell and Molecular Biology, 2017    
-**The University of California, Davis.** Postdoctoral Researcher, Current  
+**The University of California, Davis.** Postdoctoral Researcher, current  
+
+## Work Experience
+
+**Alpine Meadows Ski Resort** Parking Supervisor, Alpine Meadows, California, 2020   
+**Rock & Rose Nursery & Landscaping** Nursery Supervisor, Truckee, California, 2021  
 
 ## Honors and Awards
 
-AAAS Community Enagement Fellowship (2019)   
-::rstudioconf Diversity Scholarship (2019)  
-Elected to the Software Carpentry Steering Committee (2016 - 17)  
-University Graduate Continuing Fellowship, UT Austin (2016 - 17)  
-William Livingston Outstanding Graduate Student Academic Employee Award, UT Austin (2017)    
-Grant in Aid of Research, Society for Integrative and Comparative Biology (2016)  
-Academic Enrichment Fund Award, UT Austin (2014, 15, 16)  
+* AAAS Community Enagement Fellowship (2019)   
+* ::rstudioconf Diversity Scholarship (2019)  
+* Elected to the Software Carpentry Steering Committee (2016 - 17)  
+* University Graduate Continuing Fellowship, UT Austin (2016 - 17)  
+* William Livingston Outstanding Graduate Student Academic Employee Award, UT Austin (2017)    
+* Grant in Aid of Research, Society for Integrative and Comparative Biology (2016)  
+* Academic Enrichment Fund Award, UT Austin (2014, 15, 16)  
 
 ## Publications
 

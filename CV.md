@@ -37,6 +37,9 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ### Preprints
 
+1. Farrar VS, **Harris RM**, Austin SH, Nava Ultreras BM, Booth AM, Angelier F,  Lang A, Feustel T, Lee C, Bond A, MacManes MD, Calisi RM (2021) Prolactin and prolactin receptor expression in the HPG axis and crop sac during parental care in both sexes of a biparental bird (*Columba livia*). [bioRxiv 10.1101/2021.07.13.452208](https://www.biorxiv.org/content/10.1101/2021.07.13.452208)
+
+
 1. Austin SH, **Harris RM**, Booth AM, Lang AS, Farrar VS, Krause JS, Hallman TA, MacManes M, Calisi RM (2020) Isolating the role of corticosterone in the hypothalamic-pituitary-gonadal genomic stress response. [bioRxiv 10.1101/2020.10.08.330209](https://www.biorxiv.org/content/10.1101/2020.10.08.330209v1)
 
 1. **Harris RM**, Kao HY, Alarcón JM, Fenton AA, Hofmann HA (2020). Transcriptome analysis of hippocampal subfields identifies gene expression profiles associated with long-term active place avoidance memory

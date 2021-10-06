@@ -25,12 +25,22 @@ sitemap:
 <h2> The post-doc years </h2>
 
 
-<li> Austin <i>et al.</i> 2020. The one about parenting pigeons producing milk. <a href="https://www.biorxiv.org/content/10.1101/2021.07.13.452208v1">Preprint.</a>
+<li> Farrar <i>et al.</i> 2021. The one with milk from parenting pigeons. <a href="https://www.biorxiv.org/content/10.1101/2021.07.13.452208v1">Preprint.</a>
 
 <div style="display: inline" data-badge-type="4" data-doi="https://www.biorxiv.org/content/10.1101/2021.07.13.452208v1" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 
 
-<li> Austin <i>et al.</i> 2020. The one with stressed-out pigeons. <a href="https://www.biorxiv.org/content/10.1101/2020.10.08.330209v1">Preprint.</a>	
+<li> Austin, Krause, <i>et al.</i> 2021. The one with hormones from parenting pigeons. <a href="https://www.frontiersin.org/articles/10.3389/fendo.2021.631384/abstract">Full text.</a>	
+	
+	<div style="display: inline" data-badge-type="4" data-doi="10.3389/fendo.2021.631384" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	
+	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.3389/fendo.2021.631384" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+
+	</li>
+
+
+
+<li> Austin, Harris, <i>et al.</i> 2021. The one with stressed-out pigeons. <a href="https://www.frontiersin.org/articles/10.3389/fendo.2021.632060/full">Full text.</a>	
 	
 	<div style="display: inline" data-badge-type="4" data-doi="10.1101/2020.10.08.330209" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	
@@ -40,7 +50,7 @@ sitemap:
 
 
 
-<li> Lang <i>et al.</i> 2019. The one with alternatively spliced genomes.  	<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6600-6">PDF.</a>	
+<li> Lang <i>et al.</i> 2020. The one with alternatively spliced genomes.  	<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6600-6">PDF.</a>	
 	
 	<div style="display: inline" data-badge-type="4" data-doi="10.1186/s12864-020-6600-6" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 	

@@ -27,7 +27,7 @@ sitemap:
 
 <li> Farrar <i>et al.</i> 2021. The one with milk from parenting pigeons. <a href="https://www.biorxiv.org/content/10.1101/2021.07.13.452208v1">Preprint.</a>
 
-<div style="display: inline" data-badge-type="4" data-doi="https://www.biorxiv.org/content/10.1101/2021.07.13.452208v1" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+<div style="display: inline" data-badge-type="4" data-doi="10.1101/2021.07.13.452208" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 
 
 <li> Austin, Krause, <i>et al.</i> 2021. The one with hormones from parenting pigeons. <a href="https://www.frontiersin.org/articles/10.3389/fendo.2021.631384/abstract">Full text.</a>	

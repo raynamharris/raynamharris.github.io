@@ -45,9 +45,6 @@ _Notes: A pdf version of my CV is available [on GitHub](https://github.com/rayna
 1. Charbonneau AL, et al. (2021) Making Common Fund data more Findable: Catalyzing a Data Ecosystem. [bioRxiv 10.1101/2021.11.05.467504](https://www.biorxiv.org/content/10.1101/2021.11.05.467504v1) 
 
 
-1. Farrar VS, **Harris RM**, Austin SH, Nava Ultreras BM, Booth AM, Angelier F,  Lang A, Feustel T, Lee C, Bond A, MacManes MD, Calisi RM (2021) Prolactin and prolactin receptor expression in the HPG axis and crop sac during parental care in both sexes of a biparental bird (*Columba livia*). [bioRxiv 10.1101/2021.07.13.452208](https://www.biorxiv.org/content/10.1101/2021.07.13.452208])
-
-
 1. **Harris RM**, Kao HY, Alarcón JM, Fenton AA, Hofmann HA (2020). Transcriptome analysis of hippocampal subfields identifies gene expression s associated with long-term active place avoidance memory
 [bioRxiv 2020.02.05.935759](https://www.biorxiv.org/content/10.1101/2020.02.05.935759v1)
 
@@ -57,6 +54,9 @@ _Notes: A pdf version of my CV is available [on GitHub](https://github.com/rayna
 
 
 ### Peer Reviewed Publications
+
+
+1. Farrar VS, **Harris RM**, Austin SH, Nava Ultreras BM, Booth AM, Angelier F,  Lang A, Feustel T, Lee C, Bond A, MacManes MD, Calisi RM (2021) Prolactin and prolactin receptor expression in the HPG axis and crop sac during parental care in both sexes of a biparental bird (*Columba livia*). [Gen. Comp. Endo.](https://www.sciencedirect.com/science/article/pii/S0016648021002331?via%3Dihub)
 
 1.  Austin S, Krause JS, Viernes R, Farrar VS, Booth AM, **Harris RM**, Angelier F,  Lee C, Bond A, Wingfield JC, MacManes MM, Calisi RM (2021) Uncovering the Sex-specific Endocrine Responses to Reproduction and Parental Care. [Frontiers in Endocrinology](https://www.frontiersin.org/articles/10.3389/fendo.2021.631384/abstract)
 1. Austin SH, **Harris RM**, Booth AM, Lang AS, Farrar VS, Krause JS, Hallman TA, MacManes M, Calisi RM (2020) Isolating the role of corticosterone in the hypothalamic-pituitary-gonadal genomic stress response. [Frontiers in Endocrinology](https://www.frontiersin.org/articles/10.3389/fendo.2021.632060/full)

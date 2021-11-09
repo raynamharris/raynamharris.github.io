@@ -42,10 +42,13 @@ _Notes: A pdf version of my CV is available [on GitHub](https://github.com/rayna
 
 ### Preprints
 
+1. Charbonneau AL, et al. (2021) Making Common Fund data more Findable: Catalyzing a Data Ecosystem. [bioRxiv 10.1101/2021.11.05.467504](https://www.biorxiv.org/content/10.1101/2021.11.05.467504v1) 
+
+
 1. Farrar VS, **Harris RM**, Austin SH, Nava Ultreras BM, Booth AM, Angelier F,  Lang A, Feustel T, Lee C, Bond A, MacManes MD, Calisi RM (2021) Prolactin and prolactin receptor expression in the HPG axis and crop sac during parental care in both sexes of a biparental bird (*Columba livia*). [bioRxiv 10.1101/2021.07.13.452208](https://www.biorxiv.org/content/10.1101/2021.07.13.452208])
 
 
-1. **Harris RM**, Kao HY, Alarcón JM, Fenton AA, Hofmann HA (2020). Transcriptome analysis of hippocampal subfields identifies gene expression profiles associated with long-term active place avoidance memory
+1. **Harris RM**, Kao HY, Alarcón JM, Fenton AA, Hofmann HA (2020). Transcriptome analysis of hippocampal subfields identifies gene expression s associated with long-term active place avoidance memory
 [bioRxiv 2020.02.05.935759](https://www.biorxiv.org/content/10.1101/2020.02.05.935759v1)
 
 <!---
@@ -65,7 +68,7 @@ _Notes: A pdf version of my CV is available [on GitHub](https://github.com/rayna
 1. Dijkstra PD, Maguire SM **Harris RM**, Rodriguez AA, DeAngelis RS Flores SA, Hofmann HA (2017) The melanocortin system regulates body pigmentation and social behaviour in a colour polymorphic cichlid fish. [Proc. R. Soc. B. DOI: 10.1098/rspb.2016.2838.](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.2838?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&)
 1. Goppert C, **Harris RM**, Theis A, Boila A, Hohl S, Ruegg A, Hofmann HA, Salzburger WE, Boehne A (2016) Inhibition of aromatase induces partial sex change in a cichlid fish: Distinct functions for sex steroids in brains and gonads. [Sex. Dev. 10:97-110.](https://www.karger.com/?DOI=10.1159/000445463)
 1. Simoes JM, Barata EN, **Harris RM**, O'Connell LA, Hofmann HA, Oliveira RF (2015) Social odors conveying dominance and reproductive information induce rapid physiological and neuromolecular changes in a cichlid fish. [BMC Genomics 16:114.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1255-4)
-1. Stiver KA, **Harris RM**, Townsend JP, Hofmann HA, Alonzo SH (2015) Neural Gene Expression Profiles and Androgen Levels Underlie Alternative Reproductive Tactics in the Ocellated Wrasse, *Symphodus ocellatus*. [Ethol. 121:152-167.](https://onlinelibrary.wiley.com/doi/abs/10.1111/eth.12324)
+1. Stiver KA, **Harris RM**, Townsend JP, Hofmann HA, Alonzo SH (2015) Neural Gene Expression s and Androgen Levels Underlie Alternative Reproductive Tactics in the Ocellated Wrasse, *Symphodus ocellatus*. [Ethol. 121:152-167.](https://onlinelibrary.wiley.com/doi/abs/10.1111/eth.12324)
 1. Smith CC, **Harris RM**, Lampert KP, Schartl M, Hofmann HA,Ryan MJ (2015) Copy number variation in the melanocortin 4 receptor gene and alternative reproductive tactics in swordtail Xiphophorus multilineatus. [Environ. Biol. Fishes 98:23-33.](https://link.springer.com/article/10.1007/s10641-014-0234-y)
 1. Brawand et al. (2014) The genomic substrate for adaptive radiation: Genomes of five African cichlid fish. [Nature 513: 375-381.](https://www.nature.com/articles/nature13726)
 1. Fischer EK, **Harris RM**, Hofmann HA, Hoke KL (2014) Predator exposure alters stress physiology in guppies across timescales. [Horm. Behav. 65: 165–172.](https://www.sciencedirect.com/science/article/pii/S0018506X13002377?via%3Dihub)

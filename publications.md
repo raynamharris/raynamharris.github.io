@@ -25,6 +25,11 @@ sitemap:
 <h2> The post-doc years </h2>
 
 
+<li> Charbonneau <i>et al.</i> 2021. The one with findable data. <a href="https://www.biorxiv.org/content/10.1101/2021.11.05.4675041">Preprint.</a>
+
+<div style="display: inline" data-badge-type="4" data-doi="10.1101/2021.11.05.467504" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+
+
 <li> Farrar <i>et al.</i> 2021. The one with milk from parenting pigeons. <a href="https://www.biorxiv.org/content/10.1101/2021.07.13.452208v1">Preprint.</a>
 
 <div style="display: inline" data-badge-type="4" data-doi="10.1101/2021.07.13.452208" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>

@@ -1,0 +1,11 @@
+name: website 
+channels:
+    - conda-forge
+    - bioconda
+    - defaults
+dependencies:
+    - python
+    - c-compiler 
+    - compilers 
+    - cxx-compiler
+    - ruby

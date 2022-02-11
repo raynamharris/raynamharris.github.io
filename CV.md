@@ -167,34 +167,36 @@ _Notes: A pdf version of my CV is available [on GitHub](https://github.com/rayna
 
 ### Lesson Development 
 
--   The Carpentries: Instructor Training
--   Data Carpentry: Python usando datos de ecologa
--   Software Carpentry: La Terminal de Unix
--   Software Carpentry: Control de Versiones con Git
--   Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module.
+- The Common Fund Data Ecosystem: Introduction to R for RNA-Seq analysis
+- The Common Fund Data Ecosystem: Introduction to UNIX for Cloud Computing
+- The Carpentries: Instructor Training
+- Data Carpentry: Python usando datos de ecologa
+- Software Carpentry: La Terminal de Unix
+- Software Carpentry: Control de Versiones con Git
+- Neural Systems & Behavior: Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module.
 
 
 ### Lead or Co-Lead Instructor 
 
--   Instructor Training, Software Carpentry and Data Carpentry (2016 –
+- The Common Fund Data Ecosystem: Introduction to Amazon Web Services for Cloud Computing (2021-2022)
+- Software Carpentry and Data Carpentry, Instructor Training,  (2016 –
     present)
--   Integrative Molecular Neuroethology, Neural Systems & Behavior
-    Course (2013 - present)
--   Introduction to Git for Bioinformatics, UT Austin (2017). [Slides](https://www.slideshare.net/raynamharris/version-control-with-github-for-bioinformatics?qid=34d1014b-2c8a-4fc7-a76c-74517375570c&v=&b=&from_search=1)
--   Introduction to Unix and R, for Bioinformatics, UT Austin (2016)
--   The UNIX Shell, Software Carpentry (2015)
--   Version Control with Git, Software Carpentry (2015)
--   Introduction to Spanish, Futura Language Professionals (2008 - 2009)
+- Neural Systems & Behavior, Integrative Molecular Neuroethology (2013 - present)
+- UT Austin, Introduction to Git for Bioinformatics (2017). [Slides](https://www.slideshare.net/raynamharris/version-control-with-github-for-bioinformatics?qid=34d1014b-2c8a-4fc7-a76c-74517375570c&v=&b=&from_search=1)
+- UT Austin, Introduction to Unix and R, for Bioinformatics (2016)
+- The UNIX Shell, Software Carpentry (2015)
+- Version Control with Git, Software Carpentry (2015)
+- Introduction to Spanish, Futura Language Professionals (2008 - 2009)
 
 ### Teaching Assistant
 
--   Northstar Ski and Snowboard School (Winter 2019/2020)
--   Biostatistics (SDS 328M), UT Austin (2017)
--   Introduction to Core Next-generation Sequencing Tools, UT Austin
+- Northstar Ski and Snowboard School (Winter 2019/2020)
+- Biostatistics (SDS 328M), UT Austin (2017)
+- Introduction to Core Next-generation Sequencing Tools, UT Austin
     (2015, 16, 17)
--   Problems in Modern Biology (BIO 301E), UT Austin (2013)
--   Organic Chemistry Laboratory (CH 210C), UT Austin (2007-2009)
--   Advanced Organic Chemistry Laboratory (CH 118K/L), UT Austin (2007)
+- Problems in Modern Biology (BIO 301E), UT Austin (2013)
+- Organic Chemistry Laboratory (CH 210C), UT Austin (2007-2009)
+- Advanced Organic Chemistry Laboratory (CH 118K/L), UT Austin (2007)
 
 ### Guest Lecturer
 

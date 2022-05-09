@@ -23,6 +23,9 @@ _Notes: A pdf version of my CV is available [on GitHub](https://github.com/rayna
 
 **Alpine Meadows Ski Resort** Parking Supervisor, Alpine Meadows, California, 2020   
 **Rock & Rose Nursery & Landscaping** Nursery Supervisor, Truckee, California, 2021  
+**The University of Texas at Austin** Laboratory Manager, Austin, Texas
+**The University of Texas at Austin** Teaching Specialist, Austin, Texas
+
 
 ## Honors and Awards
 

@@ -12,25 +12,25 @@ sitemap:
 
 ### Lesson Development 
 
-- The Common Fund Data Ecosystem: Introduction to R for RNA-Seq Analysis
-- The Common Fund Data Ecosystem: Introduction to UNIX for Cloud Computing
-- The Carpentries: Instructor Training
-- Data Carpentry: Python Usando Datos de Ecologa
-- Software Carpentry: La Terminal de Unix
-- Software Carpentry: Control de Versiones con Git
-- Neural Systems & Behavior: Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module.
+- The Common Fund Data Ecosystem: Introduction to R for RNA-Seq Analysis [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/R-for-RNA-Seq/)
+- The Common Fund Data Ecosystem: Introduction to UNIX for Cloud Computing [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/UNIX/)  
+- The Carpentries: Instructor Training [Lesson](https://carpentries.github.io/instructor-training/)
+- Data Carpentry: Python Usando Datos de Ecologa [Lesson](https://datacarpentry.org/python-ecology-lesson-es/about/index.html)
+- Software Carpentry: La Terminal de Unix [Lesson](https://swcarpentry.github.io/shell-novice-es/) 
+- Software Carpentry: Control de Versiones con Git [Lesson](https://swcarpentry.github.io/git-novice-es/) 
+- Neural Systems & Behavior: Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module [Lesson](https://github.com/raynamharris/2014_NSBLabManual)
 
 ### Lead or Co-Lead Instructor 
 
-- Introduction to the UNIX Shell, 2022 [Syllabus](https://www.raynamharris.com/shell-novice/) 
-- Introduction to R for RNA Sequencing Analysis, 2022,   [Syllabus](https://hackmd.io/MsWY1O9GQXGVDl2OmV2jxg)
-- Introduction to AWS for Cloud Computing, 2022 [Syllabus](https://github.com/nih-cfde/training-and-engagement/wiki/A-Hands-on-Introduction-to-AWS-for-Cloud-Computing-January-26,-2022)
-- Introduction to UNIX for Cloud Computing, 2022 [Syllabus](https://github.com/nih-cfde/training-and-engagement/wiki/An-Introduction-to-UNIX-for-Remote-Computing:-January-19,-2022)    
-- Software Carpentry: Control de Versiones con Git, 2018 [Syllabus](https://swcarpentry.github.io/git-novice-es/)
+- Introduction to the UNIX Shell, 2022 [Lesson](https://www.raynamharris.com/shell-novice/) 
+- Introduction to R for RNA Sequencing Analysis, 2022,   [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/R-for-RNA-Seq/)
+- Introduction to AWS for Cloud Computing, 2022 [Lesson](https://training.nih-cfde.org/en/latest/Cloud-Platforms/Introduction-to-AWS/)
+- Introduction to UNIX for Cloud Computing, 2022 [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/UNIX/)    
+- Software Carpentry: Control de Versiones con Git, 2018 [Lesson](https://swcarpentry.github.io/git-novice-es/)
 - Introduction to Git for Bioinformatics, 2017 [Slides](https://www.slideshare.net/raynamharris/version-control-with-github-for-bioinformatics?qid=34d1014b-2c8a-4fc7-a76c-74517375570c&v=&b=&from_search=1)
-- Carpentries Instructor Training, 2016 - 2019 [Syllabus](https://carpentries.github.io/instructor-training/)
-- The UNIX Shell, 2015 [Syllabus](https://swcarpentry.github.io/shell-novice/) 
-- Version Control with Git, Software Carpentry, 2015 [Syllabus](https://swcarpentry.github.io/git-novice/)  
+- Carpentries Instructor Training, 2016 - 2019 [Lesson](https://carpentries.github.io/instructor-training/)
+- The UNIX Shell, 2015 [Lesson](https://swcarpentry.github.io/shell-novice/) 
+- Version Control with Git, Software Carpentry, 2015 [Lesson](https://swcarpentry.github.io/git-novice/)  
 - Neural Systems & Behavior, Integrative Molecular Neuroethology, 2013 - 2017
 - Introduction to Spanish, Futura Language Professionals, 2008 - 2009
 

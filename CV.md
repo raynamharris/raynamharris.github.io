@@ -170,10 +170,10 @@ _Notes: A pdf version of my CV is available [on GitHub](https://github.com/rayna
 
 ### Lesson Development 
 
-- The Common Fund Data Ecosystem: Introduction to R for RNA-Seq analysis
+- The Common Fund Data Ecosystem: Introduction to R for RNA-Seq Analysis
 - The Common Fund Data Ecosystem: Introduction to UNIX for Cloud Computing
 - The Carpentries: Instructor Training
-- Data Carpentry: Python usando datos de ecologa
+- Data Carpentry: Python Usando Datos de Ecologa
 - Software Carpentry: La Terminal de Unix
 - Software Carpentry: Control de Versiones con Git
 - Neural Systems & Behavior: Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module.

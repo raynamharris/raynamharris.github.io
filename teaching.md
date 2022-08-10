@@ -22,16 +22,16 @@ sitemap:
 
 ### Lead or Co-Lead Instructor 
 
-- Introduction to the UNIX Shell, July 13, 2022, [Syllabus](https://www.raynamharris.com/shell-novice/) 
-- Introduction to R for RNA Sequencing Analysis, May 11, 2022,   [Syllabus](https://hackmd.io/MsWY1O9GQXGVDl2OmV2jxg)
-- Introduction to AWS for Cloud Computing, January 26, 2022 [Syllabus](https://github.com/nih-cfde/training-and-engagement/wiki/A-Hands-on-Introduction-to-AWS-for-Cloud-Computing-January-26,-2022)
-- Introduction to UNIX for Cloud Computing, January 19, 2022, [Syllabus](https://github.com/nih-cfde/training-and-engagement/wiki/An-Introduction-to-UNIX-for-Remote-Computing:-January-19,-2022)    
-- Carpentries Instructor Training, 2016 - 2019, [Syllabus](https://carpentries.github.io/instructor-training/)
+- Introduction to the UNIX Shell, 2022 [Syllabus](https://www.raynamharris.com/shell-novice/) 
+- Introduction to R for RNA Sequencing Analysis, 2022,   [Syllabus](https://hackmd.io/MsWY1O9GQXGVDl2OmV2jxg)
+- Introduction to AWS for Cloud Computing, 2022 [Syllabus](https://github.com/nih-cfde/training-and-engagement/wiki/A-Hands-on-Introduction-to-AWS-for-Cloud-Computing-January-26,-2022)
+- Introduction to UNIX for Cloud Computing, 2022 [Syllabus](https://github.com/nih-cfde/training-and-engagement/wiki/An-Introduction-to-UNIX-for-Remote-Computing:-January-19,-2022)    
+- Software Carpentry: Control de Versiones con Git, 2018 [Syllabus](https://swcarpentry.github.io/git-novice-es/)
+- Introduction to Git for Bioinformatics, 2017 [Slides](https://www.slideshare.net/raynamharris/version-control-with-github-for-bioinformatics?qid=34d1014b-2c8a-4fc7-a76c-74517375570c&v=&b=&from_search=1)
+- Carpentries Instructor Training, 2016 - 2019 [Syllabus](https://carpentries.github.io/instructor-training/)
+- The UNIX Shell, 2015 [Syllabus](https://swcarpentry.github.io/shell-novice/) 
+- Version Control with Git, Software Carpentry, 2015 [Syllabus](https://swcarpentry.github.io/git-novice/)  
 - Neural Systems & Behavior, Integrative Molecular Neuroethology, 2013 - 2017
-- UT Austin, Introduction to Git for Bioinformatics, 2017 [Slides](https://www.slideshare.net/raynamharris/version-control-with-github-for-bioinformatics?qid=34d1014b-2c8a-4fc7-a76c-74517375570c&v=&b=&from_search=1)
-- UT Austin, Introduction to Unix and R, for Bioinformatics, 2016 
-- The UNIX Shell, Software Carpentry, 2015, [Syllabus](https://swcarpentry.github.io/shell-novice/) 
-- Version Control with Git, Software Carpentry, 2015, [Syllabus](https://swcarpentry.github.io/git-novice/)  
 - Introduction to Spanish, Futura Language Professionals, 2008 - 2009
 
 ### Teaching Assistant

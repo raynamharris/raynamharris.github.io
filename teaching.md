@@ -15,9 +15,9 @@ sitemap:
 - The Common Fund Data Ecosystem: Introduction to R for RNA-Seq Analysis [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/R-for-RNA-Seq/)
 - The Common Fund Data Ecosystem: Introduction to UNIX for Cloud Computing [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/UNIX/)  
 - The Carpentries: Instructor Training [Lesson](https://carpentries.github.io/instructor-training/)
-- Data Carpentry: Python Usando Datos de Ecologa [Lesson](https://datacarpentry.org/python-ecology-lesson-es/index.html)
-- Software Carpentry: La Terminal de Unix [Lesson](https://swcarpentry.github.io/shell-novice-es/) 
-- Software Carpentry: Control de Versiones con Git [Lesson](https://swcarpentry.github.io/git-novice-es/) 
+- Data Carpentry: Data Analysis and Visualization in Python for Ecologists (Spanish)[Lesson](https://datacarpentry.org/python-ecology-lesson-es/index.html)
+- Software Carpentry: The Unix Shell (Spanish) [Lesson](https://swcarpentry.github.io/shell-novice-es/) 
+- Software Carpentry: Version Control with Git (Spanish) [Lesson](https://swcarpentry.github.io/git-novice-es/) 
 - Neural Systems & Behavior: Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module [Lesson](https://github.com/raynamharris/2014_NSBLabManual)
 
 ### Lead or Co-Lead Instructor 

@@ -27,17 +27,23 @@ sitemap:
 <li> Parigi <i>et al.</i> 2022. The one with tips for teaching Amazon Web Services. <a href="https://jose.theoj.org/papers/10.21105/jose.00167/
 ">Publication.</a>
 
-<div style="display: inline" data-badge-type="4" data-doi="/10.21105/jose.00167" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+<div style="display: inline" data-badge-type="4" data-doi="10.21105/jose.00167" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+
+<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.21105/jose.00167" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
 
 <li> Charbonneau <i>et al.</i> 2021. The one with findable data. <a href="https://www.biorxiv.org/content/10.1101/2021.11.05.467504v1">Preprint.</a>
 
 <div style="display: inline" data-badge-type="4" data-doi="10.1101/2021.11.05.467504" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 
+<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/2021.11.05.467504" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+
 
 <li> Farrar <i>et al.</i> 2021. The one with milk from parenting pigeons. <a href="https://www.sciencedirect.com/science/article/pii/S0016648021002331?via%3Dihub">Publication.</a>
 
 <div style="display: inline" data-badge-type="4" data-doi="10.1016/j.ygcen.2021.113940" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+
+<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1016/j.ygcen.2021.113940" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
 
 <li> Austin, Krause, <i>et al.</i> 2021. The one with hormones from parenting pigeons. <a href="https://www.frontiersin.org/articles/10.3389/fendo.2021.631384/abstract">Full text.</a>	
@@ -86,9 +92,6 @@ sitemap:
 <h2> The grad school years </h2>
 
 
-
-
-
 <li> Harris <i>et al.</i> 2020. The one with avoidance learning in mice. <a href="https://www.biorxiv.org/content/10.1101/2020.02.05.935759v1">Preprint.</a>	
 	
 	<div style="display: inline" data-badge-type="4" data-doi="10.1101/2020.02.05.935759" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
@@ -101,6 +104,7 @@ sitemap:
 <li>Nederbragt <i>et al.</i> 2020. The one with participatory live coding.
 	<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090">Link.</a>	
 	<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1008090" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1008090" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
 	</li>
 
@@ -135,6 +139,7 @@ sitemap:
 	<li>Devenyi <i>et al.</i> 2018. The one with lesson development plans.
 	<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963">Link.</a>	
 	<div style="display: inline" data-badge-type="4" data-doi="10.1371/journal.pcbi.1005963" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+	
 	<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1005963" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>		
 	</li>
 	

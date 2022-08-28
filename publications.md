@@ -24,6 +24,9 @@ sitemap:
 
 <h2> The post-doc years </h2>
 
+<li> Parigi <i>et al.</i> 2022. The one with tips for teaching Amazon Web Services.<a href="https://jose.theoj.org/papers/10.21105/jose.00167/
+">Publication.</a>
+
 
 <li> Charbonneau <i>et al.</i> 2021. The one with findable data. <a href="https://www.biorxiv.org/content/10.1101/2021.11.05.467504v1">Preprint.</a>
 
@@ -168,7 +171,7 @@ sitemap:
 	</li>	
 
 
-<li>Göppert et al 2016. The one with  and sex-changing cichlids. 
+<li>Göppert et al 2016. The one with sex-changing cichlids. 
 	<a href="https://cichlid.biosci.utexas.edu/sites/default/files/evoneuro/files/goppert_et_al._2016.pdf">PDF.</a>
 	
 	<div style="display: inline" data-badge-type="4" data-doi="10.1159/000445463" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>

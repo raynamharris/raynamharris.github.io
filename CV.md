@@ -58,6 +58,8 @@ _Notes: A pdf version of my CV is available [on GitHub](https://github.com/rayna
 
 ### Peer Reviewed Publications
 
+1. Parigi A, Lim MCW, Canchi S, Sanchez J, Walter J, **Harris RM**, Charbonneau A, Brown CT (2022). A virtual training module for introducing the use of
+Amazon Web Services. [JOSE](https://jose.theoj.org/papers/10.21105/jose.00167/)
 
 1. Farrar VS, **Harris RM**, Austin SH, Nava Ultreras BM, Booth AM, Angelier F,  Lang A, Feustel T, Lee C, Bond A, MacManes MD, Calisi RM (2022) Prolactin and prolactin receptor expression in the HPG axis and crop sac during parental care in both sexes of a biparental bird (*Columba livia*). [Gen. Comp. Endo.](https://www.sciencedirect.com/science/article/pii/S0016648021002331?via%3Dihub)
 

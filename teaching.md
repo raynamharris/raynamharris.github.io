@@ -10,33 +10,25 @@ sitemap:
 
 # Teaching
 
-### Lesson Development 
 
-- The Common Fund Data Ecosystem: Introduction to R for RNA-Seq Analysis [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/R-for-RNA-Seq/)
-- The Common Fund Data Ecosystem: Introduction to UNIX for Cloud Computing [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/UNIX/)  
-- The Carpentries: Instructor Training [Lesson](https://carpentries.github.io/instructor-training/)
-- Data Carpentry: Data Analysis and Visualization in Python for Ecologists (Spanish)[Lesson](https://datacarpentry.org/python-ecology-lesson-es/index.html)
-- Software Carpentry: The Unix Shell (Spanish) [Lesson](https://swcarpentry.github.io/shell-novice-es/) 
-- Software Carpentry: Version Control with Git (Spanish) [Lesson](https://swcarpentry.github.io/git-novice-es/) 
-- Neural Systems & Behavior: Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module [Lesson](https://github.com/raynamharris/2014_NSBLabManual)
+### Instructor 
 
-### Lead or Co-Lead Instructor 
-
-- Introduction to the UNIX Shell, 2022 [Lesson](https://www.raynamharris.com/shell-novice/) 
-- Introduction to R for RNA Sequencing Analysis, 2022,   [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/R-for-RNA-Seq/)
-- Introduction to AWS for Cloud Computing, 2022 [Lesson](https://training.nih-cfde.org/en/latest/Cloud-Platforms/Introduction-to-AWS/)
-- Introduction to UNIX for Cloud Computing, 2022 [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/UNIX/)    
-- Software Carpentry: Control de Versiones con Git, 2018 [Lesson](https://swcarpentry.github.io/git-novice-es/)
-- Introduction to Git for Bioinformatics, 2017 [Slides](https://www.slideshare.net/raynamharris/version-control-with-github-for-bioinformatics?qid=34d1014b-2c8a-4fc7-a76c-74517375570c&v=&b=&from_search=1)
-- Carpentries Instructor Training, 2016 - 2019 [Lesson](https://carpentries.github.io/instructor-training/)
-- The UNIX Shell, 2015 [Lesson](https://swcarpentry.github.io/shell-novice/) 
+- Principles of Biology III (BIO-103-01), LTCC, 2023
+- Introduction to R for RNA Sequencing Analysis, UC Davis, 2022,   [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/R-for-RNA-Seq/)
+- Introduction to AWS for Cloud Computing, UC Davis, 2022 [Lesson](https://training.nih-cfde.org/en/latest/Cloud-Platforms/Introduction-to-AWS/)
+- Introduction to UNIX for Cloud Computing, UC Davis, 2022 [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/UNIX/)    
+- Control de Versiones con Git, Software Carpentry, 2018 [Lesson](https://swcarpentry.github.io/git-novice-es/)
+- Introduction to Git for Bioinformatics, UT Austin, 2017 [Slides](https://www.slideshare.net/raynamharris/version-control-with-github-for-bioinformatics?qid=34d1014b-2c8a-4fc7-a76c-74517375570c&v=&b=&from_search=1)
+- Instructor Training, The Carpentries, 2016 - 2019 [Lesson](https://carpentries.github.io/instructor-training/)
+- The UNIX Shell, Software Carpentry,2015 [Lesson](https://swcarpentry.github.io/shell-novice/) 
 - Version Control with Git, Software Carpentry, 2015 [Lesson](https://swcarpentry.github.io/git-novice/)  
-- Neural Systems & Behavior, Integrative Molecular Neuroethology, 2013 - 2017
+- Integrative Molecular Neuroethology, Neural Systems & Behavior, 2013 - 2017
 - Introduction to Spanish, Futura Language Professionals, 2008 - 2009
+
 
 ### Teaching Assistant
 
-- Northstar Ski and Snowboard School, Winter 2019/2020 
+- Ski and Snowboard School, Northstar, Winter 2019/2020 
 - Biostatistics (SDS 328M), UT Austin, 2017 
 - Problems in Modern Biology (BIO 301E), UT Austin, 2013 
 - Organic Chemistry Laboratory (CH 210C), UT Austin, 2007-2009 
@@ -49,3 +41,15 @@ sitemap:
 - Biological Science for Social Justice (NPB 13), UC Davis, 2019 [Slides](https://speakerdeck.com/raynamharris/biological-science-for-social-justice-democratizing-data-science)
 - Comparative Animal Physiology (BIO 361T), UT Austin, 2016 [Slides](https://www.slideshare.net/raynamharris/evolution-of-social-brains)
 - Neurobiology of Social Behavior, University of the Republic of Uruguay, 2013 [Slides](https://www.slideshare.net/raynamharris/time-and-money-techniques-for-neural-gene-expression-profiling?qid=54595bce-1803-439f-befd-c864596ed79c&v=&b=&from_search=6)
+
+### Lesson Development 
+
+- The Common Fund Data Ecosystem: Introduction to R for RNA-Seq Analysis [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/R-for-RNA-Seq/)
+- The Common Fund Data Ecosystem: Introduction to UNIX for Cloud Computing [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/UNIX/)  
+- The Carpentries: Instructor Training [Lesson](https://carpentries.github.io/instructor-training/)
+- Data Carpentry: Data Analysis and Visualization in Python for Ecologists (Spanish)[Lesson](https://datacarpentry.org/python-ecology-lesson-es/index.html)
+- Software Carpentry: The Unix Shell (Spanish) [Lesson](https://swcarpentry.github.io/shell-novice-es/) 
+- Software Carpentry: Version Control with Git (Spanish) [Lesson](https://swcarpentry.github.io/git-novice-es/) 
+- Neural Systems & Behavior: Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module [Lesson](https://github.com/raynamharris/2014_NSBLabManual)
+
+

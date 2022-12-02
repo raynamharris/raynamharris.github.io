@@ -4,13 +4,17 @@ title: Contact
 description: How to contact me
 sitemap:
     priority: 0.7
-    lastmod: 2020-12-15
+    lastmod: 2022-12-01
     changefreq: yearly
 ---
 
 # Contact
 
-Email: [rayna.harris@gmail.com](rayna.harris@gmail.com)
+General email: [rayna.harris@gmail.com](mailto:rayna.harris@gmail.com)  
+
+LTCC email: [rharris2@mail.ltcc.edu](mailto:rharris2@mail.ltcc.edu) 
+
+UC Davis email: [rmharris@ucdavis.edu](mailto:rmharris@ucdavis.edu)
 
 GitHub: [raynamharris](https://github.com/raynamharris)
 

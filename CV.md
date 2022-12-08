@@ -10,6 +10,8 @@ sitemap:
 
 # Curriculum Vitae 
 
+_[Click here to view .pdf version online.](https://github.com/raynamharris/CV/blob/master/CV.pdf)_
+
 ## Education
 
 **The University of Texas at Austin.** B.S. Biochemistry, 2006  

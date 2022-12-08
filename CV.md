@@ -18,10 +18,11 @@ sitemap:
 
 ## Work Experience
 
-**Alpine Meadows Ski Resort** Parking Supervisor, Alpine Meadows, California, 2020   
-**Rock & Rose Nursery & Landscaping** Nursery Supervisor, Truckee, California, 2021  
-**The University of Texas at Austin** Laboratory Manager, Austin, Texas   
-**The University of Texas at Austin** Teaching Specialist, Austin, Texas
+**Lake Tahoe Community College** Adjunct Faculty, Southlake Tahoe, California, 2023
+**Alpine Meadows Ski Resort** Parking Supervisor, Alpine Meadows, California, 2020 - 2023   
+**Rock & Rose Nursery & Landscaping** Nursery Supervisor, Truckee, California, 2020 - 2021  
+**The University of Texas at Austin** Laboratory Manager, Austin, Texas, 2010 - 2012   
+**The University of Texas at Austin** Teaching Specialist, Austin, Texas, 2007 - 2010
 
 
 ## Honors and Awards
@@ -180,6 +181,7 @@ Amazon Web Services. [JOSE](https://jose.theoj.org/papers/10.21105/jose.00167/)
 
 ### Lead or Co-Lead Instructor 
 
+- Principles of Biology III (BIO 103), Lake Tahoe Community College (2023)
 - The Common Fund Data Ecosystem: Introduction to Amazon Web Services for Cloud Computing (2021-2022)
 - Software Carpentry and Data Carpentry, Instructor Training,  (2016 –
     present)

@@ -32,11 +32,11 @@ sitemap:
 <div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.21105/jose.00167" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
 
-<li> Charbonneau <i>et al.</i> 2021. The one with findable data. <a href="https://www.biorxiv.org/content/10.1101/2021.11.05.467504v1">Preprint.</a>
+<li> Charbonneau <i>et al.</i> 2021. The one with findable data. <a href="https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac105/6835135">Article.</a>
 
-<div style="display: inline" data-badge-type="4" data-doi="10.1101/2021.11.05.467504" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
+<div style="display: inline" data-badge-type="4" data-doi="10.1093/gigascience/giac105" data-hide-no-mentions="false" class="altmetric-embed" data-badge-popover='bottom'></div>
 
-<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1101/2021.11.05.467504" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
+<div style="display: inline" class="__dimensions_badge_embed__" data-doi="10.1093/gigascience/giac105" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_rectangle"></div>	
 
 
 <li> Farrar <i>et al.</i> 2021. The one with milk from parenting pigeons. <a href="https://www.sciencedirect.com/science/article/pii/S0016648021002331?via%3Dihub">Publication.</a>

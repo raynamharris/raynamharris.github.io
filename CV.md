@@ -45,13 +45,13 @@ _[Click here to view .pdf version online.](https://github.com/raynamharris/CV/bl
 
 ### Preprints
 
-1. Charbonneau AL, et al. (2021) Making Common Fund data more Findable: Catalyzing a Data Ecosystem. [bioRxiv 10.1101/2021.11.05.467504](https://www.biorxiv.org/content/10.1101/2021.11.05.467504v1) 
 1. **Harris RM**, Kao HY, Alarcón JM, Fenton AA, Hofmann HA (2020). Transcriptome analysis of hippocampal subfields identifies gene expression s associated with long-term active place avoidance memory
 [bioRxiv 2020.02.05.935759](https://www.biorxiv.org/content/10.1101/2020.02.05.935759v1)
 
 
 ### Peer Reviewed Publications
 
+1. Charbonneau AL, et al. (2022) Making Common Fund data more Findable: Catalyzing a Data Ecosystem. [GigaScience](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac105/6835135) 
 1. Parigi A, Lim MCW, Canchi S, Sanchez J, Walter J, **Harris RM**, Charbonneau A, Brown CT (2022). A virtual training module for introducing the use of
 Amazon Web Services. [JOSE](https://jose.theoj.org/papers/10.21105/jose.00167/)
 1. Farrar VS, **Harris RM**, Austin SH, Nava Ultreras BM, Booth AM, Angelier F,  Lang A, Feustel T, Lee C, Bond A, MacManes MD, Calisi RM (2022) Prolactin and prolactin receptor expression in the HPG axis and crop sac during parental care in both sexes of a biparental bird (*Columba livia*). [Gen. Comp. Endo.](https://www.sciencedirect.com/science/article/pii/S0016648021002331?via%3Dihub)

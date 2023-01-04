@@ -11,6 +11,7 @@ sitemap:
 # Scientific Posters
 
 
-![GRC](/images/2013_GRC.jpg)
+<img src="/images/2013_GRC.jpg" alt="Poster describing a research-based course" width="128" height="128">
 
-![SfN](/images/2014_SfN.jpg)
+
+<img src="/images/2014_SfN.jpg" alt="Poster describing the neural and molecular mechanisms associated with learning" width="128" height="128">

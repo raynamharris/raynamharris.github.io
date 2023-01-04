@@ -11,7 +11,15 @@ sitemap:
 # Scientific Posters
 
 
-<img src="/images/2013_GRC.jpg" alt="Poster describing a research-based course" width="800">
+
+## 2014
+
+<p><img src="/images/2014_SfN.jpg" alt="Poster describing the neural and molecular mechanisms associated with learning" width="100%">
+Poster describing the neural and molecular mechanisms associated with learning.</p>
+
+## 2013
+
+<p><img src="/images/2013_GRC.jpg" alt="Poster describing a research-based course" width="100%">Poster describing a research-based course.</p>
 
 
-<img src="/images/2014_SfN.jpg" alt="Poster describing the neural and molecular mechanisms associated with learning" width="100%" >
+

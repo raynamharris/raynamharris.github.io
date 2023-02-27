@@ -13,7 +13,7 @@ sitemap:
 
 ### Instructor 
 
-- Principles of Biology III (BIO-103-01), LTCC, 2023
+- Principles of Biology III (BIO-103-01), LTCC, 2023, [Lecture materials](https://osf.io/aq5ek/)
 - Introduction to R for RNA Sequencing Analysis, UC Davis, 2022,   [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/R-for-RNA-Seq/)
 - Introduction to AWS for Cloud Computing, UC Davis, 2022 [Lesson](https://training.nih-cfde.org/en/latest/Cloud-Platforms/Introduction-to-AWS/)
 - Introduction to UNIX for Cloud Computing, UC Davis, 2022 [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/UNIX/)    

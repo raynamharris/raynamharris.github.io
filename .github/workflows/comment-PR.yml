@@ -12,4 +12,4 @@ jobs:
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: |
-            Preview the PR at https://raynamharrisgithubio--{pr_number}.org.readthedocs.build/en/{pr_number}/
+            Preview the PR at https://raynamharrisgithubio--${pr_number}.org.readthedocs.build/en/${pr_number}/

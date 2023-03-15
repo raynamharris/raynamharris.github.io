@@ -1,0 +1,15 @@
+on: pull_request
+
+jobs:
+  example_comment_pr:
+    runs-on: ubuntu-latest
+    name: Add ReadTheDocs preview link to PR
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Comment PR
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: |
+            Preview the PR at https://raynamharrisgithubio--${{ github.event.number }}.org.readthedocs.build/en/${{ github.event.number }}/

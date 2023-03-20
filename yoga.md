@@ -8,11 +8,8 @@ sitemap:
     changefreq: monthly
 ---
 
-## Google Calendar of Events
 
-<iframe src="https://calendar.google.com/calendar/embed?src=raynaharrisyoga%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-## Calendly of Events
+## Schedule of Events
 
 
 <!-- Calendly inline widget begin -->

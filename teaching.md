@@ -13,6 +13,7 @@ sitemap:
 
 ### Instructor 
 
+- Outdoor Yoga, [Rayna Harris Yoga](https://www.raynamharris.com/paradigm-shift/), _Coming Spring 2024!_
 - Introduction to Cell and Molecular Biology, LTCC, Spring 2023
 - Organic Chemistry III Lab (CHM-223L), LTCC, Spring 2023
 - Principles of Biology III (BIO-103-01), LTCC, Winter 2023, [Lecture materials](https://osf.io/aq5ek/)

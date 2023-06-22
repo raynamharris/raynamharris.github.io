@@ -15,7 +15,7 @@ sitemap:
 
 - Outdoor Yoga, [Rayna Harris Yoga](https://www.raynamharris.com/paradigm-shift/), _Coming Spring 2024!_
 - Introduction to Cell and Molecular Biology, LTCC, Spring 2023, [Lecture materials](https://osf.io/tk9y8/)
-- Organic Chemistry III Lab (CHM-223L), LTCC, Spring 2023
+- Organic Chemistry III Lab (CHM-223L), LTCC, Spring 2023, [Lab materials](https://osf.io/qb2tu/)
 - Principles of Biology III (BIO-103-01), LTCC, Winter 2023, [Lecture materials](https://osf.io/aq5ek/)
 - Introduction to R for RNA Sequencing Analysis, UC Davis, 2022,   [Lesson](https://training.nih-cfde.org/en/latest/General-Tools/R-for-RNA-Seq/)
 - Introduction to AWS for Cloud Computing, UC Davis, 2022 [Lesson](https://training.nih-cfde.org/en/latest/Cloud-Platforms/Introduction-to-AWS/)
